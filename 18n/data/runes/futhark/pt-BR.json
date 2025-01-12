@@ -1,0 +1,128 @@
+{
+    "deck": "Runes",
+    "type": "runes",
+    "itemLabel": "rune",
+    "reversals": "yes",
+    "items": [
+        "Fehu",
+        "Uruz",
+        "Thurisaz",
+        "Ansuz",
+        "Raidho",
+        "Kenaz",
+        "Gebo",
+        "Wunjo",
+        "Hagalaz",
+        "Nauthiz",
+        "Isa",
+        "Jera",
+        "Eihwaz",
+        "Perthro",
+        "Algiz",
+        "Sowilo",
+        "Tiwaz",
+        "Berkano",
+        "Ehwaz",
+        "Mannaz",
+        "Laguz",
+        "Ingwaz",
+        "Dagaz",
+        "Othala"
+    ],
+    "Fehu": {
+        "upright": "Simboliza riqueza, prosperidade e as recompensas do trabalho árduo. Representa ganho material, sucesso e abundância, trazendo felicidade através de conquistas e renda conquistada.",
+        "reversed": "Indica perda potencial ou decepção. Alerta para frustrações, reveses financeiros ou planos que podem não se concretizar."
+    },
+    "Uruz": {
+        "upright": "Representa força primal, saúde física e vitalidade. Encarna resistência, coragem e o arquétipo masculino, sinalizando mudanças poderosas ou novos começos.",
+        "reversed": "Sugere oportunidades perdidas ou falta de motivação. Destaca vontade fraca, energia diminuída ou potencial não aproveitado."
+    },
+    "Thurisaz": {
+        "upright": "Um portal para novas possibilidades, oferecendo proteção e percepção. Incentiva uma consideração cuidadosa antes de agir e reflete o equilíbrio da sorte com as ações de uma pessoa.",
+        "reversed": "Alerta contra ignorar conselhos ou ser cabeça-dura. Pode indicar uma abordagem teimosa ou a recusa em aceitar a realidade."
+    },
+    "Ansuz": {
+        "upright": "Representa comunicação, sabedoria e inspiração divina. Sugere ouvir a si mesmo e aos outros, e considerar cuidadosamente os conselhos antes de tomar decisões.",
+        "reversed": "Indica engano, má comunicação ou falta de clareza. Pode revelar os aspectos mais sombrios de si mesmo ou confusão ao receber orientação."
+    },
+    "Raidho": {
+        "upright": "Simboliza uma jornada, seja física, espiritual ou emocional. Sugere progresso, cura ao longo do tempo e alinhamento com o caminho da vida.",
+        "reversed": "Indica interrupções inesperadas ou jornadas desagradáveis. Alerta para obstáculos em viagens ou planos sendo revertidos."
+    },
+    "Kenaz": {
+        "upright": "Representa a luz do conhecimento, criatividade e percepção. É um farol na escuridão, guiando a autodescoberta e a realização do potencial.",
+        "reversed": "Sugere retirada, medo ou perda. Pode indicar ansiedade, um recuo diante dos desafios ou se fechar para as oportunidades."
+    },
+    "Gebo": {
+        "upright": "Simboliza o dom da unidade, parcerias e harmonia. Representa trocas equilibradas, seja consigo mesmo, com os outros ou com forças espirituais superiores.",
+        "reversed": "Sem reversão. O símbolo mantém seu significado de unidade, enfatizando a importância da conexão e apoio mútuo."
+    },
+    "Wunjo": {
+        "upright": "Representa alegria, felicidade e realização. Significa paz, prazer e o sucesso na conclusão de metas, trazendo um senso de autoestima.",
+        "reversed": "Indica tristeza, insatisfação ou atrasos. Pode sugerir forças externas causando atritos, impedindo a obtenção da felicidade."
+    },
+    "Hagalaz": {
+        "upright": "Representa disrupção, caos e forças incontroláveis. Sinaliza um tempo de tumulto onde a destruição abre caminho para novos começos.",
+        "reversed": "Sem reversão. Esta runa simboliza consistentemente as forças caóticas que estão além do controle pessoal."
+    },
+    "Nauthiz": {
+        "upright": "Simboliza necessidade, restrições e desejos não realizados. Indica um tempo de dificuldade onde resistência e paciência são necessárias.",
+        "reversed": "Reflete temas semelhantes de necessidade e desejos não realizados, enfatizando a luta contra restrições ou necessidades não atendidas."
+    },
+    "Isa": {
+        "upright": "Representa imobilidade, estase e os desafios do gelo. Sugere um tempo de pausa, reflexão ou progresso congelado.",
+        "reversed": "Sem reversão. A runa representa consistentemente o conceito de imobilidade e condições geladas que retardam ou param o progresso."
+    },
+    "Jera": {
+        "upright": "Simboliza a colheita, recompensas e o ciclo natural da vida. Representa a realização dos esforços e os benefícios do trabalho árduo ao longo do tempo.",
+        "reversed": "Sem reversão. Esta runa continua a simbolizar a ideia de colheita e a natureza cíclica das recompensas e crescimento."
+    },
+    "Eihwaz": {
+        "upright": "Representa força, resiliência e resistência. Encarna estabilidade e o poder de suportar dificuldades.",
+        "reversed": "Sem reversão. Esta runa enfatiza consistentemente os temas de força e estabilidade, independentemente da orientação."
+    },
+    "Perthro": {
+        "upright": "Simboliza mistério, destino e o desconhecido. Representa as forças do destino, o conhecimento oculto e o desdobramento de segredos.",
+        "reversed": "Pode sugerir confusão, falta de clareza ou dificuldade em descobrir a verdade. Destaca as incertezas ou desafios em entender mistérios mais profundos."
+    },
+    "Algiz": {
+        "upright": "Representa proteção, defesa e santuário. É um escudo contra o mal, simbolizando a defesa do que mais se valoriza.",
+        "reversed": "Indica vulnerabilidade ou uma falha nas defesas. Pode sugerir a necessidade de uma maior vigilância ou o risco de perigo."
+    },
+    "Sowilo": {
+        "upright": "Simboliza sucesso, vitalidade e a energia vital do sol. Representa saúde, integridade e o triunfo da luz sobre as trevas.",
+        "reversed": "Sem reversão. Esta runa permanece um farol de sucesso e energia positiva, independentemente da orientação."
+    },
+    "Tiwaz": {
+        "upright": "Representa vitória, honra e justiça. Encarna o espírito guerreiro, o impulso pelo sucesso e a busca por causas justas.",
+        "reversed": "Pode indicar perda de motivação, desonra ou desafios à integridade. Alerta para retrocessos na busca por objetivos."
+    },
+    "Berkano": {
+        "upright": "Simboliza fertilidade, crescimento e novos começos. Representa o aspecto nutridor da criação, trazendo vida e sustento.",
+        "reversed": "Pode sugerir estagnação, infertilidade ou atraso no crescimento. Alerta para desafios potenciais ao nutrir ou criar algo novo."
+    },
+    "Ehwaz": {
+        "upright": "Representa confiança, parceria e cooperação. Simboliza o vínculo entre cavalo e cavaleiro, enfatizando o trabalho em equipe e o apoio mútuo.",
+        "reversed": "Indica desarmonia, desconfiança ou obstáculos em parcerias. Pode sugerir uma quebra na comunicação ou cooperação."
+    },
+    "Mannaz": {
+        "upright": "Simboliza a humanidade, autoconsciência e o apoio dos outros. Representa comunidade, colaboração e a condição humana.",
+        "reversed": "Pode sugerir isolamento, insegurança ou falta de apoio. Destaca os desafios de se desconectar de si mesmo ou dos outros."
+    },
+    "Laguz": {
+        "upright": "Representa água, intuição e o fluxo da vida. Simboliza a mente subconsciente, os mistérios do desconhecido e o potencial de crescimento.",
+        "reversed": "Pode indicar turbulência emocional, estagnação ou ser sobrecarregado pelo desconhecido. Alerta para o caos potencial ao navegar pelos fluxos da vida."
+    },
+    "Ingwaz": {
+        "upright": "Simboliza fertilidade, potencial e o surgimento de uma nova vida. Representa a semente da criação e a realização de possibilidades latentes.",
+        "reversed": "Sem reversão. Esta runa consistentemente simboliza a energia fértil e os começos de novos ciclos, independentemente da orientação."
+    },
+    "Dagaz": {
+        "upright": "Representa a aurora, ruptura e novos começos. Simboliza esperança, felicidade e o poder transformador da luz do dia.",
+        "reversed": "Sem reversão. Esta runa consistentemente reflete os temas de esperança e transformação associados à aurora."
+    },
+    "Othala": {
+        "upright": "Simboliza herança, tradição e sabedoria ancestral. Representa os valores transmitidos por gerações e a riqueza da família e do patrimônio.",
+        "reversed": "Pode indicar conflitos com a tradição, uma ruptura com a herança ou desafios em acessar a sabedoria ancestral. Alerta para uma possível desconexão das próprias raízes."
+    }
+}

@@ -1,0 +1,1842 @@
+{
+  "Celtic": {
+    "Aengus": {
+      "name": "Aengus",
+      "pantheon": "Celtic",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg/220px-Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg",
+        "alt": "Aengus, illustration by Beatrice Elvery in Violet Russell's Heroes of the Dawn (1914)"
+      },
+      "description": "The Aengus is the Irish god of poetry and love. Inspired and crafty, he inherited much of this guile and charm from his father, the Dagda. Aengus served as one of the chief bards of the Tuatha De Danann, a mighty tribe in Irish mythology.",
+      "history": "Aengus stems from the old Irish Oengus or Aonghus and is thought to mean \"One choice\" or \"One strength\". In Irish mythology, Aengus Og was one the the Tuatha De Danann and was often associated with love, youth, and poetic inspiration",
+      "titles": [ "Aengus", "God of Love" ],
+      "domains": [ "Love", "Beauty", "Youth", "Dreams", "Poetry", "Inspiration" ],
+      "symbols": [ "Swans", "Birds", "Harp", "X's" ],
+      "animals": [ "Songbirds", "Cats", "Sparrows", "Deer" ],
+      "correspondences": {
+        "Colors": [ "Green", "Pink", "Red" ],
+        "Gemstones": [ "Sapphire", "Tourmaline", "Ruby", "Jasper", "Rose Quartz", "Peridot" ],
+        "Plants": [ "Violets", "Cherry", "Basil", "Sycamore", "Birch", "Elder" ],
+        "Planet": [ "Venus" ],
+        "Element": [ "Air" ],
+        "Metal": [ "Copper" ]
+      },
+      "relations": {
+        "parents": [ "Dagda", "Boann" ],
+        "siblings": [ "Oghma", "Cermait" ],
+        "children": [ "Diarmuid Ua Duibhne" ],
+        "myth_events": [  ]
+      },
+      "attributes": [  ],
+      "myth_stories": [
+        {
+          "title": "The Dream of Aengus Og",
+          "summary": "Aengus has fallen in love with a young girl he has known only in his dreams. He is unable to eat as a result of his love-sickness and subsequently begins to waste away. His love interest turns out to be an actual person named Caer Ibormaith, the daughter of Ethal."
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [  ],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [ "Rivers", "Lakes", "Wells", "Seas", "Mountains", "Boulders", "Standing stones" ],
+      "worship": {
+        "Temples": [ "Dun Aonghasa" ],
+        "Festivals": [  ],
+        "Offerings": [ "Baked goods", "Milk", "Egg", "Wine", "Violets", "Roses" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Aine": {
+      "name": "Aine | Aine of Knockaine",
+      "pantheon": "Celtic",
+      "image": {
+        "url": "https://www.bing.com/th?id=OIP._GFio-IkkjzjP7aQDtk46QHaE8&w=312&h=200&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+        "alt": "Áine (Ir. \"brightness, glow, joy, radiance; splendor, glory, fame\")"
+      },
+      "description": "Aine of Knockaine is an Irish Celtic goddess associated with summer, wealth, sovereignty, love and fertility.",
+      "history": "The name Aine is an Irish feminine given name that means \"radiance\".",
+      "titles": [ "Aine", "Aine of Knockaine", "Cnock", "Feary Queen" ],
+      "domains": [ "Summer", "Wealth", "Love", "Fertility", "Sovereignty" ],
+      "symbols": [ "Grain", "Sun", "Red" ],
+      "animals": [ "Songbirds", "Rabbits", "Horses", "Swan" ],
+      "correspondences": {
+        "Colors": [ "Red", "Yellow", "Orange", "Gold", "Silver", "White" ],
+        "Gemstones": [ "Sunstone", "Moonstone", "Pearl", "Quartz", "Bloodstone" ],
+        "Plants": [ "Grain", "Onions", "Oak", "Hawthorn", "Meadowsweet" ],
+        "Planet": [ "Sun", "Moon" ],
+        "Element": [ "Earth", "Fire" ],
+        "Metal": [ "Gold", "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Egobail" ],
+        "siblings": [ "Aillen", "Fennen" ],
+        "children": [ "Eogan", "Gerald" ],
+        "myth_events": [  ]
+      },
+      "attributes": [  ],
+      "myth_stories": [
+        {
+          "title": "Assault by Ailill Aulom",
+          "summary": "Aine is associated with the semi-mythological King of Munster, Ailill Aulom, who assaulted Aine. The story explains that the King's nightly grass disappearance led him to visit Knockainy, where he assaulted the maiden, the altercation lead to Aine biting of Aulom's ear. Aine, and embodiment of sovereignty, removed Aulom's power, he soon  after perished from age. The descendants of Aulom claim Aine as an ancestor, and the lands around Cashel are associated with the name throughout history."
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [ 17 ],
+      "ritual_practices": [
+        {
+          "name": "Prayer and Invocation",
+          "instructions": "Lady Aine, bring joy to my life, help me by blessing the land, throughout your fires and light, blessed be."
+        }
+      ],
+      "sacred_locations": [  ],
+      "worship": {
+        "Temples": [ "Ring of the Rathanny " ],
+        "Festivals": [ "Midsummer", "Litha", "Summer Solstice" ],
+        "Offerings": [ "Milk", "Egg", "Blackberries", "Harp Music", "Easter Lillies", "Moon Water", "Fire" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Badb": {
+      "name": "Badb",
+      "pantheon": "Celtic",
+      "image": { 
+        "url": "https://www.mygodpictures.com/wp-content/uploads/2016/03/Badb-Goddess-Image-pd301.jpg", 
+        "alt": "In Irish mythology, the Badb (Old Irish, pronounced [baðβ]), or in modern Irish Badhbh (Irish pronunciation: [bˠəu], Munster Irish: [bˠəiw])—also meaning \"crow\""
+      },
+      "description": "In Celtic mythology, few figures are as intriguing and multifaceted as Badb, the goddess of war, death, and prophecy. Badb embodies the fearsome and foreboding aspect of battle, the inevitability of death, and the mysterious power of foresight. She ia also sometimes seen as one of the aspects of the Morrigan, who is sometimes viewed as a triple goddess",
+      "history": "The name Badb (Bahv of bawb) originates from the Old Irish word for crow or raven, reflecting her association with these birds, which are often seen on battlefeilds. The connection between Badb and these birds symbolizes no only death but also the transition of the soul and the goddess's role as a harbinger of doom. Dadb is part of the Tuatha De Danann, and she is often mentioned in conjunction with her sisters, Macha and Morrigan, forming a trinity know as the Morrigna.",
+      "titles": [ "Goddess of Death", "Goddess of Foresight", "Badb" ],
+      "domains": [ "Death", "Prophecy", "Foresight", "Fate", "Chaos", "War", "Afterlife" ],
+      "symbols": [ "Cross of Badb" ],
+      "animals": [ "Crow", "Raven", "Wolf" ],
+      "correspondences": {
+        "Colors": [ "Blood Red" ],
+        "Gemstones": [ "Carnelian", "Black Tourmaline", "Black Obsidian", "Onyx", "Opal", "Amethyst", "Citrine" ],
+        "Plants": [ "Blackthorn", "Wormwood" ],
+        "Planet": [ "Mars" ],
+        "Element": [ "Aether", "Fire" ],
+        "Metal": [  ]
+      },
+      "relations": {
+        "parents": [ "Ernmas" ],
+        "siblings": [ "Eriu", "Fodla", "Banba", "Glonn", "Gnim", "Coscar", "Fiacha", "Ollom" ],
+        "children": [  ],
+        "myth_events": [  ]
+      },
+      "attributes": [ "Influencing the outcome of wars", "Weaving the fate of soldiers" ],
+      "myth_stories": [ 
+        { 
+          "title": "", 
+          "summary": "" 
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [ 3 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Protection Ritual", 
+          "instructions": "Begin by cleansing your sacred space, then light a black or red candle. As the candle burns, call upon her for protection. Speak words of evocation, asking here to stand by your side and shield you from harm. As you speak, picture her energy surrounding you with strength and protection." 
+        }
+      ],
+      "sacred_locations": [ "Da Chich na Morrigna", "Fulacht na Mor Rioghna", "Rivers" ],
+      "worship": {
+        "Temples": [  ],
+        "Festivals": [ "Samhain", "Honoring fallen solders" ],
+        "Offerings": [ "Apples", "Dark Red Wine" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Brigid": {
+      "name": "Brigid",
+      "pantheon": "Celtic",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cong_St._Mary_of_the_Rosary_Window_St._Brigid_Detail_St._Brigid_holding_her_Lamp_II_2019_09_04.jpg/220px-Cong_St._Mary_of_the_Rosary_Window_St._Brigid_Detail_St._Brigid_holding_her_Lamp_II_2019_09_04.jpg", 
+        "alt": "Saint Brigid of Ireland in stained glass at St Mary of the Rosary Church in Cong, Ireland"
+      },
+      "description": "Brigid was a member of the Tuatha Dé Danann, an ancient mythical race of fairies. She was the daughter of the Dagda and wife of Bres, with whom she had a son named Ruadán. Her sacred tree was the birch. Brigid is the traditional patroness of healing, poetry and smithcraft, which are all practical and inspired wisdom. As a solar deity Her attributes are light, inspiration and all skills associated with fire. Although She might not be identified with the physical Sun, She is certainly the benefactress of inner healing and vital energy.",
+      "history": "The name Brigid comes from the Proto-Celtic word Briganti, which means \"the High One\" or \"the Exalted One\". It is also related to the English word \"bright\". Brigid was a pre-Christian goddess associated with healing, poetry, smithing, and domesticated animals. She was also the goddess of spring, fertility, and life. Brigid was a member of the Tuatha Dé Danann, a mythical race of fairies, and was the wife of High King Bres. Her feast day was Imbolc, a pagan festival that marked the end of winter and the beginning of spring",
+      "titles": [ "St. Brigid", "Brigid" ],
+      "domains": [ "Healing", "Fire", "Poetry", "Music", "Fertility", "Protection", "Smithing" ],
+      "symbols": [ "Anvil on Wheat Ears", "Brigids Cross" ],
+      "animals": [ "Awes", "Ambs" ],
+      "correspondences": {
+        "Colors": [ "White", "Scarlet Red", "Blue", "Green" ],
+        "Gemstones": [ "Agate", "Amethyst" ],
+        "Plants": [ "Dandelion", "Wheat", "Oak" ],
+        "Planet": [ "Venus" ],
+        "Element": [ "Fire", "Water" ],
+        "Metal": [ "Brass", "Silver", "Copper" ]
+      },
+      "relations": {
+        "parents": [ "Broicsech", "Dagda" ],
+        "siblings": [  ],
+        "children": [ "Ruadan" ],
+        "myth_events": [  ]
+      },
+      "attributes": [  ],
+      "myth_stories": [ 
+        { 
+          "title": "The Legend of the Fox", 
+          "summary": "A king trained a wild fox to perform tricks, but a man killed it by mistake. The king sentenced the man to death, but Brigid brought a wild fox to the king that performed just as well. The king released the man, and the fox escaped and returned to the wild." 
+        },
+        {
+          "title": "The Legend of Brigid's Cloak",
+          "summary": "A parable about Brigid's cloak spreading over the Curragh of Kildare. The blessing \"Brat Bride Ort\" (The cloak of Brigid upon you) is used in Ireland to invoke Brigid's protection."
+        },
+        {
+          "title": "The Perpetual Flame",
+          "summary": "In pre-Christian times, Brigid and her nuns kept a flame burning in Kildare until the 16th centry."
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [ 9 ],
+      "ritual_practices": [ 
+        { 
+          "name": "", 
+          "instructions": "" 
+        }
+      ],
+      "sacred_locations": [ "Brigid's Garden", "Brigids Holly Well" ],
+      "worship": {
+        "Temples": [ "Solas Bhride Centre", "Brigids Fire Temple" ],
+        "Festivals": [ "Imbolic", "Febuary 1st", "Febuary 13th" ],
+        "Offerings": [ "Blackberries", "Poetry", "Graines", "Meats", "Wheat" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Cernunnos": {
+      "name": "Cernunnos",
+      "pantheon": "Celtic",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gundestrupkedlen-_00054_%28cropped%29.jpg/300px-Gundestrupkedlen-_00054_%28cropped%29.jpg", 
+        "alt": "The Cernunnos-type antlered figure or horned god, on the Gundestrup Cauldron, on display, at the National Museum of Denmark in Copenhagen"
+      },
+      "description": "Cernunnos is a Celtic god of nature, fertility, and animals, often depicted with antlers, and a shaggy beard wearing a torque and a sacred neck ornament. He is sometimes shown with a stag or a sacred ram-horned serpent.",
+      "history": "Cernunnos dates back to at least the first centry BCS and was worshipped in Gaul, which is now France, parts of Germany, Italy, abd Belgium. He was also worshipped in Britain and there are some traces of this cult in Ireland.",
+      "titles": [ "The Horned One", "Lord of the Animals", "Lord of the Wild Things" ],
+      "domains": [ "Nature", "Fertility", "Animals" ],
+      "symbols": [ "Horned God Moon", "Horns", "Torque's" ],
+      "animals": [ "Stag", "Ram-horned Snakes", "Bull", "Dog", "Rat" ],
+      "correspondences": {
+        "Colors": [ "Green", "Gold", "Silver" ],
+        "Gemstones": [ "Peridot", "Amber", "Jet", "Rock Crystal" ],
+        "Plants": [ "Ivy", "Mistletoe", "Oak", "Juniper", "Valerain" ],
+        "Planet": [ "Mercury" ],
+        "Element": [ "Earth" ],
+        "Metal": [ "Copper", "Silver", "Bronze" ]
+      },
+      "relations": {
+        "parents": [ "Anu" ],
+        "siblings": [  ],
+        "children": [  ],
+        "myth_events": [  ]
+      },
+      "attributes": [  ],
+      "myth_stories": [ 
+        {
+          "title": "",
+          "summary": ""
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [ 6 ],
+      "ritual_practices": [ 
+        { 
+          "name": "", 
+          "instructions": "" 
+        }
+      ],
+      "sacred_locations": [  ],
+      "worship": {
+        "Temples": [ "Shrines across Great Britain" ],
+        "Festivals": [ "The Cernunnos Pagan Fest" ],
+        "Offerings": [ "Acorn", "Mistletoe", "Oak", "Leaves", "Fruit", "Graines" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Chailleach": {
+      "name": "Chailleach",
+      "pantheon": "Celtic",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg/220px-Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg",
+        "alt": "Illustration by John Duncan in Wonder Tales from Scottish Myth and Legend (1917)"
+      },
+      "description": "The Cailleach is the one who bring the frost, the one who sends the world into winter, but this is indicative of a bigger theme. She rules over transformation, the cycles of death and rebirth, overcoming fear, darkness, and silence.",
+      "history": "The Cailleach's name and the name of her companion, the Bodach, are attached to features in the landscape. For example, the snow encricling a munro is said to be the Cailleach's petticoat, and the long line of snow down here companion mountain is said to be the Bodach's beard.",
+      "titles": [ "The Hag of Beara", "The Storm Hag", "Nighean", "Cailleach Bheara", "Burach", "Bui", "Milucra", "digdi", "Caillin", "Veiled One", "Caillech" ],
+      "domains": [ "Death", "Winter", "Transformation", "Rebirth", "Cycles" ],
+      "symbols": [ "The Cauldron of Allta", "Rising Goddess Glyph", "Wolves", "Doe", "Ravens", "Falling Holly", "Storms", "Blizzards" ],
+      "animals": [ "Wolves", "Dear", "Boars" ],
+      "correspondences": {
+        "Colors": [ "Cold Tones" ],
+        "Gemstones": [ "Black Tourmaline", "Obsidian" ],
+        "Plants": [ "Holly", "Gorse", "Turnips" ],
+        "Planet": [  ],
+        "Element": [ "Air", "Water" ],
+        "Metal": [ "Copper" ]
+      },
+      "relations": {
+        "parents": [ "Tinne Thortbhuilli" ],
+        "siblings": [ "Cailleach Dhuibhne", "Cailleach Bolus" ],
+        "children": [ "Angus", "Nighean" ],
+        "myth_events": [  ]
+      },
+      "attributes": [  ],
+      "myth_stories": [
+        {
+          "title": "The Great Mother",
+          "summary": "Cailleach is credited with creating numerous stones, including a Cailleach stone on Gigha and many Callanais stones on the Isle of Lewis. Loch Awe, located on the banks of Ben Cruachan, is a famous example of her creation. The story is that a well on the summit od Ben Cruachan was covered by a heavy stone slab, which was replaced by the Cailleach. The Loch Awe is now the fertile Vale of Temple. The House of the Cailleach, Taigh na Cailleach, is a shrine to the goddess, with a ritual held twice a year at Beltane and Samhain."
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [ 3, 5, 13, 17 ],
+      "ritual_practices": [
+        {
+          "name": "Saining with the Spitit of Winter",
+          "instructions": "Saining is a method of purification with snow or storm water using a spring of juniper, pine or spruce to flick the water about while saying \"I cleanse the space with the energy of winter, freezing out all harms, and protecting all within through her icy shield.\""
+        }
+      ],
+      "sacred_locations": [ "Rivers", "Lakes", "Wells", "Seas", "Mountains", "Boulders", "Standing stones" ],
+      "worship": {
+        "Temples": [ "Taigh na Cailleach" ],
+        "Festivals": [ "Gyros Festival" ],
+        "Offerings": [ "Wolves Statues", "Holly", "Gorse", "Turnips" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Dagda": {
+      "name": "Dagda",
+      "pantheon": "Celtic",
+      "image": {
+        "url": "https://oldworldgods.com/wp-content/uploads/2023/09/dagda1.jpg",
+        "alt": "The Dagda (Old Irish: In Dagda [ˈdaɣða], Irish: An Daghdha)"
+      },
+      "description": "The Dagda is one of the most important gods in Celtic mythology. He appears as a multi-talented warrior-leader of the Tuatha De Dannan. With his mighty club, inexhaustible cauldron, and great talent playing the harp, the dagda was a universal god in Irish mythology considered to dwell in many places including at Newgrange. As his warrior character, the Dagda is killed by Caitlin, queen of the Fomorians.",
+      "history": "The name Dagda means \"the good god\". He was also know by other names, including Eochaid Ollathair, Ruad Rofhessa, and Deirgderc. The Dagda is considered the great god of irish mythology. He is the cheif god of the Tuatha De Danann, with the Dagda portrayed as a father-figure, king, and druid.",
+      "titles": [ "Eochu or Eochaid", "Ruad Rofhessa", "Daire", "Aed", "Fer Benn" ],
+      "domains": [ "Agriculture", "Fertility", "Magic", "Druidry", "Nature", "Seasons", "Life", "Death" ],
+      "symbols": [ "Cauldron", "Harp", "Club", "Pigs", "Sun" ],
+      "animals": [ "Pigs" ],
+      "correspondences": {
+        "Colors": [ "Deep Purple", "Green" ],
+        "Gemstones": [ "Green Tourmaline", "Green Stones" ],
+        "Plants": [ "Apple", "Sage", "Burdock", "Verbena" ],
+        "Planet": [ "Sun" ],
+        "Element": [ "Earth" ],
+        "Metal": [ "Nickel" ]
+      },
+      "relations": {
+        "parents": [ "Ethniu", "Badurn", "Elatha" ],
+        "siblings": [ "Nuada", "Oghma" ],
+        "children": [ "Brigit", "Cermait", "Aengus", "Angus Og", "Aed", "Midir" ],
+        "myth_events": [  ]
+      },
+      "attributes": [  ],
+      "myth_stories": [
+        {
+          "title": "The Restoration of Natural Order",
+          "summary": "The Dagda used his harp to restore natural oder and bring peace to a warring tribe."
+        },
+        {
+          "title": "The Birth of Aengus",
+          "summary": "The Dagda had an affair with Boann, who was married to Elcmar. To hide the pregnancy, the Dagda cast a spell to make the sun stand still so that Elcmar wouldn't notice the passage of time. Boann gave birth to Aengus, the god of love and poetry."
+        },
+        {
+          "title": "The Challenge of the Fomorians",
+          "summary": "The Dagda was challenged by the Fomorians to eat a large amount of porridge from his magical cauldron."
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [ 3, 5, 13, 17 ],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [ "Lakes", "Mounds" ],
+      "worship": {
+        "Temples": [ "The Horse Temple" ],
+        "Festivals": [ "Samhain Eve" ],
+        "Offerings": [ "Oat Bannocks", "Porridge", "Ale", "Butter" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Danu": {
+      "name": "Danu",
+      "pantheon": "Celtic",
+      "image": {
+        "url": "https://www.maxinemillerstudios.com/wp-content/uploads/2016/01/9danu.jpg",
+        "alt": "Artistic Depiction from Maxine Miller Studios"
+      },
+      "description": "Danu is an earth goddess, mother of the Tuatha Dé Danann, and a goddess of fertility, wisdom, and wind. She is often depicted as a nurturing figure, and is associated with symbols like crowns and keys. The Tuatha Dé Danann are the Irish gods who may be considered to be extensions of Danu, or as distinct individuals.",
+      "history": "Danu's name may come from the same proto-Indo-European root word as the Danube River, Europe's second longest river, or the Vedic water goddess Danu.",
+      "titles": [ "Mother" ],
+      "domains": [ "Earth", "Wisdom", "Fertility", "Wind" ],
+      "symbols": [ "Keys", "Wind", "Flowing Water" ],
+      "animals": [ "Fish", "Seagulls", "Horses" ],
+      "correspondences": {
+        "Colors": [ "Blue", "Green" ],
+        "Gemstones": [ "Sapphire", "Peridot" , "Carnelian", "Topaz", "Amber", "Lapis Lazuli", "Amethyst"],
+        "Plants": [  ],
+        "Planet": [ "Earth" ],
+        "Element": [ "Air", "Earth", "Water" ],
+        "Metal": [  ]
+      },
+      "relations": {
+        "parents": [  ],
+        "siblings": [  ],
+        "children": [ "Tuatha De Danann", "Nemedians", "Forbolgs" ],
+        "myth_events": [  ]
+      },
+      "attributes": [ "Motherhood", "Agricultural Prosperity" ],
+      "myth_stories": [
+        {
+          "title": "Danu and Bile",
+          "summary": "Danu nurtured Bile, the god of light and healing, in a sacred oak tree. Their union resulted in the birth of Daghdha"
+        },
+        {
+          "title": "Danu and the Fomorians",
+          "summary": "The Tuatha De Danann were banished from Ireland by the Fomorians a group of monstrous beings. Danu gave the Tuatha De Danann the knowledge and powers they needed to defeat the Formorians and replaim Ireland"
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [ 3 ],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [ "The Moon", "Rivers", "Paps of Anu" ],
+      "worship": {
+        "Temples": [  ],
+        "Festivals": [ "Day of Danu (Jan 18th)" ],
+        "Offerings": [ "Water", "Fish", "White Candles" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    },
+    "Macha": {
+      "name": "Macha",
+      "pantheon": "Celtic",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Macha.jpg/220px-Macha.jpg",
+        "alt": "\"Macha Curses the Men of Ulster\", Stephen Reid's illustration from Eleanor Hull's The Boys' Cuchulainn (1904)"
+      },
+      "description": "Macha was worshipped in Celtic Ireland beginnig around 600 B.C.E Macha is a Celtic goddes of was, fertility, and the earth associated with the province of Ulster in Ireland. Macha is considere to be on spect of the greater goddess of war and death, Morrigan, along with her sisters Badb and Anu.",
+      "history": "Celtic war goddess Macha's name is translated from irish as \"Field\" or \"Plain\". In Scottish Gaelic, it means a type of fertile, grassy plain known as a \"Machar\". ",
+      "titles": [ "Phantom Queen", "Great Queen" ],
+      "domains": [ "Protection", "Fertility", "Sovereignty" ],
+      "symbols": [ "Fire", "Red", "Acorn" ],
+      "animals": [ "Horses", "Raven", "Crow" ],
+      "correspondences": {
+        "Colors": [ "Red", "Dark Brown" ],
+        "Gemstones": [ "Garnet", "Citrine", "Clear Quartz" ],
+        "Plants": [ "Vervain", "Oat", "Coltsfoot", "Acorns", "Apples" ],
+        "Planet": [ "Moon" ],
+        "Element": [  ],
+        "Metal": [ "Silver", "Bronze" ]
+      },
+      "relations": {
+        "parents": [ "Ernmas", "Delbeath" ],
+        "siblings": [ "Badb", "Morigu", "Anu" ],
+        "children": [ "Fail", "Fir" ],
+        "myth_events": [  ]
+      },
+      "attributes": [  ],
+      "myth_stories": [
+        {
+          "title": "The Race of Macha",
+          "summary": "Macha is best known for the race she won while pregnant against the king of Ulster's chariot. She won the race, gave birth to twins, and cursed the men of Ulster with labor pains during times of need."
+        }
+      ],
+      "modern_references": [  ],
+      "sacred_numbers": [  ],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [  ],
+      "worship": {
+        "Temples": [ "Armagh", "Navan Fort" ],
+        "Festivals": [ "Macha Alive" ],
+        "Offerings": [ "Acorn", "Statues of Ravens" ]
+      },
+      "footer": "Credit: Data provided by Zephyr_Fox"
+    }
+  },
+  "Greek": {
+    "Aphrodite": {
+      "name": "Aphrodite",
+      "pantheon": "Greek",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cnidus_Aphrodite_Altemps_Inv8619.jpg/220px-Cnidus_Aphrodite_Altemps_Inv8619.jpg",
+        "alt": "The Ludovisi Cnidian Aphrodite, Roman marble copy (torso and thighs) with restored head, arms, legs and drapery support"
+      },
+      "description": "Aphrodite is the Greek goddess of love, beauty, desire, and fertility. She is often depicted as a figure of incredible beauty, exuding charm and allure. Her influence extends over the realm of romantic relationships, sexual attraction, and emotional connections.",
+      "history": "Aphrodite's origins are tied to both the myths of the Greek pantheon and ancient traditions. Some myths suggest she was born from the sea foam when Uranus' severed genitals were cast into the ocean by his son Cronus. Her beauty was so extraordinary that she caused the gods and mortals alike to fall in love with her.",
+      "titles": [ "Goddess of Love", "Goddess of Beauty", "Lady of Cythera", "Sea-born" ],
+      "domains": [ "Love", "Beauty", "Desire", "Fertility", "Sexuality" ],
+      "symbols": [ "Dove", "Rose", "Seashell", "Mirror", "Apple" ],
+      "animals": [ "Dove", "Swan", "Goose" ],
+      "correspondences": {
+        "Colors": [ "Pink", "Red" ],
+        "Gemstones": [ "Rose Quartz", "Diamond" ],
+        "Plants": [ "Myrtle", "Rose", "Apple Tree" ],
+        "Planet": [ "Venus" ],
+        "Element": [ "Water" ],
+        "Metal": [ "Copper" ]
+      },
+      "relations": {
+        "parents": [ "Uranus", "Dione" ],
+        "siblings": [ "Eros", "Hebe", "Ares" ],
+        "children": [ "Eros", "Harmonia", "Aeneas" ],
+        "myth_events": [ "The Judgement of Paris", "Aphrodite's Affair with Ares" ]
+      },
+      "attributes": [ "Beauty", "Charm", "Love", "Compassion", "Sexuality" ],
+      "myth_stories": [
+        {
+          "title": "The Judgement of Paris",
+          "summary": "The Trojan prince Paris was tasked with choosing the fairest goddess among Hera, Athena, and Aphrodite. Aphrodite offered him the love of the most beautiful mortal woman, Helen, leading to the Trojan War."
+        },
+        {
+          "title": "Aphrodite and Adonis",
+          "summary": "Aphrodite fell deeply in love with the handsome youth Adonis. After his tragic death, Aphrodite's grief transformed into a seasonal cycle of growth and decay, symbolizing the eternal cycle of life and death."
+        }
+      ],
+      "modern_references": [ "Aphrodite's symbolism is often used in modern art and literature to represent love and beauty. She also appears in various films, books, and songs about love and romantic relationships." ],
+      "sacred_numbers": [ 5, 6 ],
+      "ritual_practices": [
+        {
+          "name": "Love and Beauty Ritual",
+          "instructions": "To honor Aphrodite, light pink or red candles and place rose petals around an altar. Offer up a prayer or chant focusing on self-love, beauty, and relationships. Offer a rose as a symbol of devotion."
+        }
+      ],
+      "sacred_locations": [ "Cyprus", "Cythera", "Paphos" ],
+      "worship": {
+        "Temples": [ "Temple of Aphrodite in Paphos", "Temple of Aphrodite in Corinth" ],
+        "Festivals": [ "Aphrodisia", "Veneralia" ],
+        "Offerings": [ "Roses", "Honey", "Perfumes", "Mirrors" ]
+      }
+    },
+    "Apollo": {
+      "name": "Apollo",
+      "pantheon": "Greek",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/220px-Italy-3104_-_Apollo_%285378415112%29.jpg",
+        "alt": "Apollo Belvedere, c. 120–140 CE"
+      },
+      "description": "Apollo is the Greek god of the Sun, music, poetry, prophecy, medicine, and archery. Often depicted as a handsome, youthful god with a lyre, he is the ideal of the kouros—youthful beauty and athleticism. Apollo embodies rational thought, artistic expression, and healing.",
+      "history": "Apollo was the son of Zeus and the Titaness Leto, born on the island of Delos. He is a central figure in Greek mythology, known for his many roles, including being the god of the Sun, whose chariot pulled the Sun across the sky, and the leader of the Muses, who inspired creativity in the arts.",
+      "titles": [ "God of the Sun", "God of Music", "God of Prophecy", "Healer", "Archer" ],
+      "domains": [ "Sun", "Music", "Prophecy", "Healing", "Archery" ],
+      "symbols": [ "Lyre", "Laurel Wreath", "Bow and Arrow", "Raven", "Sun" ],
+      "animals": [ "Dolphin", "Crow", "Wolf" ],
+      "correspondences": {
+        "Colors": [ "Gold", "Yellow" ],
+        "Gemstones": [ "Amber", "Topaz" ],
+        "Plants": [ "Laurel", "Bay", "Olive Tree" ],
+        "Planet": [ "Sun" ],
+        "Element": [ "Fire" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Zeus", "Leto" ],
+        "siblings": [ "Artemis" ],
+        "children": [ "Asclepius", "Orpheus", "Troilus" ],
+        "myth_events": [ "The Slaying of Python", "Apollo and Daphne", "Apollo and the Muses" ]
+      },
+      "attributes": [ "Music", "Healing", "Light", "Poetry", "Archery" ],
+      "myth_stories": [
+        {
+          "title": "The Slaying of Python",
+          "summary": "Apollo, seeking to avenge his mother Leto, slew the monstrous serpent Python that had been sent to chase her. This event symbolized Apollo’s victory over darkness and chaos, establishing him as a god of order and light."
+        },
+        {
+          "title": "Apollo and Daphne",
+          "summary": "Apollo, struck by Cupid's arrow, fell in love with the nymph Daphne. However, she rejected his advances and fled. To escape Apollo’s pursuit, Daphne was transformed into a laurel tree, which became sacred to Apollo."
+        }
+      ],
+      "modern_references": [ "Apollo is frequently referenced in modern music, literature, and films, symbolizing artistic expression, light, and truth. He often appears as a figure of inspiration in creative works." ],
+      "sacred_numbers": [ 7, 9 ],
+      "ritual_practices": [
+        {
+          "name": "Lyre Music Offering",
+          "instructions": "To honor Apollo, play music on a lyre or stringed instrument. This can be done alone or with others, as music was a key component of his worship. Offer a laurel branch or wreath as a symbol of dedication to Apollo."
+        }
+      ],
+      "sacred_locations": [ "Delphi", "Delos", "Delphi Temple" ],
+      "worship": {
+        "Temples": [ "Temple of Apollo at Delphi", "Temple of Apollo at Delos" ],
+        "Festivals": [ "Pythian Games", "Delphinia" ],
+        "Offerings": [ "Laurel Wreaths", "Music Performances", "Doves" ]
+      }
+    },
+    "Artemis": {
+      "name": "Artemis",
+      "pantheon": "Greek",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg/220px-Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg",
+        "alt": "The Diana of Versailles, a Roman copy of a Greek sculpture by Leochares"
+      },
+      "description": "Artemis is the Greek goddess of the hunt, wilderness, moon, and childbirth. Known for her independence and fierce nature, she is often depicted carrying a bow and accompanied by wild animals. Artemis is also a protector of young girls and a patron of women in childbirth.",
+      "history": "Artemis is the daughter of Zeus and Leto, and the twin sister of Apollo. Her birth was said to take place on the island of Ortygia, where she helped her mother deliver Apollo shortly after her own birth. Artemis vowed to remain a maiden forever and is revered for her chastity and connection to the untamed natural world.",
+      "titles": [ "Goddess of the Hunt", "Lady of Wild Things", "Goddess of the Moon", "Protector of Maidens" ],
+      "domains": [ "Hunt", "Wilderness", "Moon", "Childbirth", "Chastity" ],
+      "symbols": [ "Bow and Arrow", "Crescent Moon", "Deer", "Quiver" ],
+      "animals": [ "Deer", "Bear", "Hare" ],
+      "correspondences": {
+        "Colors": [ "Silver", "Green" ],
+        "Gemstones": [ "Moonstone", "Quartz" ],
+        "Plants": [ "Cypress", "Willow", "Amaranth" ],
+        "Planet": [ "Moon" ],
+        "Element": [ "Earth", "Water" ],
+        "Metal": [ "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Zeus", "Leto" ],
+        "siblings": [ "Apollo" ],
+        "children": [ "None (maiden goddess)" ],
+        "myth_events": [ "The Calydonian Boar Hunt", "Niobe's Punishment", "Actaeon's Transformation" ]
+      },
+      "attributes": [ "Independence", "Wildness", "Compassion", "Focus", "Strength" ],
+      "myth_stories": [
+        {
+          "title": "The Calydonian Boar Hunt",
+          "summary": "Artemis, angered by King Oeneus for neglecting her in a sacrifice, sent a monstrous boar to ravage Calydon. Many heroes joined the hunt, including Atalanta, who Artemis favored for her skill and devotion."
+        },
+        {
+          "title": "Niobe's Punishment",
+          "summary": "Niobe insulted Leto, boasting of her superior number of children. In retaliation, Artemis and Apollo killed all of Niobe's children, showcasing their fierce loyalty to their mother."
+        },
+        {
+          "title": "Actaeon's Transformation",
+          "summary": "The hunter Actaeon stumbled upon Artemis bathing. As punishment for his transgression, she transformed him into a stag, and he was torn apart by his own hunting dogs."
+        }
+      ],
+      "modern_references": [ "Artemis often appears in modern feminist movements as a symbol of strength, independence, and protection of nature. She also features prominently in literature, films, and games exploring themes of wilderness and the moon." ],
+      "sacred_numbers": [ 3, 7 ],
+      "ritual_practices": [
+        {
+          "name": "Moonlit Offering",
+          "instructions": "Under the light of a crescent moon, light a silver or white candle and place offerings of fruits or nuts. Recite a prayer of thanks for Artemis's guidance and protection."
+        }
+      ],
+      "sacred_locations": [ "Delos", "Brauron", "Mount Taygetos" ],
+      "worship": {
+        "Temples": [ "Temple of Artemis at Ephesus", "Temple of Artemis at Brauron" ],
+        "Festivals": [ "Artemisia", "Brauronia" ],
+        "Offerings": [ "Wildflowers", "Animal Figurines", "Honey Cakes" ]
+      }
+    },
+    "Athena": { 
+      "name": "Athena",
+      "pantheon": "Greek",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/220px-Mattei_Athena_Louvre_Ma530_n2.jpg", 
+        "alt": "Mattei Athena at Louvre. Roman copy from the 1st century BC/AD after the Greek original Piraeus Athena of the 4th century BC attributed to Cephisodotos or Euphranor." 
+      },
+      "description": "Athena is the goddess of wisdom, war strategy, and crafts, celebrated for her intelligence, justice, and skill in battle.",
+      "history": "Athena, born from the head of Zeus fully armed, represents the intellectual and strategic aspects of war, in contrast to the chaotic and violent nature of Ares. She is one of the twelve Olympian gods and is revered for her role as a protector of cities, especially Athens, which is named in her honor.",
+      "titles": [ "Pallas Athena", "Goddess of Wisdom", "Protector of Cities", "Virgin Goddess" ],
+      "domains": [ "Wisdom", "Strategy", "Craftsmanship", "War" ],
+      "symbols": [ "Owl", "Olive Tree", "Aegis", "Helmet", "Spear" ],
+      "animals": [ "Owl", "Snake" ],
+      "correspondences": {
+        "Colors": [ "Silver", "Gold" ],
+        "Gemstones": [ "Sapphire", "Amethyst" ],
+        "Plants": [ "Olive Tree", "Laurel" ],
+        "Planet": [ "Mercury" ],
+        "Element": [ "Air" ],
+        "Metal": [ "Bronze" ]
+      },
+      "relations": {
+        "parents": [ "Zeus (Father)", "Metis (Mother, in some versions)" ],
+        "siblings": [ "Ares", "Apollo", "Artemis", "Hermes", "Dionysus", "Hebe" ],
+        "children": [ "None (virgin goddess)" ],
+        "myth_events": [ "Birth from Zeus's Head", "Contest for Athens against Poseidon", "Aid in the Trojan War" ]
+      },
+      "attributes": [ "Wisdom", "Strategic Warfare", "Craftsmanship", "Justice" ],
+      "myth_stories": [ 
+        { 
+          "title": "The Birth of Athena", 
+          "summary": "Athena was born fully grown and armored from Zeus's head after he swallowed her pregnant mother, Metis, to prevent a prophecy of being overthrown by his child."
+        },
+        { 
+          "title": "The Contest for Athens", 
+          "summary": "Athena competed with Poseidon for patronage of the city. She gifted the olive tree, symbolizing peace and prosperity, securing her place as the city's protector."
+        },
+        { 
+          "title": "Athena and the Trojan War", 
+          "summary": "Athena supported the Greeks in the Trojan War, providing wisdom and strategy that led to their victory."
+        }
+      ],
+      "modern_references": [ 
+        "Athena is frequently depicted in Western art and literature as a symbol of wisdom and justice.",
+        "Her image is used in modern academic institutions, including the seal of the University of Athens."
+      ],
+      "sacred_numbers": [ 3, 7 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Offering of Olive Oil", 
+          "instructions": "Present olive oil and branches at her altar to honor her role as the bringer of the olive tree."
+        },
+        { 
+          "name": "Panathenaic Games", 
+          "instructions": "Celebrate Athena with athletic and artistic competitions, music, and sacrifices during her sacred festival."
+        }
+      ],
+      "sacred_locations": [ "Athens", "Parthenon" ],
+      "worship": {
+        "Temples": [ "Parthenon", "Temple of Athena Nike" ],
+        "Festivals": [ "Panathenaia" ],
+        "Offerings": [ "Olive oil, statues, armor, and woven peplos" ]
+      }
+    },
+    "Hades": {
+      "name": "Hades",
+      "pantheon": "Greek",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Detail_of_Pluto-Serapis%2C_Statue_group_of_Persephone_%28as_Isis%29_and_Pluto_%28as_Serapis%29%2C_from_the_Sanctuary_of_the_Egyptian_Gods_at_Gortyna%2C_mid-2nd_century_AD%2C_Heraklion_Archaeological_Museum_%2830305313721%29.jpg/220px-thumbnail.jpg",
+        "alt": "Hades/Serapis with Cerberus, mid-2nd century AD statute from the Sanctuary of the Egyptian Gods at Gortyna"
+      },
+      "description": "Hades is the Greek god of the underworld and the ruler of the dead. He governs over the souls of the deceased and the treasures beneath the Earth. Though often misunderstood as malevolent, Hades is a just and neutral figure, maintaining balance between life and death.",
+      "history": "Hades, the eldest son of the Titans Cronus and Rhea, was swallowed at birth by Cronus and later freed by his brother Zeus. After defeating the Titans, Hades, Zeus, and Poseidon divided the cosmos, with Hades receiving dominion over the underworld. He is married to Persephone, whom he abducted and made queen of the underworld.",
+      "titles": [ "Lord of the Underworld", "King of the Dead", "Rich One", "Receiver of Many" ],
+      "domains": [ "Underworld", "Death", "Wealth", "Earth's Treasures" ],
+      "symbols": [ "Cornucopia", "Scepter", "Keys of Hades", "Cerberus" ],
+      "animals": [ "Serpent", "Black Ram", "Screech Owl" ],
+      "correspondences": {
+        "Colors": [ "Black", "Dark Blue" ],
+        "Gemstones": [ "Onyx", "Obsidian" ],
+        "Plants": [ "Cypress", "Asphodel" ],
+        "Planet": [ "Pluto" ],
+        "Element": [ "Earth" ],
+        "Metal": [ "Iron" ]
+      },
+      "relations": {
+        "parents": [ "Cronus", "Rhea" ],
+        "siblings": [ "Zeus", "Poseidon", "Hera", "Demeter", "Hestia" ],
+        "children": [ "Macaria", "Melinoe", "Zagreus (in some myths)" ],
+        "myth_events": [ "Abduction of Persephone", "Battle with the Titans", "Creation of the Underworld" ]
+      },
+      "attributes": [ "Justice", "Wealth", "Steadfastness", "Mystery" ],
+      "myth_stories": [
+        {
+          "title": "The Abduction of Persephone",
+          "summary": "Hades fell in love with Persephone, the daughter of Demeter, and abducted her to the underworld. After much turmoil, a compromise was reached: Persephone would spend part of the year with Hades and the rest with her mother, explaining the cycle of the seasons."
+        },
+        {
+          "title": "Orpheus and Eurydice",
+          "summary": "Orpheus, a mortal musician, descended into the underworld to retrieve his wife, Eurydice. Moved by his music, Hades allowed Eurydice to leave under one condition: Orpheus must not look back. Tragically, he failed, and Eurydice was lost forever."
+        }
+      ],
+      "modern_references": [ "Hades appears in modern media as a complex figure, often depicted in novels, movies, and games exploring themes of death, the afterlife, and hidden treasures." ],
+      "sacred_numbers": [ 4, 8 ],
+      "ritual_practices": [
+        {
+          "name": "Offerings to the Dead",
+          "instructions": "Prepare an offering of grains or pomegranate seeds, placing them in a dark, secluded place or burying them in the Earth. Speak prayers for Hades’s guidance and protection over the departed."
+        }
+      ],
+      "sacred_locations": [ "Necromanteion of Ephyra", "Cape Taenarum", "The River Styx" ],
+      "worship": {
+        "Temples": [ "Temple of Hades at Elis", "Necromanteion of Ephyra" ],
+        "Festivals": [ "Anthesteria", "Nekysia" ],
+        "Offerings": [ "Pomegranate Seeds", "Honey Cakes", "Black Sheep" ]
+      }
+    },
+    "Hermes": {
+      "name": "Hermes",
+      "pantheon": "Greek",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hermes_Ingenui_Pio-Clementino_Inv544.jpg/220px-Hermes_Ingenui_Pio-Clementino_Inv544.jpg", 
+        "alt": "Hermes Ingenui (Vatican Museums), Roman copy of the second century BC after a Greek original of the 5th century BC. Hermes has a kerykeion (caduceus), kithara, petasos (round hat) and a traveler's cloak." 
+      },
+      "description": "Hermes is the Greek god of commerce, communication, travel, and thieves. Known as the messenger of the gods, he is also a guide for souls to the underworld and a patron of boundaries and transitions.",
+      "history": "Hermes, the son of Zeus and the nymph Maia, is a prominent figure in Greek mythology. He is depicted as a clever, quick, and resourceful deity who plays vital roles in various myths. Hermes invented the lyre, acted as a guide to heroes, and is often associated with innovation and trickery.",
+      "titles": [ "Messenger of the Gods", "God of Boundaries", "Psychopomp" ],
+      "domains": [ "Commerce", "Travel", "Communication", "Thieves", "Athleticism" ],
+      "symbols": [ "Caduceus", "Winged Sandals", "Tortoise" ],
+      "animals": [ "Tortoise", "Rooster", "Ram" ],
+      "correspondences": {
+        "Colors": [ "Yellow", "Orange" ],
+        "Gemstones": [ "Citrine", "Carnelian" ],
+        "Plants": [ "Dill", "Hazel" ],
+        "Planet": [ "Mercury" ],
+        "Element": [ "Air" ],
+        "Metal": [ "Mercury" ]
+      },
+      "relations": {
+        "parents": [ "Zeus", "Maia" ],
+        "siblings": [ "Apollo", "Artemis", "Athena", "Ares" ],
+        "children": [ "Pan", "Hermaphroditus", "Abderus" ],
+        "myth_events": [ "The Theft of Apollo’s Cattle", "The Creation of the Lyre" ]
+      },
+      "attributes": [ "Cleverness", "Inventiveness", "Speed", "Diplomacy" ],
+      "myth_stories": [
+        { 
+          "title": "The Theft of Apollo’s Cattle", 
+          "summary": "As an infant, Hermes stole Apollo’s cattle and cleverly concealed his tracks. To appease Apollo, he invented the lyre and offered it to him as a gift, earning his brother's favor and admiration."
+        },
+        {
+          "title": "Guide to the Underworld",
+          "summary": "Hermes, in his role as Psychopomp, guided the souls of the deceased to the underworld, ensuring they safely reached Hades’ realm."
+        }
+      ],
+      "modern_references": [ "Hermeticism", "Alchemy", "Symbolism in Business and Trade" ],
+      "sacred_numbers": [ 4, 8 ],
+      "ritual_practices": [
+        { 
+          "name": "Invocation of Hermes for Communication", 
+          "instructions": "Practitioners light yellow or orange candles and recite prayers to Hermes, asking for eloquence and success in communication or travel."
+        }
+      ],
+      "sacred_locations": [ "Mount Cyllene", "Hermes’ Hill" ],
+      "worship": {
+        "Temples": [ "Temple of Hermes in Olympia", "Herms on Roadsides" ],
+        "Festivals": [ "Hermaea", "Mercuralia" ],
+        "Offerings": [ "Coins", "Milk", "Honey" ]
+      }
+    },
+    "Hekate": {
+      "name": "Hekate",
+      "pantheon": "Greek",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hecate_Chiaramonti_Inv1922.jpg/220px-Hecate_Chiaramonti_Inv1922.jpg", 
+        "alt": "The Hecate Chiaramonti, a Roman sculpture of triple-bodied Hecate, after a Hellenistic original (Museo Chiaramonti, Vatican Museums)" 
+      },
+      "description": "Hekate is the goddess of magic, witchcraft, the moon, and crossroads. She is associated with both the underworld and the celestial realms, often acting as a guide and protector.",
+      "history": "Hekate's origins trace back to pre-Olympian times, possibly linked to Anatolia. In Greek mythology, she was honored by Zeus for her power over the heavens, earth, and sea. She is often portrayed as a mysterious and powerful figure, revered in various cults for her connection to liminal spaces and transitions.",
+      "titles": [ "Goddess of Magic", "Queen of Ghosts", "Keeper of the Keys" ],
+      "domains": [ "Magic", "Crossroads", "Necromancy", "Moon", "Night" ],
+      "symbols": [ "Torches", "Keys", "Daggers", "Wheel of Hekate" ],
+      "animals": [ "Dogs", "Snakes", "Owls" ],
+      "correspondences": {
+        "Colors": [ "Black", "Silver" ],
+        "Gemstones": [ "Obsidian", "Moonstone" ],
+        "Plants": [ "Yew", "Willow", "Dandelion" ],
+        "Planet": [ "Moon" ],
+        "Element": [ "Earth", "Water" ],
+        "Metal": [ "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Perses", "Asteria" ],
+        "siblings": [ "" ],
+        "children": [ "Scylla" ],
+        "myth_events": [ "Hekate aiding Demeter in searching for Persephone" ]
+      },
+      "attributes": [ "Wisdom", "Protector of Boundaries", "Guide of Souls" ],
+      "myth_stories": [
+        {
+          "title": "Hekate and Persephone",
+          "summary": "Hekate played a crucial role in the myth of Persephone, using her torches to guide Demeter through the night in search of her daughter. She later became a companion of Persephone in the underworld."
+        }
+      ],
+      "modern_references": [ "Popular in modern Wicca and Neopaganism", "Symbol of feminist empowerment" ],
+      "sacred_numbers": [ 3, 7 ],
+      "ritual_practices": [
+        {
+          "name": "Hekate’s Supper",
+          "instructions": "A meal of bread, eggs, and garlic is left at a crossroads during the new moon as an offering to Hekate. The food is meant to be shared with the less fortunate or animals."
+        }
+      ],
+      "sacred_locations": [ "Crossroads", "Temple of Hekate in Lagina" ],
+      "worship": {
+        "Temples": [ "Hekate’s Sanctuary at Lagina", "Shrines at Crossroads" ],
+        "Festivals": [ "Hekate’s Deipnon", "The Day of Hekate" ],
+        "Offerings": [ "Keys", "Torches", "Food offerings at crossroads" ]
+      }
+    }
+  },
+
+  "Egyptian": {
+    "Anubis": {
+      "name": "Anubis",
+      "pantheon": "Egyptian",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Anubis_standing.svg/150px-Anubis_standing.svg.png", 
+        "alt": "The Egyptian god Anubis, (a modern rendition inspired by New Kingdom tomb paintings)" 
+      },
+      "description": "Anubis is the ancient Egyptian god associated with mummification, the afterlife, and the protection of graves. He is often portrayed as a jackal-headed deity.",
+      "history": "Anubis was one of the oldest deities in the Egyptian pantheon, pre-dating Osiris as the primary god of the dead. Over time, he became the guide for souls in the underworld and the guardian of tombs.",
+      "titles": [ "Guardian of the Dead", "Lord of Mummification", "Weigher of Hearts" ],
+      "domains": [ "Death", "Mummification", "Protection", "Judgment" ],
+      "symbols": [ "Scales", "Embalming tools", "Ankh" ],
+      "animals": [ "Jackal", "Dog" ],
+      "correspondences": {
+        "Colors": [ "Black", "Gold" ],
+        "Gemstones": [ "Obsidian", "Onyx" ],
+        "Plants": [ "Cypress", "Frankincense" ],
+        "Planet": [ "Mercury" ],
+        "Element": [ "Earth" ],
+        "Metal": [ "Iron" ]
+      },
+      "relations": {
+        "parents": [ "Ra", "Nephthys" ],
+        "siblings": [ "" ],
+        "children": [ "" ],
+        "myth_events": [ "Anubis aiding Isis in embalming Osiris" ]
+      },
+      "attributes": [ "Protector of Graves", "Guide of Souls", "Weigher of Hearts" ],
+      "myth_stories": [
+        {
+          "title": "The Weighing of the Heart",
+          "summary": "In the Hall of Ma'at, Anubis weighed the hearts of the deceased against the feather of truth to determine their fate in the afterlife."
+        }
+      ],
+      "modern_references": [ "Anubis in popular culture, including movies, games, and literature" ],
+      "sacred_numbers": [ 4, 42 ],
+      "ritual_practices": [
+        {
+          "name": "Offerings to Anubis",
+          "instructions": "Place offerings such as bread, incense, and small statues of jackals in a sacred space to honor Anubis and seek his guidance."
+        }
+      ],
+      "sacred_locations": [ "Necropolis of Saqqara", "Tombs in the Valley of the Kings" ],
+      "worship": {
+        "Temples": [ "Temple of Anubis in Cynopolis" ],
+        "Festivals": [ "The Festival of Wag", "Mummification ceremonies" ],
+        "Offerings": [ "Bread", "Incense", "Meat" ]
+      }
+    },
+    "Bastet": { 
+      "name": "Bastet",
+      "pantheon": "Egyptian",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bastet.svg/220px-Bastet.svg.png", 
+        "alt": "Bastet in her late form of a cat-headed woman (rather than a lioness) holding an ankh and sistrum" 
+      },
+      "description": "Bastet, originally a lioness goddess of war, later became associated with protection, fertility, and the home as a domestic cat goddess.",
+      "history": "She was worshiped in the Old Kingdom as a fierce protector and evolved into a nurturing and playful goddess in the New Kingdom.",
+      "titles": [ "Goddess of Protection", "Lady of the East", "Eye of Ra" ],
+      "domains": [ "Protection", "Cats", "Fertility", "Music", "Healing" ],
+      "symbols": [ "Sistrum", "Udjat Eye", "Cat" ],
+      "animals": [ "Cat", "Lioness" ],
+      "correspondences": {
+        "Colors": [ "Gold", "Green" ],
+        "Gemstones": [ "Tiger's Eye", "Malachite" ],
+        "Plants": [ "Papyrus", "Palm" ],
+        "Planet": [ "Sun" ],
+        "Element": [ "Fire" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Ra" ],
+        "siblings": [ "Sekhmet", "Hathor" ],
+        "children": [ "Mihos (Maahes)" ],
+        "myth_events": [ "Battle against Apep", "Role as the Eye of Ra" ]
+      },
+      "attributes": [ "Dual nature as protector and nurturer", "Cat-headed or lioness imagery" ],
+      "myth_stories": [ 
+        { 
+          "title": "Bastet and Apep", 
+          "summary": "Bastet aided Ra in battling the chaos serpent Apep, protecting the sun god during his nightly journey." 
+        },
+        { 
+          "title": "The Transition to Domesticity", 
+          "summary": "Bastet’s role shifted from a lioness of war to a goddess representing domestic cats and the home." 
+        }
+      ],
+      "modern_references": [ "Symbol of feminine strength", "Representation in modern pagan practices" ],
+      "sacred_numbers": [ 6 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Honoring Bastet with Music", 
+          "instructions": "Play or create music to invoke her blessings and protection." 
+        }
+      ],
+      "sacred_locations": [ "Bubastis (Tell Basta)" ],
+      "worship": {
+        "Temples": [ "Temple of Bastet in Bubastis" ],
+        "Festivals": [ "Feast of Bubastis" ],
+        "Offerings": [ "Milk", "Incense", "Cat statues" ]
+      }
+    },
+    "Hathor": { 
+      "name": "Hathor",
+      "pantheon": "Egyptian",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hathor.svg/220px-Hathor.svg.png", 
+        "alt": "Composite image of Hathor's most common iconography, based partly on images from the tomb of Nefertari" 
+      },
+      "description": "Hathor, one of the most revered goddesses of ancient Egypt, is the goddess of love, beauty, music, motherhood, and joy. She embodies feminine qualities and serves as a protector of women and children.",
+      "history": "Hathor's worship spans throughout Egyptian history, where she was venerated as the 'Mistress of the West' who welcomed the dead into the afterlife and as a celestial goddess linked to the Milky Way.",
+      "titles": [ "Lady of the Stars", "Mistress of the West", "Goddess of Love and Joy" ],
+      "domains": [ "Love", "Music", "Motherhood", "Fertility" ],
+      "symbols": [ "Sun Disk", "Cow Horns", "Sistrum" ],
+      "animals": [ "Cow", "Falcon", "Cat" ],
+      "correspondences": {
+        "Colors": [ "Gold", "Turquoise" ],
+        "Gemstones": [ "Lapis Lazuli", "Turquoise" ],
+        "Plants": [ "Papyrus", "Lotus" ],
+        "Planet": [ "Venus" ],
+        "Element": [ "Earth", "Water" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Ra" ],
+        "siblings": [ "Sekhmet", "Bastet" ],
+        "children": [ "Ihy" ],
+        "myth_events": [ "Transformation into Sekhmet to punish humanity", "Restoration of joy through music and dance" ]
+      },
+      "attributes": [ "Loving", "Nurturing", "Playful", "Protective" ],
+      "myth_stories": [ 
+        { 
+          "title": "Hathor as the Eye of Ra", 
+          "summary": "Hathor, as the Eye of Ra, was sent to punish humanity but was calmed with music and beer dyed red, leading to her return to her nurturing form." 
+        },
+        { 
+          "title": "Hathor and the Afterlife", 
+          "summary": "Hathor guides souls to the afterlife and provides them comfort, reinforcing her role as 'Mistress of the West'." 
+        }
+      ],
+      "modern_references": [ "Hathor appears in modern media as a symbol of love and femininity.", "She is a frequent figure in literature and art exploring ancient Egyptian culture." ],
+      "sacred_numbers": [ 7 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Dance of Joy", 
+          "instructions": "Perform a dance to the sound of a sistrum, offering gratitude and seeking blessings for happiness and fertility." 
+        }
+      ],
+      "sacred_locations": [ "Dendera Temple Complex", "Western Thebes" ],
+      "worship": {
+        "Temples": [ "Temple of Hathor at Dendera" ],
+        "Festivals": [ "Festival of Drunkenness", "Beautiful Reunion Festival" ],
+        "Offerings": [ "Milk", "Honey", "Incense", "Perfumes" ]
+      }
+    },
+    "Horus": { 
+      "name": "Horus",
+      "pantheon": "Egyptian",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Horus_%28based_on_reliefs%29.svg/220px-Horus_%28based_on_reliefs%29.svg.png", 
+        "alt": "Horus was often the ancient Egyptians' national tutelary deity. He was usually depicted as a falcon-headed man wearing the pschent, or a red and white crown, as a symbol of kingship over the entire kingdom of Egypt." 
+      },
+      "description": "Horus is the Egyptian god of the sky, kingship, and protection, often represented as a falcon or a falcon-headed man.",
+      "history": "Horus is one of the most significant deities in Egyptian mythology, embodying divine kingship and serving as the protector of Egypt. His myth involves a battle with his uncle Set for the throne, symbolizing the eternal struggle between order and chaos.",
+      "titles": [ "Lord of the Sky", "Avenger of Osiris", "God of Kingship" ],
+      "domains": [ "Sky", "Kingship", "Protection" ],
+      "symbols": [ "Eye of Horus", "Falcon", "Ankh" ],
+      "animals": [ "Falcon", "Lion", "Bull" ],
+      "correspondences": {
+        "Colors": [ "Gold", "Blue" ],
+        "Gemstones": [ "Lapis Lazuli", "Turquoise" ],
+        "Plants": [ "Papyrus", "Lotus" ],
+        "Planet": [ "Sun", "Moon" ],
+        "Element": [ "Air" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Osiris", "Isis" ],
+        "siblings": [ "Anubis (half-brother)" ],
+        "children": [ "Four Sons of Horus (Imsety, Hapi, Duamutef, Qebehsenuef)" ],
+        "myth_events": [ "Battle with Set", "Resurrection of Osiris" ]
+      },
+      "attributes": [ "Kingship", "Order", "Courage" ],
+      "myth_stories": [ 
+        { 
+          "title": "Horus and the Battle for the Throne", 
+          "summary": "Horus battled his uncle Set to avenge his father Osiris and claim the throne of Egypt, symbolizing the triumph of order over chaos."
+        },
+        { 
+          "title": "The Eye of Horus", 
+          "summary": "During his battles with Set, Horus lost his left eye, which was later restored and became a symbol of healing and protection."
+        }
+      ],
+      "modern_references": [ 
+        "The Eye of Horus is a common amulet used for protection and health.",
+        "Horus is frequently referenced in popular culture, including video games, films, and literature." 
+      ],
+      "sacred_numbers": [ 5, 6 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Invocation of the Eye of Horus", 
+          "instructions": "Recite prayers to invoke protection and healing while holding an Eye of Horus amulet."
+        }
+      ],
+      "sacred_locations": [ "Edfu Temple", "Behdet" ],
+      "worship": {
+        "Temples": [ "Temple of Horus at Edfu", "Temple of Kom Ombo" ],
+        "Festivals": [ "Festival of Victory", "Rituals of Kingship" ],
+        "Offerings": [ "Falcon statues, gold, incense, and wine" ]
+      }
+    },
+    "Isis": { 
+      "name": "Isis",
+      "pantheon": "Egyptian",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Isis.svg/220px-Isis.svg.png", 
+        "alt": "Composite image of Isis's most distinctive Egyptian iconography, based partly on images from the tomb of Nefertari" 
+      },
+      "description": "A goddess of magic, motherhood, and fertility, Isis is a key figure in Egyptian mythology.",
+      "history": "Isis was revered for her role in the resurrection of Osiris and as a protector of pharaohs.",
+      "titles": [ "Goddess of Magic", "Queen of Heaven" ],
+      "domains": [ "Magic", "Healing", "Fertility", "Motherhood" ],
+      "symbols": [ "Throne", "Knot of Isis", "Sistrum" ],
+      "animals": [ "Kite", "Scorpion" ],
+      "correspondences": {
+        "Colors": [ "Gold", "Blue" ],
+        "Gemstones": [ "Lapis Lazuli", "Turquoise" ],
+        "Plants": [ "Lotus", "Papyrus" ],
+        "Planet": [ "Moon" ],
+        "Element": [ "Water" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Geb", "Nut" ],
+        "siblings": [ "Osiris", "Set", "Nephthys" ],
+        "children": [ "Horus" ],
+        "myth_events": [ "Resurrection of Osiris", "Birth of Horus" ]
+      },
+      "attributes": [ "Wings of Protection", "Magical Incantations" ],
+      "myth_stories": [ 
+        { 
+          "title": "The Resurrection of Osiris", 
+          "summary": "Isis collected the pieces of Osiris’s body and used her magic to resurrect him, allowing their son Horus to be conceived." 
+        },
+        { 
+          "title": "The Birth of Horus", 
+          "summary": "She gave birth to Horus in secrecy, protecting him from Set until he could avenge Osiris." 
+        }
+      ],
+      "modern_references": [ "Depicted in modern Wiccan practices", "Symbol of female empowerment" ],
+      "sacred_numbers": [ 7 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Invocation of Isis", 
+          "instructions": "Light candles and recite a prayer invoking her protective and nurturing powers." 
+        }
+      ],
+      "sacred_locations": [ "Philae Temple", "Abydos" ],
+      "worship": {
+        "Temples": [ "Temple of Isis at Philae" ],
+        "Festivals": [ "Feast of Isis" ],
+        "Offerings": [ "Milk", "Honey", "Flowers" ]
+      }
+    },
+    "Osiris": { 
+      "name": "Osiris",
+      "pantheon": "Egyptian",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Standing_Osiris_edit1.svg/220px-Standing_Osiris_edit1.svg.png", 
+        "alt": "Osiris, lord of the dead and of rebirth. His green skin symbolizes rebirth." 
+      },
+      "description": "Osiris is the god of the afterlife, resurrection, and agriculture, known for his role in judging the souls of the deceased and bringing fertility to the land.",
+      "history": "Osiris is a central figure in Egyptian mythology, representing the cycle of death and rebirth. He was murdered by his brother Set, dismembered, and resurrected by his wife Isis, becoming the ruler of the underworld.",
+      "titles": [ "Lord of the Underworld", "King of the Dead", "God of Resurrection" ],
+      "domains": [ "Afterlife", "Resurrection", "Fertility", "Judgment" ],
+      "symbols": [ "Crook and Flail", "White Crown of Upper Egypt", "Djed Pillar" ],
+      "animals": [ "Bull", "Phoenix" ],
+      "correspondences": {
+        "Colors": [ "Green", "Black" ],
+        "Gemstones": [ "Malachite", "Emerald" ],
+        "Plants": [ "Wheat", "Barley", "Papyrus" ],
+        "Planet": [ "Earth" ],
+        "Element": [ "Earth" ],
+        "Metal": [ "Copper" ]
+      },
+      "relations": {
+        "parents": [ "Geb", "Nut" ],
+        "siblings": [ "Isis", "Set", "Nephthys" ],
+        "children": [ "Horus" ],
+        "myth_events": [ "Murder by Set", "Resurrection by Isis", "Judging Souls in the Duat" ]
+      },
+      "attributes": [ "Justice", "Rebirth", "Fertility" ],
+      "myth_stories": [ 
+        { 
+          "title": "The Death and Resurrection of Osiris", 
+          "summary": "Set, jealous of Osiris's kingship, kills and dismembers him. Isis reassembles Osiris's body and brings him back to life, enabling him to become the ruler of the underworld."
+        },
+        { 
+          "title": "The Judgment of the Dead", 
+          "summary": "Osiris presides over the Weighing of the Heart ceremony in the Hall of Ma'at, determining whether a soul is worthy of entering the afterlife."
+        }
+      ],
+      "modern_references": [ 
+        "Osiris is referenced in modern literature, films, and video games as a symbol of rebirth and justice.",
+        "The story of Osiris has influenced Western notions of resurrection and the afterlife."
+      ],
+      "sacred_numbers": [ 3, 7 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Fertility Rituals", 
+          "instructions": "Offer grains and libations to honor Osiris's role as a god of agriculture and rebirth."
+        },
+        { 
+          "name": "The Weighing of the Heart Ceremony", 
+          "instructions": "Symbolic enactments of this ritual were performed to ensure passage into the afterlife."
+        }
+      ],
+      "sacred_locations": [ "Abydos", "Busiris" ],
+      "worship": {
+        "Temples": [ "Temple of Osiris at Abydos", "Osireion" ],
+        "Festivals": [ "Festival of Osiris", "Wepet-Renpet (New Year Festival)" ],
+        "Offerings": [ "Wheat, barley, wine, and statues" ]
+      }
+    },
+    "Thoth": {
+      "name": "Thoth",
+      "pantheon": "Egyptian",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Thoth.svg/220px-Thoth.svg.png", 
+        "alt": "Thoth, in one of his forms as an ibis-headed man" 
+      },
+      "description": "Thoth is the Egyptian god of wisdom, writing, science, magic, and the moon. He is credited with creating writing and the sacred texts used in magical practices, as well as maintaining the balance of the universe through his role as the scribe of the gods.",
+      "history": "Thoth is one of the most important deities in the Egyptian pantheon. He is often depicted as a man with the head of an ibis or a baboon, symbolizing intellect and divine knowledge. Thoth is said to have invented writing and is known for his role in the afterlife as the scribe during the judgment of souls.",
+      "titles": [ "God of Wisdom", "Scribe of the Gods", "Lord of Time" ],
+      "domains": [ "Wisdom", "Writing", "Magic", "Moon", "Judgment" ],
+      "symbols": [ "Ibex", "The Crescent Moon", "The Scribe’s Palette" ],
+      "animals": [ "Ibis", "Baboon" ],
+      "correspondences": {
+        "Colors": [ "White", "Silver" ],
+        "Gemstones": [ "Lapis Lazuli", "Turquoise" ],
+        "Plants": [ "Papyrus", "Lotus" ],
+        "Planet": [ "Moon" ],
+        "Element": [ "Air" ],
+        "Metal": [ "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Ra", "Ma'at" ],
+        "siblings": [ "Horus", "Isis", "Osiris" ],
+        "children": [ "Hermes Trismegistus" ],
+        "myth_events": [ "The Creation of Writing", "The Weighing of the Heart" ]
+      },
+      "attributes": [ "Divine Scribe", "Teacher of Magic", "Judge of Souls" ],
+      "myth_stories": [
+        { 
+          "title": "The Weighing of the Heart", 
+          "summary": "Thoth is one of the key figures in the *Book of the Dead*, where he records the results of the heart weighing ceremony, determining whether a soul is pure enough to enter the afterlife."
+        }
+      ],
+      "modern_references": [ "Hermeticism", "Alchemy", "Occult traditions" ],
+      "sacred_numbers": [ 9, 7 ],
+      "ritual_practices": [
+        { 
+          "name": "Invocation of Thoth", 
+          "instructions": "To invoke Thoth, practitioners would typically recite a prayer or chant, asking for wisdom and guidance in their studies or spiritual work. Incense offerings and rituals related to the moon were also common."
+        }
+      ],
+      "sacred_locations": [ "Hermopolis", "Thebes" ],
+      "worship": {
+        "Temples": [ "Temple of Thoth at Hermopolis", "Temple of Esna" ],
+        "Festivals": [ "Festival of the New Moon", "Night of the Weighing of the Heart" ],
+        "Offerings": [ "Incense", "Papyrus Scrolls", "Perfumes" ]
+      }
+    }
+  },
+
+  "Roman": {
+    "Diana": { 
+      "name": "Diana",
+      "pantheon": "Roman",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cametti_Diana.jpg/220px-Cametti_Diana.jpg", 
+        "alt": "Diana as Huntress. Marble by Bernardino Cametti, 1720. Pedestal by Pascal Latour, 1754. Bode Museum, Berlin." 
+      },
+      "description": "Diana is the Roman goddess of the hunt, the moon, wild animals, and woodland. She is associated with purity, independence, and protector of women and children.",
+      "history": "Diana was worshipped across the Roman Empire as one of the most significant deities. She shares similarities with the Greek goddess Artemis, from whom her mythology was influenced.",
+      "titles": [ "Goddess of the Hunt", "Queen of the Forest", "Lunar Goddess" ],
+      "domains": [ "Hunt", "Moon", "Nature", "Childbirth", "Wild Animals" ],
+      "symbols": [ "Bow and Arrow", "Crescent Moon", "Torch" ],
+      "animals": [ "Deer", "Hound" ],
+      "correspondences": {
+        "Colors": [ "Silver", "Green" ],
+        "Gemstones": [ "Moonstone", "Pearl" ],
+        "Plants": [ "Cypress", "Willow", "Mugwort" ],
+        "Planet": [ "Moon" ],
+        "Element": [ "Water", "Earth" ],
+        "Metal": [ "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Jupiter (Zeus)", "Latona (Leto)" ],
+        "siblings": [ "Apollo" ],
+        "children": [ "None (remained chaste)" ],
+        "myth_events": [ "Actaeon’s Transformation", "Callisto's Story" ]
+      },
+      "attributes": [ "Independence", "Purity", "Protector of the Innocent" ],
+      "myth_stories": [ 
+        { 
+          "title": "Actaeon’s Punishment", 
+          "summary": "Actaeon, a hunter, saw Diana bathing. In her anger, she transformed him into a stag, and he was devoured by his own hounds."
+        },
+        { 
+          "title": "Callisto's Transformation", 
+          "summary": "Diana's companion Callisto was turned into a bear by Juno. Eventually, Jupiter placed her among the stars as the constellation Ursa Major."
+        }
+      ],
+      "modern_references": [ "Diana as a symbol of independence and femininity", "Referenced in Wiccan traditions as a moon goddess" ],
+      "sacred_numbers": [ 3, 7 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Moonlit Offerings", 
+          "instructions": "Under the full moon, offer white flowers, honey, and moonstone at a natural site like a forest or spring." 
+        }
+      ],
+      "sacred_locations": [ "The Grove of Diana at Nemi (Italy)" ],
+      "worship": {
+        "Temples": [ "Temple of Diana at Aventine Hill, Rome" ],
+        "Festivals": [ "Festival of Nemoralia (Festival of Torches)" ],
+        "Offerings": [ "White flowers, silver items, honey, and milk" ]
+      }
+    },
+    "Fortuna": { 
+      "name": "Fortuna",
+      "pantheon": "Roman",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Allegory_of_Fortune_mg_0010.jpg/170px-Allegory_of_Fortune_mg_0010.jpg", 
+        "alt": "Fortuna lightly balances the orb of sovereignty between thumb and finger in a Dutch painting of ca 1530 (Musée des Beaux-Arts de Strasbourg)" 
+      },
+      "description": "Fortuna is the Roman goddess of fortune, fate, and luck, presiding over both good and bad outcomes. She embodies chance and the unpredictability of life.",
+      "history": "Fortuna was widely worshiped in ancient Rome as a goddess who could influence the fate and prosperity of individuals and communities. Her worship was linked to the agricultural cycle, personal destiny, and state welfare.",
+      "titles": [ "Lady Fortune", "Goddess of Luck", "Bringer of Fortune", "Mistress of Fate" ],
+      "domains": [ "Luck", "Destiny", "Prosperity", "Chance" ],
+      "symbols": [ "Cornucopia", "Ship's Rudder", "Wheel of Fortune", "Ball" ],
+      "animals": [ "Cat", "Goose" ],
+      "correspondences": {
+        "Colors": [ "Gold", "Green" ],
+        "Gemstones": [ "Citrine", "Emerald" ],
+        "Plants": [ "Laurel", "Wheat" ],
+        "Planet": [ "Jupiter" ],
+        "Element": [ "Air" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Jupiter (in some myths)" ],
+        "siblings": [ "None" ],
+        "children": [ "Occasionally said to be the mother of Abundance (Abundantia)" ],
+        "myth_events": [ "Guiding Roman generals to victory", "Shifting the fate of cities through her Wheel of Fortune" ]
+      },
+      "attributes": [ "Generosity", "Capriciousness", "Unpredictability" ],
+      "myth_stories": [ 
+        { 
+          "title": "The Wheel of Fortune", 
+          "summary": "Fortuna's wheel symbolizes the turning of fate, lifting some individuals to prosperity while casting others into ruin."
+        },
+        { 
+          "title": "Fortuna and Roman Generals", 
+          "summary": "Fortuna was invoked by Roman leaders for success in battle and governance, believed to favor the bold and courageous."
+        }
+      ],
+      "modern_references": [ 
+        "Depictions of Fortuna in Renaissance art often emphasize her control over fate.",
+        "Her symbols, such as the Wheel of Fortune, continue to appear in modern culture, including tarot and popular media."
+      ],
+      "sacred_numbers": [ 7, 10 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Offering of Wheat and Coins", 
+          "instructions": "Place wheat and coins at Fortuna's altar to request her favor in financial and agricultural matters."
+        },
+        { 
+          "name": "Wheel of Fortune Meditation", 
+          "instructions": "Visualize Fortuna's wheel turning to understand the cyclical nature of fortune and prepare for life's changes."
+        }
+      ],
+      "sacred_locations": [ "Praeneste (modern Palestrina), site of Fortuna's great temple" ],
+      "worship": {
+        "Temples": [ "Temple of Fortuna Primigenia", "Temple of Fortuna Redux" ],
+        "Festivals": [ "Fortuna's Day (June 24th)" ],
+        "Offerings": [ "Coins, wheat, laurel wreaths, and incense" ]
+      }
+    },
+    "Jupiter": { 
+      "name": "Jupiter",
+      "pantheon": "Roman",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/0_Jupiter_-_Louvre_MR_254_-_Louvre-Lens_%282%29.JPG/220px-0_Jupiter_-_Louvre_MR_254_-_Louvre-Lens_%282%29.JPG", 
+        "alt": "A marble statue of Jupiter" 
+      },
+      "description": "Jupiter is the Roman king of the gods, ruler of the sky and thunder, and a protector of the Roman state and laws.",
+      "history": "Jupiter, also known as Jove, was the Roman counterpart of the Greek god Zeus. His worship spanned the Roman Empire, and he was regarded as the most powerful deity in the pantheon.",
+      "titles": [ "King of the Gods", "God of Thunder", "Jupiter Optimus Maximus" ],
+      "domains": [ "Sky", "Thunder", "Justice", "Kingship" ],
+      "symbols": [ "Lightning Bolt", "Eagle", "Oak Tree" ],
+      "animals": [ "Eagle", "Bull" ],
+      "correspondences": {
+        "Colors": [ "Blue", "Gold" ],
+        "Gemstones": [ "Topaz", "Amethyst" ],
+        "Plants": [ "Oak", "Laurel" ],
+        "Planet": [ "Jupiter" ],
+        "Element": [ "Air", "Fire" ],
+        "Metal": [ "Tin" ]
+      },
+      "relations": {
+        "parents": [ "Saturn (Cronus)", "Ops (Rhea)" ],
+        "siblings": [ "Neptune", "Pluto", "Juno", "Ceres", "Vesta" ],
+        "children": [ "Mars", "Minerva", "Apollo", "Diana", "Hercules", "Venus", "Mercury" ],
+        "myth_events": [ "Overthrow of Saturn", "Battle with the Titans" ]
+      },
+      "attributes": [ "Leadership", "Justice", "Power" ],
+      "myth_stories": [ 
+        { 
+          "title": "Jupiter’s Rise to Power", 
+          "summary": "Jupiter led his siblings to overthrow their father Saturn and the Titans, establishing himself as the ruler of the heavens."
+        },
+        { 
+          "title": "Jupiter and Io", 
+          "summary": "Jupiter transformed Io into a cow to hide her from Juno's wrath. She was eventually freed after many trials."
+        }
+      ],
+      "modern_references": [ "Jupiter as a symbol of authority and power in literature", "Referenced in astronomy as the largest planet in the solar system" ],
+      "sacred_numbers": [ 4, 12 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Lightning Offering", 
+          "instructions": "Offer wine, oak leaves, and bread on a high altar under the open sky, invoking Jupiter's power."
+        }
+      ],
+      "sacred_locations": [ "Capitoline Hill in Rome" ],
+      "worship": {
+        "Temples": [ "Temple of Jupiter Optimus Maximus on Capitoline Hill" ],
+        "Festivals": [ "Ludi Romani (Roman Games)" ],
+        "Offerings": [ "Wine, grain, oak leaves, and white bulls" ]
+      }
+    },
+    "Juno": { 
+      "name": "Juno",
+      "pantheon": "Roman",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Juno_Sospita_Statue.jpg/220px-Juno_Sospita_Statue.jpg", 
+        "alt": "Juno Sospita, a plaster cast based on an original in the Vatican Museums" 
+      },
+      "description": "Juno is the queen of the Roman gods, protector of women, marriage, and childbirth. She is revered as a powerful and regal deity who oversees the welfare of the Roman people.",
+      "history": "Juno, the Roman counterpart to the Greek Hera, played a vital role in Roman religion as a protector of the state and the primary female deity of the Capitoline Triad alongside Jupiter and Minerva. Her festivals and temples celebrated her as both a divine mother and a fierce protector.",
+      "titles": [ "Queen of the Gods", "Juno Moneta", "Juno Regina", "Juno Lucina", "Juno Sospita" ],
+      "domains": [ "Marriage", "Childbirth", "Protection of Women", "State Welfare" ],
+      "symbols": [ "Peacock", "Diadem", "Crown", "Scepter" ],
+      "animals": [ "Peacock", "Cow" ],
+      "correspondences": {
+        "Colors": [ "White", "Silver" ],
+        "Gemstones": [ "Moonstone", "Pearl" ],
+        "Plants": [ "Lily", "Fig Tree" ],
+        "Planet": [ "Moon" ],
+        "Element": [ "Water" ],
+        "Metal": [ "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Saturn" ],
+        "siblings": [ "Jupiter", "Neptune", "Pluto", "Vesta", "Ceres" ],
+        "children": [ "Mars", "Vulcan", "Lucina (in some myths)" ],
+        "myth_events": [ "Her role in the founding of Rome through the protection of women and the Roman state", "Her rivalry with Jupiter over his infidelities" ]
+      },
+      "attributes": [ "Majestic", "Protective", "Maternal", "Fierce" ],
+      "myth_stories": [ 
+        { 
+          "title": "The Capitoline Triad", 
+          "summary": "Juno, alongside Jupiter and Minerva, was worshiped at the great temple on Capitoline Hill, symbolizing the unity and power of Rome."
+        },
+        { 
+          "title": "Juno and the Peacocks", 
+          "summary": "The peacock became Juno's sacred animal, symbolizing her beauty and divine authority."
+        }
+      ],
+      "modern_references": [ 
+        "The month of June is named in honor of Juno, reflecting her association with marriage.",
+        "Juno appears in modern art and literature as a symbol of regal femininity and protection."
+      ],
+      "sacred_numbers": [ 3, 7 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Offerings for Marriage Blessings", 
+          "instructions": "Place lilies and light white candles to invoke Juno's blessing on marital unions."
+        },
+        { 
+          "name": "Festival of Matronalia", 
+          "instructions": "Celebrate Juno by honoring women, giving gifts, and offering prayers for childbirth and marital happiness."
+        }
+      ],
+      "sacred_locations": [ "Temple of Juno Moneta on Capitoline Hill", "Temple of Juno Regina in the Roman Forum" ],
+      "worship": {
+        "Temples": [ "Temple of Juno Moneta", "Temple of Juno Lucina" ],
+        "Festivals": [  "Matronalia (March 1st)", "Nonae Caprotinae (July 7th)" ],
+        "Offerings": [ "Milk, white flowers, silver coins" ]
+      }
+    },
+    "Mars": { 
+      "name": "Mars",
+      "pantheon": "Roman",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/0_Statue_de_Mars_%28Pyrrhus%29_-_Musei_Capitolini_-_MC0058_%282%29.JPG/220px-0_Statue_de_Mars_%28Pyrrhus%29_-_Musei_Capitolini_-_MC0058_%282%29.JPG", 
+        "alt": "Statue of Mars from the Forum of Nerva, 2nd century CE [1]" 
+      },
+      "description": "Mars is the Roman god of war, agriculture, and fatherhood, symbolizing strength, protection, and the defense of Rome.",
+      "history": "Originally an agricultural guardian, Mars evolved into the god of war as Rome became militarized. He was revered as the father of Romulus and Remus, the legendary founders of Rome.",
+      "titles": [ "God of War", "Father of Rome", "Mars Pater" ],
+      "domains": [ "War", "Agriculture", "Courage", "Protection" ],
+      "symbols": [ "Spear", "Shield", "Helmet" ],
+      "animals": [ "Wolf", "Woodpecker", "Rooster" ],
+      "correspondences": {
+        "Colors": [ "Red", "Black" ],
+        "Gemstones": [ "Ruby", "Carnelian" ],
+        "Plants": [ "Oak", "Nettle" ],
+        "Planet": [ "Mars" ],
+        "Element": [ "Fire", "Earth" ],
+        "Metal": [ "Iron" ]
+      },
+      "relations": {
+        "parents": [ "Jupiter", "Juno" ],
+        "siblings": [ "Bellona (sometimes)", "Minerva", "Vulcan" ],
+        "children": [ "Romulus", "Remus", "Harmonia", "Cupid" ],
+        "myth_events": [ "Founding of Rome", "Mars’ love for Venus" ]
+      },
+      "attributes": [ "Strength", "Bravery", "Leadership" ],
+      "myth_stories": [ 
+        { 
+          "title": "Mars and the Founding of Rome", 
+          "summary": "Mars fathered Romulus and Remus, who were raised by a she-wolf and went on to found the city of Rome."
+        },
+        { 
+          "title": "Mars and Venus", 
+          "summary": "Mars engaged in a famous affair with Venus, leading to numerous myths about their romance and its consequences."
+        }
+      ],
+      "modern_references": [ "Planet Mars named after the god", "Symbols of Mars used in military emblems and astrology" ],
+      "sacred_numbers": [ 3, 7 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Festival of Mars", 
+          "instructions": "Participants wear red robes, make offerings of blood or wine, and dance in a circle to honor Mars’ power."
+        }
+      ],
+      "sacred_locations": [ "Field of Mars (Campus Martius) in Rome" ],
+      "worship": {
+        "Temples": [ "Temple of Mars Ultor", "Temple of Mars Gradivus" ],
+        "Festivals": [ "Martialis in March", "October Horse" ],
+        "Offerings": [ "Weapons, wine, bulls, and roosters" ]
+      }
+    }
+
+
+  },
+
+  "Norse": {
+    "Baldr": { 
+      "name": "Baldr",
+      "pantheon": "Norse",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Balder.jpg/220px-Balder.jpg", 
+        "alt": "Baldr in an illustration to a Swedish translation of the Elder Edda." 
+      },
+      "description": "Baldr, the son of Odin and Frigg, is the god of light, purity, and beauty in Norse mythology. Known for his gentle and noble character, his death marks the beginning of the events leading to Ragnarok.",
+      "history": "Baldr's tale is central to Norse mythology, where his invulnerability, except to mistletoe, led to his tragic death orchestrated by Loki. His story reflects themes of fate and inevitable doom, serving as a prelude to the end of the gods.",
+      "titles": [ "God of Light", "The Beloved", "The Shining One" ],
+      "domains": [ "Light", "Purity", "Beauty", "Peace" ],
+      "symbols": [ "Sunlight", "White Flowers", "Mistletoe" ],
+      "animals": [ "White Horse", "Deer" ],
+      "correspondences": {
+        "Colors": [ "White", "Gold" ],
+        "Gemstones": [ "Diamond", "Sunstone" ],
+        "Plants": [ "Mistletoe", "Daisy" ],
+        "Planet": [ "Sun" ],
+        "Element": [ "Light" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Odin", "Frigg" ],
+        "siblings": [ "Thor", "Hodr", "Váli", "Vidar" ],
+        "children": [ "Forseti" ],
+        "myth_events": [ "His death caused by Hodr under Loki's influence", "The journey of Hermod to Hel to plead for Baldr's return", "The role of Baldr's death in heralding Ragnarok" ]
+      },
+      "attributes": [ "Radiant", "Innocent", "Beloved by all", "Tragic" ],
+      "myth_stories": [ 
+        { 
+          "title": "The Death of Baldr", 
+          "summary": "Loki tricked Hodr into killing Baldr with a dart made of mistletoe, the only substance capable of harming him. This tragic event marked the start of the gods' decline." 
+        },
+        { 
+          "title": "Hermod’s Journey to Hel", 
+          "summary": "Hermod, Baldr’s brother, rode to Hel to negotiate his return. Hel agreed on the condition that all beings mourned Baldr, but Loki thwarted the effort." 
+        }
+      ],
+      "modern_references": [ "Baldr is often associated with peace and hope in modern interpretations of Norse mythology.", "He appears in modern literature, games, and films as a symbol of light and tragedy." ],
+      "sacred_numbers": [ 1, 12 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Invocation of Light", 
+          "instructions": "Light a white candle and offer a prayer to Baldr, seeking guidance in purity and peace." 
+        }
+      ],
+      "sacred_locations": [ "Breidablik, Baldr's hall in Asgard" ],
+      "worship": {
+        "Temples": [ "Shrines dedicated to Baldr in Norse pagan traditions" ],
+        "Festivals": [ "Midsummer celebrations honoring light and the sun" ],
+        "Offerings": [ "White flowers", "Honey", "Sun-shaped tokens" ]
+      }
+    },
+    "Freyja": {
+      "name": "Freyja",
+      "pantheon": "Norse",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/John_Bauer-Freja.jpg/370px-John_Bauer-Freja.jpg",
+        "alt": "Freja (1905) by John Bauer (1882–1918)"
+      },
+      "description": "Freyja is a prominent goddess in Norse mythology, associated with love, beauty, fertility, magic, and war. She is known for her bold, independent spirit and her mastery of seidr, a form of Norse magic.",
+      "history": "Freyja is a member of the Vanir, a group of fertility deities, but she resides among the Aesir after the Aesir-Vanir War. She is often sought after for her beauty and is known for her connection to magic, wealth, and the afterlife.",
+      "titles": [ "Goddess of Love", "Lady of Seidr", "Vanadis", "Mistress of Cats" ],
+      "domains": [ "Love", "Beauty", "Fertility", "War", "Magic" ],
+      "symbols": [ "Brísingamen (Golden Necklace)", "Feathered Cloak", "Cats" ],
+      "animals": [ "Cats", "Boar" ],
+      "correspondences": {
+        "Colors": [ "Gold", "Pink" ],
+        "Gemstones": [ "Amber", "Rose Quartz" ],
+        "Plants": [ "Birch", "Roses" ],
+        "Planet": [ "Venus" ],
+        "Element": [ "Earth", "Water" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Njord", "Unknown Mother" ],
+        "siblings": [ "Freyr" ],
+        "children": [ "Hnoss", "Gersemi" ],
+        "myth_events": [ "The Theft of Brísingamen", "Aesir-Vanir War", "Selection of Warriors for Valhalla" ]
+      },
+      "attributes": [ "Beauty", "Magic", "Courage", "Desire" ],
+      "myth_stories": [
+        {
+          "title": "The Theft of Brísingamen",
+          "summary": "Loki steals Freyja’s prized necklace, Brísingamen, and she must strike a bargain with Heimdall to retrieve it, showcasing her cunning and resourcefulness."
+        },
+        {
+          "title": "Freyja and the Giants",
+          "summary": "Freyja is pursued by giants seeking her hand in marriage, but she outwits them or relies on her allies to preserve her freedom and dignity."
+        }
+      ],
+      "modern_references": [
+        "Freyja is a symbol of feminine power and independence, appearing in modern literature and media as a strong, complex figure. Her name is invoked in spiritual practices celebrating love and magic."
+      ],
+      "sacred_numbers": [ 6, 9 ],
+      "ritual_practices": [
+        {
+          "name": "Amber Meditation",
+          "instructions": "Hold a piece of amber and focus on invoking Freyja’s energy. Recite a prayer for love, courage, or creativity, visualizing her golden light surrounding you."
+        },
+        {
+          "name": "Cat’s Blessing",
+          "instructions": "Offer treats to cats or volunteer at a shelter in Freyja’s name, asking for her blessings in love and protection."
+        }
+      ],
+      "sacred_locations": [ "Folkvangr", "Vanaheim" ],
+      "worship": {
+        "Temples": [ "Gamla Uppsala (Sweden)" ],
+        "Festivals": [ "Beltaine", "Yule" ],
+        "Offerings": [ "Amber", "Honey", "Flowers", "Wine" ]
+      }
+    },
+    "Frigg": { 
+      "name": "Frigg",
+      "pantheon": "Norse",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Frigg_by_Doepler.jpg/220px-Frigg_by_Doepler.jpg", 
+        "alt": "Frigg sits enthroned and facing the spear-wielding goddess Gná, flanked by two goddesses, one of whom (Fulla) carries her eski, a wooden box. Illustrated (1882) by Carl Emil Doepler." 
+      },
+      "description": "Frigg is the Norse goddess of marriage, motherhood, and destiny, revered as the queen of Asgard and the wife of Odin.",
+      "history": "Frigg, one of the Aesir, is known for her wisdom and foresight. She is often associated with domestic life, childbirth, and protection of her family, as well as weaving the threads of fate.",
+      "titles": [ "Queen of Asgard", "Mother of the Aesir", "Weaver of Destiny" ],
+      "domains": [ "Marriage", "Motherhood", "Fate", "Protection" ],
+      "symbols": [ "Distaff", "Keys", "Clouds" ],
+      "animals": [ "Hawk", "Swan" ],
+      "correspondences": {
+        "Colors": [ "Blue", "White" ],
+        "Gemstones": [ "Moonstone", "Pearl" ],
+        "Plants": [ "Flax", "Chamomile" ],
+        "Planet": [ "Venus" ],
+        "Element": [ "Air", "Water" ],
+        "Metal": [ "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Fjorgynn (father, sometimes identified as Jörð, Earth)" ],
+        "siblings": [ "Possibly Nerthus" ],
+        "children": [ "Baldr", "Höðr", "Hermóðr" ],
+        "myth_events": [ "The Death of Baldr", "Frigg’s attempts to prevent Ragnarok" ]
+      },
+      "attributes": [ "Wisdom", "Foresight", "Compassion" ],
+      "myth_stories": [ 
+        { 
+          "title": "Frigg and the Death of Baldr", 
+          "summary": "Frigg tried to save her son Baldr by making every being swear not to harm him, but overlooked the mistletoe that Loki used to bring about Baldr's death."
+        }
+      ],
+      "modern_references": [ "Popular figure in Asatru traditions", "Portrayed in modern media and literature" ],
+      "sacred_numbers": [ 7, 3 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Weaving for Protection", 
+          "instructions": "Create a woven charm or thread as a symbol of protection and domestic harmony." 
+        }
+      ],
+      "sacred_locations": [ "Fensalir, her hall in Asgard" ],
+      "worship": {
+        "Temples": [ "No specific temples remain, but she was revered in home rituals." ],
+        "Festivals": [ "Winter Solstice celebrations often honor Frigg." ],
+        "Offerings": [ "Spindles, flax, milk, and honey" ]
+      }
+    },
+    "Loki": {
+      "name": "Loki",
+      "pantheon": "Norse",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Processed_SAM_loki.jpg/220px-Processed_SAM_loki.jpg",
+        "alt": "Loki with a fishing net (per Reginsmál) as depicted on an 18th-century Icelandic manuscript (SÁM 66)"
+      },
+      "description": "Loki is the Norse god of mischief, chaos, and cunning. Known for his shape-shifting abilities and unpredictable nature, he plays a complex role in the Norse pantheon, acting as both a helper and a hinderer of the gods.",
+      "history": "Loki is the son of the giant Fárbauti and the goddess Laufey. Despite his jötunn heritage, he became a part of the Aesir through his close relationship with Odin and Thor. Loki is infamous for his role in instigating conflicts among the gods, as well as his eventual betrayal that leads to Ragnarok.",
+      "titles": [ "The Trickster", "The Shapeshifter", "God of Mischief", "Liar of Lies" ],
+      "domains": [ "Mischief", "Chaos", "Fire", "Transformation" ],
+      "symbols": [ "Flame", "Snake", "Knotwork" ],
+      "animals": [ "Snake", "Wolf", "Salmon" ],
+      "correspondences": {
+        "Colors": [ "Red", "Orange" ],
+        "Gemstones": [ "Carnelian", "Amber" ],
+        "Plants": [ "Nettle", "Hemlock" ],
+        "Planet": [ "Mercury" ],
+        "Element": [ "Fire", "Air" ],
+        "Metal": [ "Copper" ]
+      },
+      "relations": {
+        "parents": [ "Fárbauti", "Laufey" ],
+        "siblings": [ "Helblindi", "Býleistr" ],
+        "children": [ "Fenrir", "Jörmungandr", "Hel", "Sleipnir" ],
+        "myth_events": [ "Binding of Fenrir", "Creation of Sleipnir", "Baldur's Death", "Ragnarok" ]
+      },
+      "attributes": [ "Cunning", "Deception", "Resourcefulness", "Ingenuity" ],
+      "myth_stories": [
+        {
+          "title": "The Binding of Fenrir",
+          "summary": "Loki fathered the great wolf Fenrir, who was prophesied to bring destruction. The gods tricked Fenrir into being bound with a magical chain, but his eventual escape would signal Ragnarok."
+        },
+        {
+          "title": "Baldur's Death",
+          "summary": "Loki orchestrated the death of Baldur, the beloved god, by tricking Baldur's blind brother Hodr into hurling a mistletoe dart, the only object capable of harming Baldur."
+        },
+        {
+          "title": "Ragnarok",
+          "summary": "Loki leads the forces of chaos during Ragnarok, the end of the world. He faces Heimdallr in a climactic battle, resulting in the death of both."
+        }
+      ],
+      "modern_references": [
+        "Loki is a popular figure in modern media, often depicted as an antihero or villain in books, movies, and television shows. Marvel’s portrayal of Loki as a complex, charismatic trickster has gained widespread recognition."
+      ],
+      "sacred_numbers": [ 3, 9 ],
+      "ritual_practices": [
+        {
+          "name": "Fire Offering",
+          "instructions": "Light a red or orange candle and offer a symbolic item (such as a knot or flame-shaped object). Speak a prayer invoking Loki’s guidance in embracing change and resourcefulness."
+        }
+      ],
+      "sacred_locations": [ "Jötunheimr", "Lokasenna's Hall" ],
+      "worship": {
+        "Temples": [ "None (typically honored in personal rituals)" ],
+        "Festivals": [ "Walpurgisnacht", "Midsummer Fire Festivals" ],
+        "Offerings": [ "Honey Mead", "Spicy Foods", "Candles" ]
+      }
+    },
+    "Odin": {
+      "name": "Odin",
+      "pantheon": "Norse",
+      "image": { "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg/170px-Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg", "alt": "Odin, in his guise as a wanderer, as imagined by Georg von Rosen (1886)"},
+      "description": "The All-Father in Norse mythology.",
+      "history": "Odin hung himself on Yggdrasil to gain wisdom of the runes.",
+      "titles": ["The All-Father", "God of War", "God of Wisdom"],
+      "domains": ["War", "Wisdom", "Death"],
+      "symbols": ["Raven", "Spear"],
+      "animals": ["Raven", "Wolf"],
+      "correspondences": {
+        "Colors": ["Black", "Grey"],
+        "Gemstones": ["Obsidian", "Sapphire"],
+        "Plants": ["Ash"],
+        "Planet": ["Mercury"],
+        "Element": ["Air"],
+        "Metal": ["Iron"]
+      },
+      "relations": {
+        "parents": ["Bor", "Bestla"],
+        "siblings": ["Vili", "Ve"],
+        "children": ["Thor", "Baldr"],
+        "myth_events": ["Sacrifice on Yggdrasil"]
+      },
+      "attributes": ["One-eyed", "Carries a spear"],
+      "myth_stories": [
+        {
+          "title": "The Sacrifice on Yggdrasil",
+          "summary": "Odin sacrificed himself to gain knowledge of the runes."
+        }
+      ],
+      "modern_references": ["Neil Gaiman's American Gods", "Marvel's Thor"],
+      "sacred_numbers": [3, 9],
+      "ritual_practices": [
+        {
+          "name": "Rune Invocation",
+          "instructions": "Carve runes into a wooden piece while chanting Odin's name."
+        }
+      ],
+      "sacred_locations": ["Yggdrasil", "Valhalla"],
+      "worship": {
+        "Temples": ["Uppsala Temple"],
+        "Festivals": ["Yule"],
+        "Offerings": ["Mead", "Runes"]
+      }
+    },
+    "Thor": { 
+      "name": "Thor",
+      "pantheon": "Norse",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M%C3%A5rten_Eskil_Winge_-_Tor%27s_Fight_with_the_Giants_-_Google_Art_Project.jpg/290px-M%C3%A5rten_Eskil_Winge_-_Tor%27s_Fight_with_the_Giants_-_Google_Art_Project.jpg", 
+        "alt": "Thor's Fight with the Giants (Tors strid med jättarna) by Mårten Eskil Winge (1872)." 
+      },
+      "description": "Thor is the Norse god of thunder, storms, and strength, known for his protection of humanity and the gods against chaos and giants.",
+      "history": "Thor, a central figure in Norse mythology, is revered as a protector of Asgard and Midgard. His tales often depict his battles with giants and his unwavering loyalty to maintaining cosmic order.",
+      "titles": [ "God of Thunder", "Protector of Midgard", "Wielder of Mjölnir" ],
+      "domains": [ "Thunder", "Storms", "Strength", "Protection", "Fertility" ],
+      "symbols": [ "Mjölnir", "Lightning", "Goats" ],
+      "animals": [ "Goats (Tanngrisnir and Tanngnjóstr)" ],
+      "correspondences": {
+        "Colors": [ "Red", "Blue" ],
+        "Gemstones": [ "Amber", "Carnelian" ],
+        "Plants": [ "Oak", "Thistle" ],
+        "Planet": [ "Jupiter" ],
+        "Element": [ "Fire", "Air" ],
+        "Metal": [ "Iron" ]
+      },
+      "relations": {
+        "parents": [ "Odin", "Jörð (Earth)" ],
+        "siblings": [ "Baldr", "Víðarr", "Váli" ],
+        "children": [ "Magni", "Modi", "Thrúd" ],
+        "myth_events": [ "Battle against Jörmungandr", "Journey to Utgard", "Wager with Loki" ]
+      },
+      "attributes": [ "Strength", "Courage", "Loyalty" ],
+      "myth_stories": [ 
+        { 
+          "title": "Thor and the Midgard Serpent", 
+          "summary": "Thor battles Jörmungandr during Ragnarok, leading to their mutual destruction." 
+        },
+        { 
+          "title": "Thor’s Journey to Utgard", 
+          "summary": "Thor is deceived by the giants of Utgard, showcasing his strength and determination." 
+        }
+      ],
+      "modern_references": [ "Marvel Comics and Movies", "Modern Asatru Practices" ],
+      "sacred_numbers": [ 3, 6 ],
+      "ritual_practices": [ 
+        { 
+          "name": "Blessing with Mjölnir", 
+          "instructions": "Use a replica of Mjölnir to consecrate and protect spaces or objects." 
+        }
+      ],
+      "sacred_locations": [ "Þrúðvangr (Thor’s Hall)" ],
+      "worship": {
+        "Temples": [ "Hof dedicated to Thor" ],
+        "Festivals": [ "Thorblot" ],
+        "Offerings": [ "Mead", "Bread", "Goat sacrifices" ]
+      }
+    }
+
+  }
+
+}

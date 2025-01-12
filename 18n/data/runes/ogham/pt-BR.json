@@ -1,0 +1,204 @@
+[
+    { "list": ["Beith", "Luis", "Fearn", "Saille", "Nion", "Huath", "Duir", "Tinne", "Coll", "Quert", "Muin", "Gort", "nGeatal", "Straith", "Ruis", "Ailim", "Onn", "Uhr", "Eadhadh", "Iodhadh", "Eabhadh", "Oir", "Uillean", "Ifin", "Amhancholl"] },
+    
+    {
+        "rune_title": "Beith",
+        "phonetic": "B",
+        "tree": "Árvore de Bétula",
+        "attributes": "Novos começos, fertilidade, adaptabilidade, renovação",
+        "season": "Inverno, pois a Bétula representa a centelha da vida no frio",
+        "meaning": "Beith, ou Beth, corresponde à letra B no alfabeto e está associada à árvore de Bétula. Representa novos começos, mudança, liberação, renascimento e purificação."
+    },
+    {
+        "rune_title": "Luis",
+        "phonetic": "L",
+        "tree": "Árvore de Sorveira",
+        "attributes": "Intuição, proteção espiritual, resistência à negatividade",
+        "season": "Início da primavera, refletindo proteção e crescimento.",
+        "meaning": "Luis corresponde à letra L no alfabeto e está associada à árvore de Sorveira. Este símbolo representa percepção, proteção e bênçãos."
+    },
+    {
+        "rune_title": "Fearn",
+        "phonetic": "F",
+        "tree": "Árvore de Alno",
+        "attributes": "Orientação, confiança, força em adversidade, diplomacia.",
+        "element": "Água, vinculando-a às jornadas emocionais e espirituais.",
+        "meaning": "F é para Fearn ou Fern, que está associado à árvore de Alno. O Alno é representativo do espírito em evolução. Seja uma ponte entre as pessoas, oferecendo conselhos e orientação."
+    },
+    {
+        "rune_title": "Saille",
+        "phonetic": "S",
+        "tree": "Árvore de Salgueiro",
+        "attributes": "Flexibilidade, intuição, sonhos, energias curativas.",
+        "season": "Primavera, ligada ao crescimento e renovação emocional.",
+        "meaning": "S é para Saille, pronunciado sahl-yeh, e está associado à árvore de Salgueiro. Este símbolo representa o conhecimento e o crescimento espiritual, proteção e cura, e está intimamente conectado aos ciclos da lua."
+    },
+    {
+        "rune_title": "Nion", 
+        "phonetic": "N", 
+        "tree": "Árvore de Freixo", 
+        "attributes": "Criatividade, transformação, proteção em viagens e jornadas.", 
+        "element": "Ar, indicando comunicação e mudança.",
+        "meaning": "N é para Nion, às vezes chamado de Nuin ou Nin, que está conectado à árvore de Freixo. Este é um símbolo de conexões e criatividade, transições entre os mundos e julgamento das ações."
+    },
+    {
+        "rune_title": "Huath",
+        "phonetic": "H",
+        "tree": "Árvore de Espinheiro",
+        "attributes": "Defesa, barreiras, fertilidade, e equilíbrio entre luz e escuridão.",
+        "season": "Beltane, refletindo seu papel em rituais de fertilidade e proteção.",
+        "meaning": "H é para Huath, ou Uatha, e é simbólico da árvore de Espinheiro. Esta árvore de espinhos está associada à purificação, proteção e defesa. Também está fortemente conectada com a fertilidade, energia masculina e fogo."
+    },
+    {
+        "rune_title": "Duir",
+        "phonetic": "D",
+        "tree": "Árvore de Carvalho",
+        "attributes": "Resistência, autoridade, liderança e conexão com o divino.",
+        "season": "Solstício de verão, quando o Carvalho está em plena floração, incorporando vitalidade.",
+        "meaning": "D é para Duir, a árvore celta de Carvalho. Como a árvore poderosa que representa, Duir está associada à força, resistência e autoconfiança. O Carvalho está conectado com feitiçarias de proteção e força, fertilidade, dinheiro e sucesso, e boa sorte."
+    },
+    {
+        "rune_title": "Tinne",
+        "phonetic": "T",
+        "tree": "Árvore de Azevinho",
+        "attributes": "Resistência, vitória em batalha, proteção contra o mal.",
+        "season": "Solstício de inverno, representando a vida eterna.",
+        "meaning": "T é para Tinne, ou Teine, a árvore de Azevinho. Esta planta perene está conectada com imortalidade, unidade, coragem e a estabilidade da casa e do lar. Pronunciado chihnn-uh pelos celtas, a madeira do Azevinho era frequentemente usada na construção de armas e é conhecida como uma planta de guerreiros e protetores."
+    },
+    {
+        "rune_title": "Coll",
+        "phonetic": "C",
+        "tree": "Árvore de Avelã",
+        "attributes": "Perspicácia, criatividade artística, sabedoria dos tempos.",
+        "season": "Outono, tempo de reflexão e colheita da sabedoria.",
+        "meaning": "C, às vezes lido como K, é Coll, que é a árvore de Avelã. A Avelã está associada à sabedoria, criatividade e conhecimento. Às vezes, ela é conectada na mitologia celta com fontes mágicas, poços sagrados e adivinhação."
+    },
+    {
+        "rune_title": "Quert",
+        "phonetic": "Q",
+        "tree": "Árvore de Maçã",
+        "attributes": "Amor, beleza, escolhas e a doçura da vida.",
+        "season": "Equinócio de Outono, ligado à colheita e abundância.",
+        "meaning": "Q é para Quert, às vezes escrito Ceirt, e está ligado à suculenta árvore de Maçã. Longamente simbólica do amor e da fidelidade, assim como do renascimento, a Maçã é frequentemente associada à magia."
+    },
+    {
+        "rune_title": "Muin",
+        "phonetic": "M",
+        "tree": "Videira",
+        "attributes": "Intuição, celebração, liberação de inibições.",
+        "element": "Terra, ligando-a ao crescimento e à abundância.",
+        "meaning": "M é para Muin, a Videira, aquela planta magnífica que produz uvas... a fonte do vinho. A Videira está conectada à profecia e à fala verdadeira. Muin é um símbolo de jornadas internas e lições de vida aprendidas."
+    },
+    {
+        "rune_title": "Gort",
+        "phonetic": "G",
+        "tree": "Hera",
+        "attributes": "Persistência, sobrevivência, abraçando os aspectos místicos da vida.",
+        "season": "Outono, associada à introspecção e ao crescimento interior.",
+        "meaning": "G é para Gort, a Hera que às vezes cresce livremente, mas muitas vezes parasita outras plantas. Seu espiral ascendente sem fim é representativo da busca da nossa alma pelo self, enquanto vagamos entre este mundo e o próximo. Gort, pronunciado go-ert, está conectado ao crescimento e à selvageria, assim como ao confronto com os aspectos místicos do nosso próprio desenvolvimento e evolução."
+    },
+    {
+        "rune_title": "nGeatal",
+        "phonetic": "Ng",
+        "tree": "Caniço",
+        "attributes": "Clareza, propósito, conexão com a família e as raízes.",
+        "season": "Final de Verão, refletindo os laços sociais e celebrações.",
+        "meaning": "Ng, ou nGeatal, é o Caniço que cresce reto e alto à beira do rio. O Caniço indica ação direta e encontrar propósito em sua jornada. Está conectado à saúde e cura, e aos encontros de família e amigos."
+    },
+    {
+        "rune_title": "Straith",
+        "phonetic": "St",
+        "tree": "Espinheiro",
+        "attributes": "Proteção, perseverança, triunfo sobre obstáculos.",
+        "element": "Fogo, simbolizando transformação através das provas.",
+        "meaning": "Este símbolo, usado para o som St, é Straith (às vezes visto como Straif), a árvore de Espinheiro. Um símbolo de autoridade e controle, o Espinheiro está conectado à força e ao triunfo sobre a adversidade."
+    },
+    {
+        "rune_title": "Ruis",
+        "phonetic": "R",
+        "tree": "Sabugueiro",
+        "attributes": "Transição, fechamento, sabedoria pela experiência.",
+        "season": "Inverno, ligado ao tempo de introspecção e fechamento.",
+        "meaning": "R é para Ruis, a árvore de Sabugueiro, que está conectada ao tempo do Solstício de Inverno. O Sabugueiro representa finais, maturidade e a conscientização que vem com a experiência. Pronunciado roo-esh, Ruis é um sinal de que as coisas podem estar terminando, mas começarão novamente algum dia. Embora o Sabugueiro seja facilmente danificado, ele se recupera e se regenera facilmente."
+    },
+    {
+        "rune_title": "Ailim",
+        "phonetic": "A",
+        "tree": "Olmo/Pinho/Abeto",
+        "attributes": "Perspectiva, visão de longo alcance, resiliência.",
+        "season": "Inverno, refletindo resistência e clareza em condições difíceis.",
+        "meaning": "A é para Ailim, ou Ailm, a árvore de Olmo. Curiosamente, este grupo também inclui as árvores de Pinho ou Abeto. Esses gigantes da floresta são símbolos de perspectiva e altura, elevando-se acima dos que os cercam. O Olmo tem uma visão clara do que o cerca, assim como do que está se aproximando."
+    },
+    {
+        "rune_title": "Onn",
+        "phonetic": "O",
+        "tree": "Ulex/Tojo",
+        "attributes": "Determinação, planejamento, resiliência.",
+        "season": "Primavera, um tempo para o novo crescimento e planejamento do futuro.",
+        "meaning": "O é para Onn, ou Ohn, e representa o arbusto de Ulex, às vezes chamado de Tojo. O Ulex representa o pensamento e planejamento a longo prazo - sabendo que às vezes precisamos abrir mão de algo para conquistar coisas no futuro. O Ulex é uma planta determinada que sempre retorna, e por isso também está conectada com perseverança e esperança."
+    },
+    {
+        "rune_title": "Uhr",
+        "phonetic": "U",
+        "tree": "Mojave",
+        "attributes": "Abundância, nutrição, conexão com os espíritos.",
+        "element": "Ar, denotando sua leveza e conexões espirituais.",
+        "meaning": "U (às vezes W) é Uhr ou Ura, a planta de Mojave, que simboliza paixão e generosidade. As flores de Mojave estão cheias de néctar rico e são muito atraentes para as abelhas, que em algumas tradições são vistas como mensageiras entre o mundo espiritual e o nosso. Uhr está associada tanto à generosidade quanto à cura, além do contato com o Outro Mundo."
+    },
+    {
+        "rune_title": "Eadhadh",
+        "phonetic": "E",
+        "tree": "Álamo",
+        "attributes": "Força, determinação, superação de adversidades.",
+        "season": "Final de Verão, quando a resistência leva à colheita das recompensas.",
+        "meaning": "E é Eadhadh, ou Eadha, o Álamo, um símbolo de resistência e coragem. O Álamo é um sinal de forte vontade e sucesso. Desafios podem surgir no seu caminho, mas você eventualmente conquistará seus adversários e obstáculos."
+    },
+    {
+        "rune_title": "Iodhadh",
+        "phonetic": "I",
+        "tree": "Teixo",
+        "attributes": "Transformação, renascimento, conexão com os ancestrais.",
+        "season": "Inverno, um tempo de morte e preparação para nova vida.",
+        "meaning": "I é Iodhadh, ou Idad, a árvore de Teixo. Assim como a carta da Morte no Tarô, o Teixo é conhecido como um marcador de morte e finais. Por causa de seu padrão de crescimento incomum, no qual o novo crescimento se forma dentro do velho, o Teixo está fortemente ligado ao renascimento e nova vida após a morte."
+    },
+    {
+        "rune_title": "Eabhadh",
+        "phonetic": "Ea",
+        "tree": "Árvores de Bosque (Álamo, Bétula, etc.)",
+        "attributes": "Equilíbrio, justiça, crescimento espiritual, unidade.",
+        "element": "Terra, ligando-a à harmonia comunitária e à ordem natural.",
+        "meaning": "O símbolo Eabhadh, que representa o som Ea, está conectado a árvores encontradas em Bosques, como o Álamo e a Bétula. Locais sagrados onde os Druidas se reuniam. Quando Eabhadh aparece, muitas vezes é um sinal de que uma resolução de conflito, justiça ou conselho está prestes a ocorrer. Em algumas tradições, esse símbolo é associado à atração das harmonias da vida através do crescimento espiritual."
+    },
+    {
+        "rune_title": "Oir",
+        "phonetic": "Oi",
+        "tree": "Árvore de Espinheiro",
+        "attributes": "Domesticidade, parentesco, resiliência.",
+        "season": "Outono, refletindo a abundância e os laços do lar.",
+        "meaning": "Oi, às vezes representando o som Th, é Oir, a árvore de Espinheiro, que, embora pareça delicada, também é muito forte. As flores brancas e os frutos vermelhos do outono conectam a árvore de Espinheiro ao lar e à família, assim como aos laços de parentesco e clã."
+    },
+    {
+        "rune_title": "Uillean",
+        "phonetic": "Ui",
+        "tree": "Madressilva",
+        "attributes": "Ambição, sutileza, manifestação da vontade.",
+        "season": "Final da Primavera, quando os desejos entram em flor.",
+        "meaning": "Ui (às vezes interpretado como Pe) é Uillean, a Madressilva. Associada à manifestação da vontade, a Madressilva começa como uma pequena semente e rasteja ao longo do tempo, crescendo e se espalhando. Ela é a flor do desejo não falado, das necessidades ocultas, dos desejos secretos, mas também representa nossos objetivos de encontrar nosso verdadeiro Eu."
+    },
+    {
+        "rune_title": "Ifin",
+        "phonetic": "Io",
+        "tree": "Pinheiro",
+        "attributes": "Clareza, perdão, resolução.",
+        "season": "Inverno, destacando sua natureza duradoura.",
+        "meaning": "Io (às vezes Ph) é Ifin ou Iphin, o Pinheiro. O Pinheiro está associado à clareza de visão e à aliviação da culpa. Quando Ifin aparece, pode indicar sentimentos de culpa que precisam ser deixados de lado ou conflitos não resolvidos que precisam de fechamento."
+    },
+    {
+        "rune_title": "Amhancholl",
+        "phonetic": "Ae",
+        "tree": "Hamamelis",
+        "attributes": "Purificação, renovação, eliminação de obstáculos.",
+        "season": "Primavera, quando a renovação e a cura são mais potentes.",
+        "meaning": "Ae (às vezes representado como X ou Xi), é Amhancholl ou Eamhancholl, associado à Hamamelis. Este adstringente natural é purificador e limpa. Quando Amhancholl aparece, geralmente é um indicativo de que a purificação e a limpeza são necessárias ou já ocorreram."
+    }
+]

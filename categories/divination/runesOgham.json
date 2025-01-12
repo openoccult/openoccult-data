@@ -1,0 +1,203 @@
+[
+    { "list": ["Beith", "Luis", "Fearn", "Saille", "Nion", "Huath", "Duir", "Tinne", "Coll", "Quert", "Muin", "Gort", "nGeatal", "Straith", "Ruis", "Ailim", "Onn", "Uhr", "Eadhadh", "Iodhadh", "Eabhadh", "Oir", "Uillean", "Ifin", "Amhancholl"] },
+
+    {
+        "rune_title": "Beith",
+        "phonetic": "B",
+        "tree": "Birch Tree",
+        "attributes": "Fresh starts, fertility, adaptability, renewal",
+        "season": "Winter, as the Birch represents the spark of life in the cold",
+        "meaning": "Beith, or Beth, corresponds to the letter B in the alphabet, and is associated with the Birch tree. It is representative of new beginnings, change, release, rebirth, and purification."
+    },
+    {
+        "rune_title":"Luis",
+        "phonetic": "L",
+        "tree": "Rowan Tree",
+        "attributes": "Intuition, spiritual protection, resilience against negativity",
+        "season": "Early Spring, reflecting protection and growth.",
+        "meaning": "Luis corresponds to the letter L in the alphabet, and is associated with the Rowan tree. This symbol represents insight, protection and blessings."
+    },
+    {
+        "rune_title":"Fearn",
+        "phonetic": "F",
+        "tree": "Alder Tree",
+        "attributes": "Guidance, confidence, strength in adversity, diplomacy.",
+        "element": "Water, linking it to emotional and spiritual journeys.",
+        "meaning": "F is for Fearn or Fern, which is associated with the Alder tree. The Alder is representative of the evolving spirit. Be a bridge between people, giving advice and council."
+    },
+    {
+        "rune_title":"Saille",
+        "phonetic": "S",
+        "tree": "Willow Tree",
+        "attributes": "Flexibility, intuition, dreams, healing energies.",
+        "season": "Spring, tied to growth and emotional renewal.",
+        "meaning": "S is for Saille, pronounced sahl-yeh, and is associated with the Willow tree. This symbol is representative of knowledge and spiritual growth, protection and healing, and is closely connected to the cycles of the moon."
+    },
+    {
+        "rune_title":"Nion", 
+        "phonetic": "N", 
+        "tree": "Ash Tree", 
+        "attributes": "Creativity, transformation, protection in travel and journeys.", 
+        "element": "Air, indicating communication and change.",
+        "meaning": "N is for Nion, sometimes called Nuin or Nin, which is connected to the Ash tree. This is a symbol of connections and creativity, transitions between the worlds, and judgement for actions."
+    },
+    {
+        "rune_title":"Huath", 
+        "phonetic": "H", 
+        "tree": "Hawthorn Tree", 
+        "attributes": "Defense, barriers, fertility, and balance between light and dark.", 
+        "season": "Beltane, reflecting its role in fertility and protection rituals.",
+        "meaning": "H is for Huath, or Uatha, and is symbolic of the Hawthorn tree. This prickly-thorned tree is associated with cleansing, protection and defense. It is also strongly connected with fertility, masculine energy, and fire."
+    },
+    {
+        "rune_title":"Duir", 
+        "phonetic": "D", 
+        "tree": "Oak Tree", 
+        "attributes": "Endurance, authority, leadership, and connection to the divine.", 
+        "season": "Midsummer, when the Oak is in full bloom, embodying vitality.",
+        "meaning": "D is for Duir, the Celtic tree of Oak. Like the mighty tree it represents, Duir is associated with strength, resilience and self-confidence. The Oak is connected with spells for protection and strength, fertility, money and success, and good fortune."
+    },
+    {
+        "rune_title":"Tinne", 
+        "phonetic": "T", 
+        "tree": "Holly Tree", 
+        "attributes": "Endurance, victory in battle, protection against evil.", 
+        "season": "Winter Solstice, representing eternal life.",
+        "meaning": "T stands for Tinne, or Teine, the Holly tree. This evergreen plant is connected to immortality, unity, courage, and the stability of hearth and home. Pronounced chihnn-uh by the Celts, the wood of the Holly was often used in the construction of weapons, and is known as a plant of warriors and protectors."
+    },
+    {
+        "rune_title":"Coll", 
+        "phonetic": "C", 
+        "tree": "Hazel Tree", 
+        "attributes": "Insight, artistic creativity, wisdom of the ages.", 
+        "season": "Autumn, a time of reflection and harvesting wisdom.",
+        "meaning": "C, sometimes read as K, is Coll, which is the Hazel tree. Hazel is associated with wisdom and creativity and knowledge. Sometimes it is connected in Celtic lore with magical springs, sacred wells, and divination."
+    },
+    {
+        "rune_title":"Quert", 
+        "phonetic": "Q", 
+        "tree": "Apple Tree", 
+        "attributes": "Love, beauty, choices, and life's sweetness.", 
+        "season": "Autumn Equinox, tied to harvest and abundance.",
+        "meaning": "Q is for Quert, sometime spelled Ceirt, and is tied to the luscious Apple tree. Long symbolic of love and faithfulness, as well as rebirth, the Apple is often associated with magic."
+    },
+    {
+        "rune_title":"Muin", 
+        "phonetic": "M", 
+        "tree": "Vine", 
+        "attributes": "Intuition, celebration, release of inhibitions.", 
+        "element": "Earth, linking it to growth and abundance.",
+        "meaning": "M is Muin, the Vine, that magnificent plant which produces grapes... the source of wine. The Vine is connected to prophecy and truthful speaking. Muin is a symbol of inward journeys and life lessons learned."
+    },
+    {
+        "rune_title":"Gort", 
+        "phonetic": "G", 
+        "tree": "Ivy", 
+        "attributes": "Persistence, survival, embracing the mystical aspects of life.", 
+        "season": "Autumn, associated with introspection and inner growth.",
+        "meaning": "G is Gort, the Ivy that sometimes grows freely, but often parasites upon other plants. Its endless upward spiral is representative of our soul's search for self, as we wander between this world and the next. Gort, pronounced go-ert, is connected to growth and wildness, as well as confronting the mystical aspects of our own development and evolution."
+    },
+    {
+        "rune_title":"nGeatal", 
+        "phonetic": "Ng", 
+        "tree": "Reed", 
+        "attributes": "Clarity, purpose, connection to family and roots.", 
+        "season": "Late Summer, reflecting social bonds and celebrations.",
+        "meaning": "Ng, or nGeatal, is the Reed that grows straight and tall at the riverside. The Reed indicates direct action, and finding purpose in your journey. It is connected with health and healing, and with gatherings of family and friends."
+    },
+    {
+        "rune_title":"Straith", 
+        "phonetic": "St", 
+        "tree": "Blackthorn", 
+        "attributes": "Protection, perseverance, triumph over obstacles.", 
+        "element": "Fire, symbolizing transformation through trials.",
+        "meaning": "This symbol, used for the sound St, is Straith (sometimes seen as Straif), the Blackthorn tree. A symbol of authority and control, the Blackthorn is connected to strength and triumph over adversity."
+    },
+    {
+        "rune_title":"Ruis", 
+        "phonetic": "R", 
+        "tree": "Elder Tree", 
+        "attributes": "Transition, closure, wisdom from experience.", 
+        "season": "Winter, linked to the time of introspection and closure.",
+        "meaning": "R is Ruis, the Elder tree, which is connected to the time of the Winter Solstice. The Elder represents endings, maturity, and the awareness that comes with experience. Pronounced roo-esh, Ruis is a sign that things may be ending, but will yet begin again some day. Although the Elder is easily damaged, it recovers and is rejuvenated easily."},
+    {
+        "rune_title":"Ailim", 
+        "phonetic": "A",
+        "tree": "Elm/Pine/Fir Tree", 
+        "attributes": "Perspective, far-sightedness, resilience.", 
+        "season": "Winter, reflecting endurance and clarity in tough conditions.",
+        "meaning": "A is for Ailim, or Ailm, the Elm tree. Interestingly, this group also includes the Pine or Fir trees. These giants of the forest are symbols of perspective and height, rising above those that surround us. The Elm has a clear vision of that which surrounds it, as well as that which is approaching."
+    },
+    {
+        "rune_title":"Onn", 
+        "phonetic": "O", 
+        "tree": "Gorse/Furze", 
+        "attributes": "Determination, planning, resilience.", 
+        "season": "Spring, a time for new growth and future planning.",
+        "meaning": "O is Onn, or Ohn, and represents the Gorse bush, sometimes called Furze. Gorse represents long-term thinking and planning–knowing that sometimes we have to do without in order to gain things in the future. Gorse is a determined sort of plant that always comes back, and so it is also connected with perseverance and hope."
+    },
+    {
+        "rune_title":"Uhr", 
+        "phonetic": "U", 
+        "tree": "Heather", 
+        "attributes": "Abundance, nurturing, connection to spirits.", 
+        "element": "Air, denoting its lightness and spiritual connections.",
+        "meaning": "U (sometimes W) is Uhr or Ura, the Heather plant, which symbolizes passion and generosity. Heather blossoms are full of rich nectar and are very attractive to bees, which are seen in some traditions as messengers to and from the spirit world. Uhr is associated with both generosity and healing, as well as contact with the Otherworld."
+    },
+    {
+        "rune_title":"Eadhadh", 
+        "phonetic": "E", 
+        "tree": "Aspen", 
+        "attributes": "Strength, determination, overcoming adversity.", 
+        "season": "Late Summer, when endurance leads to the harvest of rewards.",
+        "meaning": "E is Eadhadh, or Eadha, which is the Aspen, a symbol of endurance and courage. The Aspen is a sign of strong will and success. Challenges may come your way, but you will eventually conquer your adversaries and obstacles."
+    },
+    {
+        "rune_title":"Iodhadh", 
+        "phonetic": "I", 
+        "tree": "Yew", 
+        "attributes": "Transformation, rebirth, connection to ancestors.", 
+        "season": "Winter, a time of death and preparation for new life.",
+        "meaning": "I is Iodhadh, or Idad, the Yew tree. Much like the Death card in the Tarot, the Yew is known as a marker of death and endings. Because of its unusual growth pattern, in which new growth forms inside the old, the Yew is strongly tied to rebirth and new life following death."
+    },
+    {
+        "rune_title":"Eabhadh", 
+        "phonetic": "Ea", 
+        "tree": "Grove Trees (Aspen, Birch, etc.)", 
+        "attributes": "Balance, justice, spiritual growth, unity.", 
+        "element": "Earth, tying it to communal harmony and natural order.",
+        "meaning": "The Eabhadh symbol, which represents the sound Ea, is connected to trees which are found in Groves, Aspen, Birch, etc. The sacred places where Druids once gathered. When Eabhadh appears, it's often a clue that there is some sort of conflict resolution, justice, or counsel about to occur. In some traditions, this symbol is associated with attracting the harmonies of life through spiritual growth."
+    },
+    {
+        "rune_title":"Oir", 
+        "phonetic": "Oi", 
+        "tree":"Spindle Tree", 
+        "attributes": "Domesticity, kinship, resilience.", 
+        "season": "Autumn, reflecting the bounty and connections of home.",
+        "meaning": "Oi, sometimes representing the Th sound, is Oir, the Spindle tree, which vwhile it looks delicate, it's also very strong. The white flowers and bright red autumn fruits, connect the Spindle tree to the hearth and home, as well as the bonds of kinfolk and clan."
+    },
+    {
+        "rune_title":"Uillean", 
+        "phonetic": "Ui", 
+        "tree": "Honeysuckle", 
+        "attributes": "Ambition, subtlety, manifestation of will.", 
+        "season": "Late Spring, when desires come into bloom.",
+        "meaning": "Ui (sometimes interpreted as Pe) is Uillean, the Honeysuckle. Associated with the manifestation of will, the Honeysuckle starts as a small seed and creeps along, growing and spreading over time. It is the flower of unspoken desire, hidden needs, secret wants, but it also represents our goals of finding our true Self."
+    },
+    {
+        "rune_title":"Ifin", 
+        "phonetic": "Io", 
+        "tree": "Pine Tree",
+        "attributes": "Clarity, forgiveness, resolution.", 
+        "season": "Winter, highlighting its enduring nature.",
+        "meaning": "Io (sometimes Ph) is Ifin or Iphin, the Pine tree. Pine is associated with clarity of vision, and alleviation of guilt. When Ifin appears, it may indicate feelings of guilt that need to be put aside, or unresolved conflicts that need closure."
+    },
+    {
+        "rune_title":"Amhancholl", 
+        "phonetic": "Ae", 
+        "tree": "Witch Hazel", 
+        "attributes": "Purification, renewal, clearing obstacles.", 
+        "season": "Spring, when renewal and healing are most potent.",
+        "meaning": "Ae (sometimes represented as X or Xi), is Amhancholl or Eamhancholl, associated with Witch Hazel. This natural astringent is purifying and cleansing. When Amhancholl appears, it's usually an indicator that cleansing and purification is necessary or has taken place."
+    }
+]

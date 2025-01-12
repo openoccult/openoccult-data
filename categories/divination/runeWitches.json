@@ -1,0 +1,134 @@
+[
+    { "list": ["Sun", "Moon", "Flight", "Rings", "Romance", "Woman", "Man", "Harvest", "Crossroads", "Star", "Waves", "Scythe", "Eye"] },
+
+    {
+        "rune_title": "The Sun - Rune of healing",
+        "meaning": "The beginning of something new. Making good decisions. Having good health and vitality. Healing. Good news. Justice.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/sun.png?w=300",
+        "keywords": "happiness, justice, healing, vitality, protection, fertility",
+        "relatedDeities": "Apollo, Helios, Ra – deities associated with the sun, light, and healing.",
+        "element": "Fire",
+        "astrologicalAssociation": "The Sun, Leo",
+        "phonetic": null
+    },
+    {
+        "rune_title": "The Moon - Rune of awareness",
+        "meaning": "Long term changes, transition. Deep within the darkness there is a glow and one must be able to navigate with ones intuitive side in order to connect with the emotions of life.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/moon.png?w=310",
+        "keywords": "transitions, changes, hidden agendas, secrets, imaginations",
+        "relatedDeities": "Selene, Artemis, Hecate – deities associated with the moon and the night.",
+        "element": "Water",
+        "astrologicalAssociation": "The Moon, Cancer",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Flight - Rune of Communication",
+        "meaning": "Movement, Communications and information. Travel of all kinds. Social media. Networking. News. Word of mouth. As the bird fly’s in and out of this realm and the other it carries with it a message of transforming urgency. As quick as the birds direction can change also is the news it brings.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/birds.png?w=356",
+        "keywords": "communications, movement, travel, information, greater knowledge",
+        "relatedDeities": "Hermes, Mercury, Odin – deities associated with communication, travel, and messages.",
+        "element": "Air",
+        "astrologicalAssociation": "Mercury, Gemini",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Rings - Rune of Bondage",
+        "meaning": "Circumstances that connect people. Combining different elements to create something new. Coming in contact with people we can share something with. Interest groups. As the Sea, Sky and Earth are bonded together what is upon you will as well. Your energies are aligned with others.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/rings.png?w=768",
+        "keywords": "Something new, partnership, strengthening, contracts, romance, business, friendship",
+        "relatedDeities": "Hera, Juno, Aphrodite – deities associated with marriage, partnerships, and unions.",
+        "element": "Earth",
+        "astrologicalAssociation": "Libra, Venus",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Romance - Rune of desire",
+        "meaning": "Love and relationships, deep emotional connections. Soulmate. Harmony in the relationship. Being in love with someone who loves you back. Beware to not become hypnotized by your own passions, have patience and feel the moments you are creating.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/flower.png?w=380",
+        "keywords": "attractions, love, desire, patience, harmony, emotional, fertility",
+        "relatedDeities": "Aphrodite, Venus, Eros – deities associated with love, beauty, and desire.",
+        "element": "Water",
+        "astrologicalAssociation": "Taurus, Scorpio, Venus",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Woman - A Rune of Gentle action",
+        "meaning": "Traditional female abilities and characteristics. Healings. Being a healer. The home. Creativity. Nurturing. Caring for someone. Being a mother. Take things slowly and connect to the deep understanding of contemplation. The rune applies to healing and domestic arts.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/woman.png?w=300",
+        "keywords": "home, creativity, healer, nurturing, caring",
+        "relatedDeities": "Demeter, Hestia, Frigg – deities associated with motherhood, the home, and nurturing.",
+        "element": "Earth",
+        "astrologicalAssociation": "Cancer, Virgo",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Man - A Rune of victory",
+        "meaning": "Traditional male characteristics. Action. Being a father. Protecting loved ones. Being a provider. Being empowered. Having confidence. When you see this rune it means defending of ones own interest. No slow movement do not sit and reflect on anything. Stand strong with insight and a driving energy.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/man.png?w=300",
+        "keywords": "provider, protector, strength, empowerment",
+        "relatedDeities": "Zeus, Odin, Thor – deities associated with strength, protection, and leadership.",
+        "element": "Fire",
+        "astrologicalAssociation": "Aries, Mars",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Harvest - A Rune of Growth",
+        "meaning": "Blessings of investing in yourself. Rewards. Seeing the \"fruits of your labour\". Providing for yourself. Can mean self-employment. Education. This Rune brings one rewards but only when one works towards there own growth. Overcoming what one thinks is there own limitations. Weakness becomes strength. A rune for your well being and happiness.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/seed.png?w=303",
+        "keywords": "blessings, rewards, prosperity, abundance",
+        "relatedDeities": "Demeter, Ceres, Freyr – deities associated with agriculture, fertility, and the harvest.",
+        "element": "Earth",
+        "astrologicalAssociation": "Virgo, Taurus",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Crossroads - A Rune of Direction",
+        "meaning": "Many ways to reach the same place. Making a major life decision. Not knowing what to do next. Feeling stuck. Being afraid of moving forward. Time for a new path and new way to be and moving forward in that direction. Change is always happening.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/directions.png?w=300",
+        "keywords": "decisions, changes, afraid of moving forward, being stuck, the unknown.",
+        "relatedDeities": "Hecate, Hermes, Janus – deities associated with crossroads, transitions, and guiding travelers.",
+        "element": "Air",
+        "astrologicalAssociation": "Gemini, Mercury",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Star - A Rune of Affirmation",
+        "meaning": "A green light to go after what you want. Your Life purpose (look at the runes closest to the Star for clues). Being an inspiration for others. Being yourself. Being accepted for who you really are. Freedom. Shot for the stars aim for your dreams and goals. You are on the path of true alignment that the cosmos gifted you. All is a go.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/star.png?w=300",
+        "keywords": "Wishing, desire, life purpose, freedom to be yourself, accepted",
+        "relatedDeities": "Apollo, Astarte, Astraea – deities associated with guidance, hope, and destiny.",
+        "element": "Air",
+        "astrologicalAssociation": "Aquarius, Venus",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Waves - Rune of Movement",
+        "meaning": "Being moved. A deep connection to the spiritual world. Feeling of being out of your control. Insecurities. The need to connect to your life and being in the flow. Being overwhelmed. This is a rune that means good and bad just depending. Connected to the deep mystery’s of life that we at times can get into a stillness and if we don’t awaken from that stillness the waves of the water will imprison us and trap us in our own sabotage. But if we let the waves carry us along its own current we can find the deep answers to the mysteries we seek.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/wave.png?w=308",
+        "keywords": "unsure, purity, cleansing, forgiveness",
+        "relatedDeities": "Poseidon, Yemaya, Tethys – deities associated with water, emotions, and the mysteries of the sea.",
+        "element": "Water",
+        "astrologicalAssociation": "Pisces, Neptune",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Scythe - Rune of End",
+        "meaning": "Sudden changes and endings. Making a final decision. Completing something. Walking away from something or someone. Danger. At times in our life we carry with us things that need not be anymore and need to be cut away separated from us to move forward. This rune brings in a forcing transformation a great change we must make in order for us to move forward. The end of something is but only the beginning of something new.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/sickle.png?w=309",
+        "keywords": "completion, end, begins, rebirth, separate, forward",
+        "relatedDeities": "Hades, Kali, Morrigan – deities associated with endings, death, transformation, and rebirth.",
+        "element": "Earth",
+        "astrologicalAssociation": "Scorpio, Pluto",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Eye - Rune of perspective",
+        "meaning": "Lifting of the \"veil\". Seeing the unseen. Focusing on something (look at the runes facing the Eye for clues). Psychic abilities. Visual activities. Witnessing. A great understanding is within you you only have to see. Focusing brings in a new perspective that you cant undo. You see things as they are summing up by a connection by divine intervention. A sudden realization of fate. You have the power.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/eye.png?w=340",
+        "keywords": "reveal, truth, protection, psychic abelite's, perspective, fate",
+        "relatedDeities": "Odin, Horus, Athena – deities associated with wisdom, insight, and seeing the hidden truth.",
+        "element": "Air",
+        "astrologicalAssociation": "Sagittarius, Jupiter",
+        "phonetic": null
+    }
+]

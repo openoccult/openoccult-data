@@ -1,0 +1,205 @@
+{
+    "info": "Angel numbers are numerical values that are used to convey special messages and guidance from spiritual authorities to humans on earth. Depending on the current situation in your life, this message from the angels may be a warning of an event that is about to happen in your personal life or work, a big change waiting in the horizon, or a promise of better times if you follow the path God has created for you. In any case, keep in mind that it’s a sign meant to guide us and bring us back on the right path.",
+    "numbers":{
+        "0": {
+            "id": "000",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884531966005288/CEA6BA4B-24FC-4BE1-BF4A-43F3AF8C2985.png",
+            "meaning": "Seeing this angel number is a sign that you are one with the divine source. It is a reminder for you to focus on your spiritual path and to know that you have all the angelic support and guidance you need to create positive changes in your life. It is also a sign of a fresh start or a new beginning. It is time to open your heart, raise your vibration, and become one with the divine source and be blessed with endless opportunities towards making your goals and dreams a reality.",
+            "keywords": ["new beginnings", "spiritual growth", "divine connection"],
+            "affirmation": "I am aligned with the divine source, and my goals and dreams are manifesting with ease.",
+            "colors": ["white", "gold", "purple"],
+            "crystals": ["amethyst", "clear quartz"],
+            "astrology": {
+                "planet": "Sun",
+                "zodiac": "Leo"
+            },
+            "numerology": {
+                "Chinese": "Symbol of completeness and unity.",
+                "Pythagorean": "Represents the void before creation."
+            },
+            "tarot": ["The Fool", "Judgement"],
+            "angels": ["Metatron", "Raziel"],
+            "actions": ["Meditate on your goals", "Write down your intentions", "Perform a cleansing ritual"]
+        },
+        "111": {
+            "id": "111",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884537963860009/A4B70898-C6D1-47AE-A820-260C692B34CF.png?ex=659c2fe9&is=6589bae9&hm=05f600506179b9fa3f222040183e1c3a2e1e67bce037a81f70b04afe6974badf&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "It is a sign from your angels to go forward with your plans with the realization that you will be supported by your spiritual guides. Review your thoughts and try to recall what you were thinking about when you saw the angel number 111 and focus on that plan or desired outcome. It is a reminder for you to focus on your desires and goals and not on what you are worried about or your fears. This number is an indication for you to be positive and take the initiative to work on your plans in order to fulfill your dreams. The 111 angel number is sending you a manifestation invitation! This number sequence knows that your thoughts quickly become your reality, so it's more important than ever to play close attention to your ideas, beliefs, and feelings. What negative thought patterns have you been carrying around? How have they been holding you back? A positive new beginning can't materialize if it's being overshadowed by fear and doubt. Release what is worrying you and surround yourself with positive energy. Seeing the 111 angel number is your opportunity to create the future you desire, so make it count!",
+            "keywords": ["manifestation", "positivity", "new beginnings"],
+            "affirmation": "I am a powerful creator, manifesting my dreams and goals with ease and positivity.",
+            "colors": ["white", "gold", "light yellow"],
+            "crystals": ["clear quartz", "citrine"],
+            "astrology": {
+                "planet": "Sun",
+                "zodiac": "Leo"
+            },
+            "numerology": {
+                "Chinese": "Triple Yang Energy",
+                "Pythagorean": "Mastery of Self"
+            },
+            "tarot": ["The Magician", "The Sun"],
+            "angels": ["Archangel Uriel", "Archangel Jophiel"],
+            "actions": ["Focus on positive thoughts", "Set intentions for goals", "Meditate on manifestation"]
+        },
+        "222": {
+            "id": "222",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884537301155910/DD83DAB9-E3E3-4289-B866-462EA9AF43E8.png?ex=659c2fe9&is=6589bae9&hm=6cec3b7b9a1addeba4e1d71e9c36d38a24a542cbcea16d1f6d4608ed3862b65a&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "Seeing angel number 222 is a sign from your angels that you are on the right path and that everything will come to fruition if you just hold on and believe in the love and support of your guardian angels. This number symbolizes faith and optimism. It is a reminder for you to to seek help from your angels, to focus on your plans and move forward, believing that you will manifest your desired goals in life.",
+            "keywords": ["faith", "balance", "manifestation"],
+            "affirmation": "I trust the journey and believe in the divine plan for my life.",
+            "colors": ["blue", "green", "soft pink"],
+            "crystals": ["rose quartz", "aventurine"],
+            "astrology": {
+                "planet": "Venus",
+                "zodiac": "Libra"
+            },
+            "numerology": {
+                "Chinese": "Duality and Harmony",
+                "Pythagorean": "Balance and Cooperation"
+            },
+            "tarot": ["The High Priestess", "Justice"],
+            "angels": ["Archangel Chamuel", "Archangel Raphael"],
+            "actions": ["Focus on creating balance in life", "Trust in divine timing", "Express gratitude for support"]
+        },
+        "333": {
+            "id": "333",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884536730746970/874FA6A0-04D9-4344-9602-E1BB20429576.png?ex=659c2fe9&is=6589bae9&hm=dcb39bbd911bcb0ec991148e372d07558cd8b9eed6f8eb0da41af3366b2e7dd3&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "A sign that you are surrounded by the ascended masters and angels. They are there to guide and support you in your life’s journey. It is a sign that your prayers and your call for help have been heard. The ascended masters and your angels are there to willingly help, guide, and support you with your current situation. However, you must be willing to acknowledge them as they respect your free will and will not interfere in your life without your permission.",
+            "keywords": ["guidance", "support", "ascension"],
+            "affirmation": "I welcome divine guidance and trust in the wisdom of the universe.",
+            "colors": ["yellow", "gold", "white"],
+            "crystals": ["citrine", "clear quartz"],
+            "astrology": {
+                "planet": "Jupiter",
+                "zodiac": "Sagittarius"
+            },
+            "numerology": {
+                "Chinese": "Growth and Development",
+                "Pythagorean": "Creativity and Expansion"
+            },
+            "tarot": ["The Empress", "The Sun"],
+            "angels": ["Archangel Metatron", "Archangel Gabriel"],
+            "actions": ["Meditate to connect with higher guidance", "Trust in the wisdom of your inner voice", "Take inspired action on your goals"]
+        },
+        "444": {
+            "id": "444",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884536181280828/ACD955E6-159E-46C6-A0DB-3E727AC2B5BE.png?ex=659c2fe9&is=6589bae9&hm=2a51d22d20900c00547abace4e74a485e8b6add3bba31c76dc59c97aa75deb14&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "This angel number holds a powerful message from your angels that they will always love and support you. If you continue to see this number, your guardian angels are encouraging you to move forward with your plan without fear. They want you to know that they have got your back and will help you succeed.",
+            "keywords": ["stability", "protection", "encouragement"],
+            "affirmation": "I am safe and supported in all my endeavors.",
+            "colors": ["green", "blue", "white"],
+            "crystals": ["emerald", "lapis lazuli"],
+            "astrology": {
+                "planet": "Saturn",
+                "zodiac": "Capricorn"
+            },
+            "numerology": {
+                "Chinese": "Strength and Protection",
+                "Pythagorean": "Foundation and Support"
+            },
+            "tarot": ["The Emperor", "The World"],
+            "angels": ["Archangel Raphael", "Archangel Michael"],
+            "actions": ["Trust in the path you're on", "Seek guidance through meditation", "Strengthen your foundations"]
+        },
+        "555": {
+            "id": "555",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884535501783040/4EEDA5E1-05CB-44CE-902E-D3807E613418.png?ex=659c2fe9&is=6589bae9&hm=20e5c1144bf7b6257c7d5a1d3e1b69dae5cb84a048cc63dbc318f832142f76b8&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "A subtle heads-up from your guardian angels about a huge change that is about to happen in your life. Don’t be worried when you see this number because your angels are not warning about a negative change but merely asking you to be grateful and be prepared for the blessings you are about to receive. The changes might bring immense success, happiness, and vitality into your life.",
+            "keywords": ["change", "transformation", "opportunity"],
+            "affirmation": "I embrace change as a gateway to new blessings.",
+            "colors": ["orange", "yellow", "white"],
+            "crystals": ["tiger's eye", "amber"],
+            "astrology": {
+                "planet": "Uranus",
+                "zodiac": "Aquarius"
+            },
+            "numerology": {
+                "Chinese": "Transformation and Vitality",
+                "Pythagorean": "Freedom and Change"
+            },
+            "tarot": ["The Tower", "The Fool"],
+            "angels": ["Archangel Chamuel", "Archangel Uriel"],
+            "actions": ["Embrace change with gratitude", "Stay open to new opportunities", "Let go of fear and trust the process"]
+        },
+        "666": {
+            "id": "666",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884534709092363/6FE10067-CB94-4B06-AE0E-D23B29871F92.png?ex=659c2fe9&is=6589bae9&hm=f45f3de28e3b76a5225bd3a4779800978a81c319a06463e9057d6bce6a5d4a23&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "No, this is not a devil number, nor is it a bad sign. In fact, the angel number 666 carries a significant message from our guardian angels. Seeing this number is a warning from your angels that your life is out of balance. It is also a warning for you that your focus is too much on material gains and loses.",
+            "keywords": ["balance", "awareness", "alignment"],
+            "affirmation": "I bring my life into balance with love and intention.",
+            "colors": ["indigo", "purple", "white"],
+            "crystals": ["amethyst", "fluorite"],
+            "astrology": {
+                "planet": "Venus",
+                "zodiac": "Libra"
+            },
+            "numerology": {
+                "Chinese": "Harmony and Guidance",
+                "Pythagorean": "Rebalancing and Responsibility"
+            },
+            "tarot": ["The Lovers", "Justice"],
+            "angels": ["Archangel Haniel", "Archangel Jophiel"],
+            "actions": ["Reassess your priorities", "Focus on spiritual growth", "Let go of material attachments"]
+        },
+        "777": {
+            "id": "777",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884534193180702/DDA744C8-6110-41C1-A906-C9105E44994E.png?ex=659c2fe8&is=6589bae8&hm=0798c79d09120ba971a5d08a269e8f3bb61b24657a60edca76753827ff9a380d&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "A sign indicating that you are on the path you were meant to be and encouraging you to keep moving forward with faith. When you continue to see the angel number 777, it is a sign that the entire universe is by your side to support you. Just have faith, be positive, and carry on.",
+            "keywords": ["spirituality", "luck", "guidance"],
+            "affirmation": "I trust the universe to guide me toward my highest purpose.",
+            "colors": ["gold", "purple", "white"],
+            "crystals": ["clear quartz", "citrine"],
+            "astrology": {
+                "planet": "Jupiter",
+                "zodiac": "Sagittarius"
+            },
+            "numerology": {
+                "Chinese": "Wisdom and Enlightenment",
+                "Pythagorean": "Spiritual Growth and Luck"
+            },
+            "tarot": ["The Star", "The Hermit"],
+            "angels": ["Archangel Gabriel", "Archangel Zadkiel"],
+            "actions": ["Meditate to deepen your connection", "Trust your inner wisdom", "Celebrate your spiritual progress"]
+        },
+        "888": {
+            "id": "888",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884533526265916/E696D1D9-BF30-4AB0-95D0-E858F81311E0.png?ex=659c2fe8&is=6589bae8&hm=be6c5088cb330817d6d64f80a650a3e044445addf60a2b3353ed5568943761a7&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "Seeing the number 888 is a sign from your angels to bring balance in all aspects of your life. Your angels are trying to tell you that this is the right time to pursue your goals and desires, especially if it’s for the greater good of your surroundings. It also means that you will be blessed abundantly just for sharing your gifts to everyone around you.",
+            "keywords": ["abundance", "balance", "prosperity"],
+            "affirmation": "I am in perfect balance and abundance flows freely in my life.",
+            "colors": ["green", "gold", "yellow"],
+            "crystals": ["emerald", "jade"],
+            "astrology": {
+                "planet": "Saturn",
+                "zodiac": "Capricorn"
+            },
+            "numerology": {
+                "Chinese": "Wealth and Success",
+                "Pythagorean": "Material Prosperity"
+            },
+            "tarot": ["The Emperor", "The World"],
+            "angels": ["Archangel Uriel", "Archangel Michael"],
+            "actions": ["Focus on your goals", "Share your abundance", "Continue your journey with confidence"]
+        },
+        "999": {
+            "id": "999",
+            "image": "https://cdn.discordapp.com/attachments/882071853458391110/980884532645470278/137DE270-6F2E-4210-88D8-3354966E39A8.png?ex=659c2fe8&is=6589bae8&hm=0d62c071be2687c79763cbc60d5135adae01e4c2944095aeb4cc209e91a5f5bb&=&format=webp&quality=lossless&width=638&height=638",
+            "meaning": "A sign telling you that certain chapters of your life have come to an end, be it friendships, relationships, or even your career. Your angels are trying to tell you that these chapters no longer hold any purpose in your life, and so it must come to an end. Don’t be discouraged when you see this angel number because when one chapter of your life ends, it is paving the way for new beginnings.",
+            "keywords": ["endings", "closure", "new beginnings"],
+            "affirmation": "I embrace change and trust in the new opportunities ahead.",
+            "colors": ["red", "white", "black"],
+            "crystals": ["obsidian", "garnet"],
+            "astrology": {
+                "planet": "Mars",
+                "zodiac": "Aries"
+            },
+            "numerology": {
+                "Chinese": "Transformation and Completion",
+                "Pythagorean": "Cycles and Endings"
+            },
+            "tarot": ["Death", "The Fool"],
+            "angels": ["Archangel Azrael", "Archangel Jeremiel"],
+            "actions": ["Let go of the past", "Make space for new beginnings", "Embrace your new journey"]
+        }
+    }
+}

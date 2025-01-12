@@ -1,0 +1,407 @@
+{
+    "test": {
+        "reply": "Este é um comando de teste de idioma",
+        "embed": {
+            "title": "Sistema de Teste de Internacionalização (i18n)",
+            "description": "Este é um teste do sistema de idiomas para verificar se funciona!"
+        }
+    },
+    "8ball": {
+        "answers": [
+            "Resposta incerta, tente novamente", 
+            "Pergunte novamente mais tarde", 
+            "Melhor não te contar agora", 
+            "Não é possível prever agora", 
+            "Concentre-se e pergunte novamente", 
+            "Não conte com isso", 
+            "Minha resposta é não", 
+            "Minhas fontes dizem que não", 
+            "As perspectivas não são boas", 
+            "Muito duvidoso", 
+            "É certo", 
+            "Definitivamente sim", 
+            "Sem dúvida", 
+            "Sim, com certeza", 
+            "Você pode confiar nisso", 
+            "A meu ver, sim", 
+            "Muito provável", 
+            "Perspectiva boa", 
+            "Sim", 
+            "Os sinais apontam que sim"
+        ],
+        "playfulResponses": [
+            "🎱 | A Bola 8 Mágica diz", 
+            "🎱 | Olhe na sabedoria da Bola 8 Mágica", 
+            "🎱 | Veja a resposta da mística Bola 8", 
+            "🎱 | A encantada Bola 8 revela"
+        ],
+        "!question": "Nenhuma pergunta fornecida",
+        "embed": {
+            "title": "Bola 8 Mágica do Cabot",
+            "fields": [
+                { "name": "Pergunta", "value": "```{{question}}```" },
+                { "name": "Resposta", "value": "```{{answer}}```" }
+            ],
+            "footer": {
+                "text": "{{footer}}",
+                "iconURL": "{{avatarUrl}}"
+            }
+        }
+    },
+    "bibliomancy": {
+        "!verseData": "Desculpe, não consegui recuperar um verso neste momento.",
+        "embed": {
+            "title": "Script de Bibliomancia: __{{reference}}__",
+            "description": "{{text}}",
+            "footer": { 
+                "text": "Fonte: {{translation_name}} @ bible-api.com", 
+                "iconURL": "{{avatarUrl}}"
+            }
+        }
+    },
+    "coinFlip": {
+        "headsAsset": {
+            "result": "Cara",
+            "thumb": "https://i.ibb.co/c8vkgSq/coin-heads.png",
+            "emoji": "<:cabot_heads:893970074057199667>"
+        },  
+        "tailsAsset": {
+            "result": "Coroa",
+            "thumb": "https://i.ibb.co/DWCyjW1/coin-tails.png",
+            "emoji": "<:cabot_tails:893970112472834068>"
+        },
+        "embed": {
+            "title": "{{emoji}} Lançamento da Moeda {{emoji}}",
+            "thumbnail": { "url": "{{thumb}}" },
+            "description": "Você lançou a moeda e obteve **`{{result}}`**!"
+        }
+    },
+    "fortune": {
+        "embed": {
+            "title": "<:stars:890398005507809371> Cabot, o Contador de Fortunas <:stars:890398005507809371>",
+            "thumbnail": { "url": "https://images.onlinelabels.com/images/clip-art/msmoonpie/Kawaii%20Fortune%20Cookie-306732.png" },
+            "description": "> {{randomFortune}}",
+            "footer": { 
+                "text": "Que seu dia seja tão brilhante quanto a sua sorte!\nTem uma fortuna para compartilhar?\nUse /suggest para enviar a sua e ela pode ser adicionada à nossa lista!", 
+                "iconURL": "{{avatarUrl}}"
+            },
+            "timestamp": true
+        }
+    },
+    "geomancy": {
+        "embed": {
+            "title": "Geomancia: {{Name}} | {{EnglishName}}",
+            "fields": [
+                { "name": "Informações", "value": "Planeta: {{Planet}}\nSigno do Zodíaco: {{ZodiacSign}}\nPresságio: {{Portent}}\nElemento: {{Element}}\nGênero: {{Gender}}" },
+                { "name": "Descrição", "value": "{{Meaning}}" },
+                { "name": "Informação Adicional", "value": "{{AdditionalInfo}}" }
+            ],
+            "footer": { 
+                "text": "Tradicionalmente, a geomancia é um método de adivinhação que interpreta marcas no solo após um punhado de terra ser jogado ao ar\nSaiba mais sobre geomancia abaixo 'Aprenda Geomancia!'", 
+                "iconURL": "{{avatarUrl}}" 
+            },
+            "timestamp": true
+        }
+    },
+    "hieroglyph": {
+        "embed": {
+            "title": "__Hieróglifo: {{hieroglyph.name}}__",
+            "fields": [
+                { "name": "Descrição", "value": "{{hieroglyph.description}}" },
+                { "name": "Palavras-chave", "value": "{{hieroglyph.keywords}}" },
+                { "name": "Categoria", "value": "{{hieroglyph.category}}", "inline": true },
+                { "name": "Gardiner & Unicode", "value": "`{{hieroglyph.gardiner_unicode}}`", "inline": true },
+                { "name": "Deidade", "value": "{{hieroglyph.diety}}", "condition": "hasDiety" }
+            ],
+            "footer": { 
+                "text": "Raridade: {{rarityOption}} - sorteado: {{pullCount}}\nDados fornecidos por: kayesconfused - Compilado pelo Sistema do Cabot", 
+                "iconURL": "{{avatarUrl}}" 
+            }
+        }
+    },
+    "iching": {
+        "embed": {
+            "title": "__{{hexagram.name.en}}__ ({{hexagram.symbol}}) - {{hexagram.name.zh}} | Número: **{{hexagram.number}}** | Padrão: **{{hexagram.pattern}}**",
+            "description": "{{hexagram.judgment}}",
+            "fields": [
+                { "name": "Linhas:", "value": "{{hexagram.lines}}" },
+                { "name": "Imagem:", "value": "{{hexagram.image}}" }
+            ],
+            "footer": {
+                "text": "O I Ching ilumina os princípios do Tao, o fluxo universal que fundamenta toda ação e permeia toda existência.\nUsando: I-Ching Wilhelm/Baynes tradução\nSaiba mais sobre I-Ching abaixo 'Aprenda I-Ching!'", 
+                "iconURL": "{{avatarUrl}}" 
+            }
+        }
+    },
+    "pendulum": {
+        "!question": "Nenhuma pergunta fornecida",
+        "embed": {
+            "thumbnail": { "url": "{{answer.thumb}}" },
+            "title": "Resposta do Pêndulo: {{answer.response}}",
+            "description": "**Sua Pergunta:**\n` {{question}}`",
+            "fields": [
+                { "name": "O Pêndulo do Cabot diz:", "value": "`{{answer.response}}`" }
+            ],
+            "footer": {
+                "text": "{{footer}}",
+                "iconURL": "{{avatarUrl}}" 
+            }
+        },
+        "outcomes": [
+            {
+                "response": "Sim",
+                "thumb": "https://i.ibb.co/Cv9MCC8/emotehappy.png"
+            },
+            {
+                "response": "Não",
+                "thumb": "https://i.ibb.co/tYCrGX0/emotesad.png"
+            },
+            {
+                "response": "Talvez",
+                "thumb": "https://i.ibb.co/b5vfXGM/Emotesleeping.png"
+            }
+        ],
+        "footers": [
+            "Confie nos seus instintos e na sua intuição acima de tudo.",
+            "Considere manter um diário para suas leituras de pêndulo.",
+            "Diferentes pêndulos podem dar respostas diferentes.",
+            "O pêndulo falou!",
+            "Seu destino é influenciado pela resposta do pêndulo!",
+            "Adivinhação com pêndulo no seu melhor!",
+            "Lembre-se, é tudo apenas para diversão!"
+        ]
+    },
+    "psychic": {
+        "embed": {
+            "title": "Treinamento Psíquico de Números do Cabot",
+            "fields": {
+                "correct": {
+                    "name": "Correto!",
+                    "value": "Você acertou o número correto!"
+                },
+                "incorrect": {
+                    "name": "Incorreto!",
+                    "value": "Você escolheu `{{userGuess}}`. O número correto era **{{random}}**!"
+                }
+            },
+            "footer": {
+                "correct": {
+                    "text": "Parabéns!",
+                    "iconURL": "{{avatarUrl}}"
+                },
+                "incorrect": {
+                    "text": "Concentre-se e tente novamente!",
+                    "iconURL": "{{avatarUrl}}"
+                }
+            }
+        }
+    },
+    "roll": {
+        "embed": {
+            "title": "Lançamento de Dados",
+            "description": "O dado foi lançado e você obteve **{{result}}**!!",
+            "footer": {
+                "text": "{{limit}} | Modifique o limite do número do dado com /roll limit:",
+                "iconURL": "{{avatarUrl}}"
+            }
+        }
+    },
+    "runes": {
+        "!runeData": "Runa não encontrada.",
+        "!fetch": "Falha ao buscar uma runa aleatória.",
+        "futharkEmbed": {
+            "thumbnail": { "url": "{{Thumbnail}}" },
+            "title": "Runa Futhark: {{rune_title}} | Fonema: {{phonetic}}",
+            "fields": [
+                { "name": "Significado", "value": "{{meaning}}", "inline": true },
+                { "name": "Significado Esotérico", "value": "{{esoteric_meaning}}", "inline": true },
+                { "name": "Palavras-chave", "value": "{{keywords}}" },
+                { "name": "Galdr", "value": "`{{galdr}}`" },
+                { "name": "Magia", "value": "{{magick}}" }
+            ]
+        },
+        "witchesEmbed": {
+            "thumbnail": { "url": "{{image}}" },
+            "title": "Runa das Bruxas: {{rune_title}}",
+            "fields": [
+                { "name": "Descrição", "value": "{{meaning}}" },
+                { "name": "Palavras-chave", "value": "{{keywords}}" },
+                { "name": "Deidades", "value": "{{relatedDeities}}" },
+                { "name": "Elemento", "value": "{{element}}", "inline": true },
+                { "name": "Associação Astrológica", "value": "{{astrologicalAssociation}}", "inline": true }
+            ]
+        },
+        "oghamEmbed": {
+            "title": "Runa Ogham: {{rune_title}} ({{phonetic}}) - {{tree}}",
+            "fields": [
+                { "name": "Atributos", "value": "{{attributes}}" },
+                { "name": "Significado", "value": "{{meaning}}" },
+                { "name": "Estação", "value": "{{season}}" },
+                { "name": "Elemento", "value": "{{element}}" }
+            ]
+        },
+        "footers": [
+            "Pensando em me adicionar ao seu servidor? Me convide! | /info links type:invite",
+            "Gosta de runas? Experimente nosso comando de Lançamento de Runas! | /castrunes",
+            "Você pode buscar runas pelo nome! | /rune search rune:<rune>",
+            "Gosta das runas Ogham? Use /rune random type:ogham para uma runa Ogham aleatória!",
+            "Gosta das runas das Bruxas? Use /rune random type:witches para uma runa das Bruxas aleatória!"
+        ]
+    },
+    "spectralcross": {
+        "embed": {
+            "image": { "url": "attachment://cross.png" },
+            "title": "Cruz Espectral: {{color1Spectrum}} + {{color2Spectrum}} = {{pairMeanings.color1.word}}",
+            "description": "*{{pairMeanings.color1.elaboration}}*",
+            "footer": {
+                "text": "A Cruz Espectral é um oráculo cromático.\nOito cores possíveis, cada uma com quatro tons que representam a profundidade de seu atributo associado, combinam-se aleatoriamente em um resultado distinto e nomeado.\n\nA CRUZ ESPECTRAL - SISTEMA DE ADIVINHAÇÃO BASEADO EM CORES por Justin C Kirkwood"
+            }
+        }
+    },
+    "tarot": {
+        "embed": {
+            "title": "{{cardTitle}}",
+            "footer": {
+                "text": "Baralho: {{card.deck}} | Arcano: {{card.arcana}} | Naipes: {{card.suit}}\nUse /tarot settings para personalizar!",
+                "iconURL": "{{avatarUrl}}"
+            }
+        },
+        "ifDescription": "**Descrição:**\n{{card.description}}",
+        "ifKeywords": [
+            { "name": "Palavras-chave:", "value": "**{{card.keywords}}**" }
+        ],
+        "context": {
+            "tarotMessage": "{{cardTitle}}\n**Baralho:** {{card.deck}} | **Arcano:** {{card.arcana}} | **Naipes:** {{card.suit}}\n",
+            "showDescription": "**Descrição:**\n{{card.description}}\n",
+            "showKeywords": "**Palavras-chave:** **{{card.keywords}}**\n"
+        },
+        "settingsEmbed": {
+            "author": { "name": "{{interaction.user.username}}'s Configurações de Tarot", "iconURL": "{{userIcon}}" },
+            "description": "Personalize sua experiência de leitura de tarot com as seguintes opções. \nUse os menus suspensos abaixo para atualizar qualquer configuração.\n\n**Configurações Padrão:**\n> **Reversões**: ATIVADO\n> **Frequência de Reversão**: 3\n> **Palavras-chave, Descrição, Embutido**: ATIVADO",
+            "fields": [
+                { "name": "__Configurações do Baralho Atual__", "value": "\u200B" },
+                { "name": "Baralho Base", "value": "`{{userSettings.selectedDeckId}}`", "inline": true },
+                { "name": "Reversões Ativadas", "value": "`{{userSettings.reversals}}`", "inline": true },
+                { "name": "Frequência de Reversão", "value": "`{{userSettings.reversalFrequency}}`", "inline": true },
+
+                { "name": "__Opções de Exibição__", "value": "\u200B" },
+                { "name": "Mostrar Palavras-chave", "value": "`{{userSettings.showKeywords}}`", "inline": true },
+                { "name": "Mostrar Descrição", "value": "`{{userSettings.showDescription}}`", "inline": true },
+                { "name": "Mensagens Embutidas", "value": "`{{userSettings.embedded}}`", "inline": true },
+
+                { "name": "__Baralhos Banidos__", "value": "{{userSettings.bannedDecks}}" }
+            ],
+            "footer": { "text": "Menus suspensos e botão de reinício expirarão em 2 minutos" },
+            "timestamp": true
+        }
+    },
+    "moon": {
+        "embed": {
+            "title": "{{emoji}} __Calculadora da Lua Cabot__ {{emoji}}",
+            "description": "- Fase Atual da Lua: **{{phase}}** {{emoji}} | {{percentage}}%",
+            "fields": [
+                { "name": "__Data & Idade__", "value": "**Data:** `{{date.year}}-{{date.month}}-{{date.day}}`\n**Idade:** `{{age}}` dias", "inline": true },
+                { "name": "__Coordenadas Ecléticas__", "value": "**Latitude:** `{{ecliptic.latitude}}`\n**Longitude:** `{{ecliptic.longitude}}`\n**Distância:** `{{distance}}`", "inline": true },
+                { "name": "__Outros Detalhes__", "value": "**Fase:** {{phase}}\n**Trajetória:** {{trajectory}}\n**Constelação:** {{constellation}}", "inline": false },
+                { "name": "__Descrição__", "value": "{{description}}", "inline": false }
+            ],
+            "footer": {
+                "text": "Dados fornecidos pela Calculadora da Lua Cabot\nSaiba mais sobre magia lunar abaixo 'Aprenda Magia Lunar!'",
+                "iconURL": "{{avatarUrl}}"
+            },
+            "timestamp": true
+        }
+    },
+    "sigil": {
+        "!uniqueConsonants": "Consoantes únicas insuficientes, insira uma afirmação mais longa.",
+        "embed": {
+            "image": { "url": "attachment://sigil.png" },
+            "title": "__Gerador de Sigilo Cabot__",
+            "description": "**Sigilo gerado com base na afirmação:**\n`{{userAffirmation}}`",
+            "fields": [
+                { "name": "Consoantes Extraídas", "value": "`{{uniqueConsonants}}`", "inline": false }
+            ],
+            "footer": {
+                "text": "Círculo Aberto = Início. | Círculo Preenchido = Fim.\nCriando Sigilos Únicos Só Para Você!\nSaiba mais sobre sigilos abaixo 'Aprenda Sigilos!'",
+                "iconURL": "{{avatarUrl}}"
+            }
+        }
+    },
+    "numerology": {
+        "!angelNumber": "Número de anjo inválido: {{number}}",
+        "embed": {
+            "thumbnail": { "url": "{{image}}" },
+            "title": "Número de Anjo | {{id}}",
+            "description": "{{meaning}}",
+            "fields": [
+                {
+                    "name": "Palavras-chave",
+                    "value": "{{keywords}}",
+                    "inline": true
+                },
+                {
+                    "name": "Afirmação",
+                    "value": "{{affirmation}}",
+                    "inline": false
+                },
+                {
+                    "name": "Ações",
+                    "value": "{{actions}}",
+                    "inline": false
+                },
+                {
+                    "name": "Cores",
+                    "value": "{{colors}}",
+                    "inline": true
+                },
+                {
+                    "name": "Cristais",
+                    "value": "{{crystals}}",
+                    "inline": true
+                },
+                {
+                    "name": "Tarô",
+                    "value": "{{tarot}}",
+                    "inline": true
+                },
+                {
+                    "name": "Anjos",
+                    "value": "{{angels}}",
+                    "inline": true
+                },
+                {
+                    "name": "Planeta",
+                    "value": "{{astrology.planet}}",
+                    "inline": true
+                },
+                {
+                    "name": "Zodíaco",
+                    "value": "{{astrology.zodiac}}",
+                    "inline": true
+                },
+                {
+                    "name": "__Numerologia__",
+                    "value": "**Chinês:** {{numerology.Chinese}}\n**Pitagórica:** {{numerology.Pythagorean}}",
+                    "inline": false
+                }
+            ]
+        },
+        "calculateEmbed": {
+            "title": "Seu Número Pessoal é: {{destinyFinal}} | Calculadora de Numerologia Cabot",
+            "description": "**Informações Gerais:**\n{{general}}",
+            "fields": [
+                { "name": "Destino {{destinyFinal}}", "value": "{{destiny}}" },
+                { "name": "Personalidade {{persFinalNumber}}:", "value": "{{personality}}" },
+                { "name": "Atitude {{attentionFinalNumber}}:", "value": "{{attitude}}" },
+                { "name": "Caráter {{firstSum}}:", "value": "{{character}}" },
+                { "name": "Desejo da Alma {{finalSoulSum}}:", "value": "{{soul}}" },
+                { "name": "Agenda Oculta {{finalAgendaSum}}:", "value": "{{agenda}}" },
+                { "name": "Propósito Divino {{divineFinalNumber}}:", "value": "{{purpose}}" }
+            ],
+            "footer": { 
+                "text": "Cálculos feitos pelo Cabot! | As entradas nunca são salvas", 
+                "iconURL": "{{avatarUrl}}" 
+            }
+        }
+    }
+}

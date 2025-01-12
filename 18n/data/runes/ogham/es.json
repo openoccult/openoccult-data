@@ -1,0 +1,204 @@
+[
+    { "list": ["Beith", "Luis", "Fearn", "Saille", "Nion", "Huath", "Duir", "Tinne", "Coll", "Quert", "Muin", "Gort", "nGeatal", "Straith", "Ruis", "Ailim", "Onn", "Uhr", "Eadhadh", "Iodhadh", "Eabhadh", "Oir", "Uillean", "Ifin", "Amhancholl"] },
+
+    {
+        "rune_title": "Beith",
+        "phonetic": "B",
+        "tree": "Árbol de Abedul",
+        "attributes": "Nuevos comienzos, fertilidad, adaptabilidad, renovación",
+        "season": "Invierno, ya que el Abedul representa la chispa de la vida en el frío",
+        "meaning": "Beith, o Beth, corresponde a la letra B en el alfabeto y está asociado con el árbol de Abedul. Representa nuevos comienzos, cambio, liberación, renacimiento y purificación."
+    },
+    {
+        "rune_title": "Luis",
+        "phonetic": "L",
+        "tree": "Árbol de Serbal",
+        "attributes": "Intuición, protección espiritual, resiliencia contra la negatividad",
+        "season": "Principios de la primavera, reflejando protección y crecimiento.",
+        "meaning": "Luis corresponde a la letra L en el alfabeto y está asociado con el árbol de Serbal. Este símbolo representa perspicacia, protección y bendiciones."
+    },
+    {
+        "rune_title": "Fearn",
+        "phonetic": "F",
+        "tree": "Árbol de Aliso",
+        "attributes": "Guía, confianza, fortaleza en la adversidad, diplomacia.",
+        "element": "Agua, vinculada con viajes emocionales y espirituales.",
+        "meaning": "F es para Fearn o Fern, asociado con el árbol de Aliso. El Aliso representa el espíritu en evolución. Sé un puente entre las personas, ofreciendo consejo y orientación."
+    },
+    {
+        "rune_title": "Saille",
+        "phonetic": "S",
+        "tree": "Árbol de Sauce",
+        "attributes": "Flexibilidad, intuición, sueños, energías curativas.",
+        "season": "Primavera, ligada al crecimiento y la renovación emocional.",
+        "meaning": "S es para Saille, pronunciado sahl-yeh, y está asociado con el árbol de Sauce. Este símbolo representa el conocimiento y el crecimiento espiritual, la protección y la curación, y está estrechamente conectado con los ciclos de la luna."
+    },
+    {
+        "rune_title": "Nion",
+        "phonetic": "N",
+        "tree": "Árbol de Fresno",
+        "attributes": "Creatividad, transformación, protección en viajes y travesías.",
+        "element": "Aire, indicando comunicación y cambio.",
+        "meaning": "N es para Nion, a veces llamado Nuin o Nin, que está conectado al árbol de Fresno. Es un símbolo de conexiones y creatividad, transiciones entre los mundos y juicio por las acciones."
+    },
+    {
+        "rune_title": "Huath",
+        "phonetic": "H",
+        "tree": "Árbol de Espino",
+        "attributes": "Defensa, barreras, fertilidad y equilibrio entre la luz y la oscuridad.",
+        "season": "Beltane, reflejando su rol en rituales de fertilidad y protección.",
+        "meaning": "H es para Huath, o Uatha, y simboliza el árbol de Espino. Este árbol con espinas está asociado con la limpieza, la protección y la defensa. También está fuertemente conectado con la fertilidad, la energía masculina y el fuego."
+    },
+    {
+        "rune_title": "Duir", 
+        "phonetic": "D", 
+        "tree": "Árbol de Roble", 
+        "attributes": "Resistencia, autoridad, liderazgo y conexión con lo divino.", 
+        "season": "Solsticio de verano, cuando el roble está en plena floración, simbolizando vitalidad.",
+        "meaning": "D representa Duir, el árbol celta del Roble. Al igual que el poderoso árbol que representa, Duir está asociado con la fuerza, la resiliencia y la autoconfianza. El Roble está conectado con hechizos de protección, fuerza, fertilidad, dinero, éxito y buena fortuna."
+    },
+    {
+        "rune_title": "Tinne", 
+        "phonetic": "T", 
+        "tree": "Árbol de Acebo", 
+        "attributes": "Resistencia, victoria en batalla, protección contra el mal.", 
+        "season": "Solsticio de invierno, representando la vida eterna.",
+        "meaning": "T simboliza Tinne, o Teine, el árbol de Acebo. Esta planta perenne está relacionada con la inmortalidad, la unidad, el valor y la estabilidad del hogar y la familia. Pronunciado chihnn-uh por los celtas, la madera del Acebo se usaba a menudo en la construcción de armas, y es conocida como la planta de los guerreros y protectores."
+    },
+    {
+        "rune_title": "Coll", 
+        "phonetic": "C", 
+        "tree": "Árbol de Avellano", 
+        "attributes": "Perspicacia, creatividad artística, sabiduría ancestral.", 
+        "season": "Otoño, un tiempo de reflexión y cosecha de sabiduría.",
+        "meaning": "C, a veces pronunciado como K, representa Coll, el árbol de Avellano. El Avellano está asociado con la sabiduría, la creatividad y el conocimiento. En la mitología celta, a menudo se le vincula con manantiales mágicos, pozos sagrados y la adivinación."
+    },
+    {
+        "rune_title": "Quert", 
+        "phonetic": "Q", 
+        "tree": "Árbol de Manzano", 
+        "attributes": "Amor, belleza, decisiones y la dulzura de la vida.", 
+        "season": "Equinoccio de otoño, vinculado a la cosecha y la abundancia.",
+        "meaning": "Q representa Quert, a veces escrito como Ceirt, y está asociado con el delicioso árbol de Manzano. Desde tiempos antiguos, el Manzano simboliza el amor y la fidelidad, así como el renacimiento. A menudo se le asocia con la magia."
+    },
+    {
+        "rune_title": "Muin", 
+        "phonetic": "M", 
+        "tree": "Vid", 
+        "attributes": "Intuición, celebración, liberación de las inhibiciones.", 
+        "element": "Tierra, vinculándola con el crecimiento y la abundancia.",
+        "meaning": "M es Muin, la Vid, esa magnífica planta que produce uvas... la fuente del vino. La Vid está conectada con la profecía y la verdad. Muin es un símbolo de los viajes introspectivos y las lecciones de vida aprendidas."
+    },
+    {
+        "rune_title": "Gort", 
+        "phonetic": "G", 
+        "tree": "Hiedra", 
+        "attributes": "Persistencia, supervivencia, aceptación de los aspectos místicos de la vida.", 
+        "season": "Otoño, asociado con la introspección y el crecimiento interior.",
+        "meaning": "G simboliza Gort, la Hiedra que a veces crece libremente, pero a menudo se alimenta de otras plantas. Su espiral ascendente interminable representa la búsqueda de nuestra alma por encontrarse a sí misma, mientras vagamos entre este mundo y el siguiente. Gort, pronunciado go-ert, está asociado con el crecimiento, la libertad salvaje y la confrontación de los aspectos místicos de nuestro desarrollo y evolución."
+    },
+    {
+        "rune_title": "nGeatal",
+        "phonetic": "Ng",
+        "tree": "Caña",
+        "attributes": "Claridad, propósito, conexión con la familia y las raíces.",
+        "season": "Finales del verano, reflejando vínculos sociales y celebraciones.",
+        "meaning": "Ng, o nGeatal, es la caña que crece alta y recta junto al río. La caña indica acción directa y encontrar propósito en tu camino. Está relacionada con la salud, la sanación y las reuniones familiares y de amigos."
+    },
+    {
+        "rune_title": "Straith",
+        "phonetic": "St",
+        "tree": "Endrino",
+        "attributes": "Protección, perseverancia, triunfo sobre los obstáculos.",
+        "element": "Fuego, simbolizando la transformación a través de las pruebas.",
+        "meaning": "Este símbolo, usado para el sonido St, es Straith (a veces conocido como Straif), el árbol de Endrino. Símbolo de autoridad y control, el Endrino está asociado con la fuerza y el triunfo sobre la adversidad."
+    },
+    {
+        "rune_title": "Ruis",
+        "phonetic": "R",
+        "tree": "Árbol de Saúco",
+        "attributes": "Transición, cierre, sabiduría a partir de la experiencia.",
+        "season": "Invierno, vinculado al tiempo de introspección y cierre.",
+        "meaning": "R es Ruis, el árbol de Saúco, que está conectado con el tiempo del Solsticio de Invierno. El Saúco representa finales, madurez y la conciencia que proviene de la experiencia. Pronunciado roo-esh, Ruis es una señal de que las cosas pueden estar terminando, pero eventualmente comenzarán de nuevo. Aunque el Saúco se daña fácilmente, también se recupera y rejuvenece con facilidad."
+    },
+    {
+        "rune_title": "Ailim",
+        "phonetic": "A",
+        "tree": "Olmo/Pino/Abeto",
+        "attributes": "Perspectiva, visión a largo plazo, resiliencia.",
+        "season": "Invierno, reflejando resistencia y claridad en condiciones difíciles.",
+        "meaning": "A representa Ailim, o Ailm, el árbol de Olmo. Curiosamente, este grupo también incluye los árboles de Pino o Abeto. Estos gigantes del bosque son símbolos de perspectiva y altura, elevándose por encima de todo lo que los rodea. El Olmo tiene una visión clara de lo que le rodea, así como de lo que se aproxima."
+    },
+    {
+        "rune_title": "Onn",
+        "phonetic": "O",
+        "tree": "Aulaga/Tojo",
+        "attributes": "Determinación, planificación, resiliencia.",
+        "season": "Primavera, un tiempo de crecimiento y planificación futura.",
+        "meaning": "O representa Onn, o Ohn, y simboliza la Aulaga, a veces llamada Tojo. La Aulaga representa el pensamiento y la planificación a largo plazo, sabiendo que a veces debemos prescindir de algo para ganar más en el futuro. La Aulaga es una planta determinada que siempre vuelve a crecer, por lo que también está asociada con la perseverancia y la esperanza."
+    },
+    {
+        "rune_title": "Uhr",
+        "phonetic": "U",
+        "tree": "Brezo",
+        "attributes": "Abundancia, generosidad, conexión con los espíritus.",
+        "element": "Aire, que denota su ligereza y sus conexiones espirituales.",
+        "meaning": "U (a veces W) representa Uhr o Ura, la planta de Brezo, que simboliza la pasión y la generosidad. Las flores del Brezo están llenas de un rico néctar y son muy atractivas para las abejas, las cuales son vistas en algunas tradiciones como mensajeras entre el mundo espiritual y el terrenal. Uhr está asociado tanto con la generosidad y la sanación como con el contacto con el Otro Mundo."
+    },
+    {
+        "rune_title": "Eadhadh",
+        "phonetic": "E",
+        "tree": "Álamo Temblón",
+        "attributes": "Fuerza, determinación, superación de la adversidad.",
+        "season": "Finales del verano, cuando la resistencia conduce a la cosecha de recompensas.",
+        "meaning": "E representa Eadhadh, o Eadha, que simboliza el Álamo Temblón, un símbolo de resistencia y coraje. El Álamo es una señal de voluntad fuerte y éxito. Los desafíos pueden aparecer en tu camino, pero eventualmente conquistarás a tus adversarios y superarás los obstáculos."
+    },
+    {
+        "rune_title": "Iodhadh",
+        "phonetic": "I",
+        "tree": "Tejo",
+        "attributes": "Transformación, renacimiento, conexión con los ancestros.",
+        "season": "Invierno, un tiempo de muerte y preparación para la nueva vida.",
+        "meaning": "I representa Iodhadh, o Idad, el árbol de Tejo. Al igual que la carta de La Muerte en el Tarot, el Tejo es conocido como un marcador de finales y muerte. Debido a su patrón de crecimiento inusual, donde lo nuevo crece dentro de lo viejo, el Tejo está fuertemente vinculado al renacimiento y a la nueva vida que sigue a la muerte."
+    },
+    {
+        "rune_title": "Eabhadh",
+        "phonetic": "Ea",
+        "tree": "Árboles de la Arboleda (Álamo, Abedul, etc.)",
+        "attributes": "Equilibrio, justicia, crecimiento espiritual, unidad.",
+        "element": "Tierra, conectándola con la armonía comunitaria y el orden natural.",
+        "meaning": "El símbolo Eabhadh, que representa el sonido Ea, está conectado con los árboles que se encuentran en las Arboledas, como el Álamo y el Abedul. Estos eran los lugares sagrados donde los druidas se reunían. Cuando aparece Eabhadh, a menudo indica que habrá una resolución de conflictos, justicia o algún tipo de consejo. En algunas tradiciones, este símbolo está asociado con atraer las armonías de la vida a través del crecimiento espiritual."
+    },
+    {
+        "rune_title": "Oir",
+        "phonetic": "Oi",
+        "tree": "Árbol del Huso",
+        "attributes": "Vida doméstica, parentesco, resiliencia.",
+        "season": "Otoño, reflejando la abundancia y las conexiones del hogar.",
+        "meaning": "Oi, a veces representando el sonido Th, simboliza Oir, el árbol del Huso. Aunque puede parecer delicado, también es muy fuerte. Las flores blancas y los frutos rojos brillantes del otoño conectan al árbol del Huso con el hogar y el corazón, así como con los lazos familiares y de clan."
+    },
+    {
+        "rune_title": "Uillean",
+        "phonetic": "Ui",
+        "tree": "Madreselva",
+        "attributes": "Ambición, sutileza, manifestación de la voluntad.",
+        "season": "Finales de la primavera, cuando los deseos comienzan a florecer.",
+        "meaning": "Ui (a veces interpretado como Pe) representa Uillean, la Madreselva. Asociada con la manifestación de la voluntad, la Madreselva comienza como una pequeña semilla y se extiende, creciendo poco a poco con el tiempo. Es la flor del deseo no expresado, las necesidades ocultas y los anhelos secretos, pero también representa nuestros objetivos para encontrar nuestro verdadero ser."
+    },
+    {
+        "rune_title": "Ifin",
+        "phonetic": "Io",
+        "tree": "Pino",
+        "attributes": "Claridad, perdón, resolución.",
+        "season": "Invierno, destacando su naturaleza perdurable.",
+        "meaning": "Io (a veces Ph) representa Ifin o Iphin, el árbol de Pino. El Pino está asociado con la claridad de visión y la liberación de la culpa. Cuando aparece Ifin, puede indicar sentimientos de culpa que deben ser liberados, o conflictos no resueltos que necesitan cerrarse."
+    },
+    {
+        "rune_title": "Amhancholl",
+        "phonetic": "Ae",
+        "tree": "Avellano de Bruja",
+        "attributes": "Purificación, renovación, eliminación de obstáculos.",
+        "season": "Primavera, cuando la renovación y la sanación son más potentes.",
+        "meaning": "Ae (a veces representado como X o Xi) es Amhancholl o Eamhancholl, asociado con el Avellano de Bruja. Este astringente natural es purificador y limpiador. Cuando aparece Amhancholl, suele ser una señal de que la limpieza y la purificación son necesarias o ya han ocurrido."
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "button": {
+        "resetButton": {
+            "id": "resetTarot",
+            "label": "Reset Tarot Settings",
+            "style": "Danger"
+        }
+
+    },
+    "modal": {
+        "testModal": {
+            
+        }
+    },
+    "selectMenu": {
+        "tarot-settings-menu": {
+            "id": "tarot-settings-menu",
+            "placeholder": "Select a setting to update",
+            "options": [
+                { "label": "Set Base Deck", "description": "Choose a default deck for pulls", "value": "basedeck" },
+                { "label": "Toggle Reversals", "description": "Enable or disable reversed cards", "value": "reversals" },
+                { "label": "Set Reversal Frequency", "description": "Adjust how often reversals appear", "value": "reversalfrequency" },
+                { "label": "Toggle Show Keywords", "description": "Show keywords in card pulls", "value": "showkeywords" },
+                { "label": "Toggle Show Description", "description": "Show description in card pulls", "value": "showdescription" },
+                { "label": "Toggle Embedded", "description": "Send tarot pulls in embedded messages", "value": "embedded" },
+                { "label": "Manage Banned Decks", "description": "Add or remove decks from banned list", "value": "bannedDecks" }
+            ]
+        }
+    }
+}

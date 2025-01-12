@@ -1,0 +1,340 @@
+{
+    "colors": [
+      {
+        "name": "red",
+        "spectrum": "Reciprocity",
+        "shades": {
+          "deep": "#6a040f",
+          "dark": "#9d0208",
+          "standard": "#dc2f02",
+          "light": "#e85d04"
+        },
+        "pairMeanings": {
+          "orange": {
+            "word": "DEVOTION",
+            "elaboration": "Now is a time to channel the surging rivers of your spirit toward the one beacon for which you feel the brightest passion."
+          },
+  
+          "yellow": {
+            "word": "ZEAL",
+            "elaboration": "Tread lightly on the path of desire, and follow your cravings with measured restraint."
+          },
+  
+          "green": {
+            "word": "STORM",
+            "elaboration": "Prepare yourself for the tempests that accompany all voyages to love."
+          },
+  
+          "blue": {
+            "word": "BLOOD",
+            "elaboration": "Now is a time to lean upon the pillar of your kin, and be the pillar if they too must lean."
+          },
+  
+          "indigo": {
+            "word": "GRACE",
+            "elaboration": "This is a time to trust that which is precious in the heart over that which is correct in the head."
+          },
+  
+          "violet": {
+            "word": "EPIPHANY",
+            "elaboration": "The ground just beneath your feet conceals a gem of affection waiting to be unearthed."
+          },
+  
+          "white": {
+            "word": "REGARD",
+            "elaboration": "This is a time to remember that hearts are won by respect, and lost to scorn."
+          }
+        }
+      },
+  
+          {
+              "name": "orange",
+              "spectrum": "Transformation",
+              "shades": {
+                  "deep": "#dc2f02",
+                  "dark": "#ff5400",
+                  "standard": "#ff5400",
+                  "light": "#ff9100"
+              },
+              "pairMeanings": {
+    
+                "red": {
+                  "word": "DEVOTION",
+                  "elaboration": "Now is a time to channel the surging rivers of your spirit toward the one beacon for which you feel the brightest passion." 
+                },
+                
+                "yellow": {
+                  "word": "ANOMALY",
+                  "elaboration": "Be the architect of your own taste, deaf to the din of prevailing norms."
+                },
+    
+                "green": {
+                  "word": "RISK",
+                  "elaboration": "A seed of audacity must be planted now in order for your endeavor blossom."
+                },
+    
+                "blue": {
+                  "word": "SALVE",
+                  "elaboration": "It is time to leave behind wounds of the past and put your trust in those you would call friends."
+                },
+    
+                "indigo": {
+                  "word": "REVELATION",
+                  "elaboration": "Now is a time to step toward the darkness to find a treasure that has languished in shadow."
+                },
+    
+                "violet": {
+                  "word": "AUGURY",
+                  "elaboration": "A spiritual awakening is needed to find an untrodden path that leads to great rewards."
+                },
+    
+                "white": {
+                  "word": "PRAXIS",
+                  "elaboration": "Remember that the greatest wisdom comes from lived experience, not theoretical knowledge."
+                }
+              }
+          },
+    
+          {
+              "name": "yellow",
+              "spectrum": "Rhythm",
+              "shades": {
+                  "deep": "#ffbf00",
+                  "dark": "#d4d700",
+                  "standard": "#ffe600",
+                  "light": "#ccff33"
+              },
+              "pairMeanings": {
+    
+                "red": {
+                  "word": "ZEAL",
+                  "elaboration": "Tread lightly on the path of desire, and follow your cravings with measured restraint."
+                },
+    
+                "orange": {
+                  "word": "ANOMALY",
+                  "elaboration": "Be the architect of your own taste, deaf to the din of prevailing norms."
+                },
+              
+                "green": {
+                  "word": "AIM",
+                  "elaboration": "Narrow focus is now required to shape the clay of transformation."
+                },
+    
+                "blue": {
+                  "word": "HEED",
+                  "elaboration": "Listen carefully, the words of a certain friend will contain a guidepost you would be wise to follow."
+                 },
+    
+                "indigo": {
+                  "word": "VISION",
+                  "elaboration": "Pay attention to your dreams, and you will find the key to a riddle with which you are wrestling."
+                },
+    
+                "violet": {
+                  "word": "SPARK",
+                  "elaboration": "Do not let your moment of sudden insight be lost in the fog of daily tedium."
+                },
+    
+                "white": {
+                  "word": "FOLLY",
+                  "elaboration": "Indulge yourself momentarily, for a dash of overindulgence often carries with it a sprinkle of wisdom."
+                }
+              }
+          },
+    
+          {
+            "name": "green",
+            "spectrum": "Exchange",
+            "shades": {
+              "deep": "#582f0e",
+              "dark": "#155d27",
+              "standard": "#208b3a",
+              "light": "#25a244"
+            },
+    
+            "pairMeanings": {
+    
+              "red": {
+                "word": "STORM",
+                "elaboration": "Prepare yourself for the tempests that accompany all voyages to love."
+              },
+    
+              "orange": {
+                "word": "RISK",
+                "elaboration": "A seed of audacity must be planted now in order for your endeavor blossom."
+              },
+    
+              "yellow": {
+               "word": "AIM",
+               "elaboration": "Narrow focus is now required to shape the clay of transformation."
+              },
+    
+              "blue": {
+                "word": "AMITY",
+                "elaboration": "It is time to nurture an acquaintance so that it may grow into a friendship."
+              },
+    
+              "indigo": {
+                "word": "MUSE",
+                "elaboration": "The conditions of your inner cosmos are ripe for a supernova of imagination"
+              },
+              
+              "violet": {
+                "word": "BLOOM",
+                "elaboration": "You're on the cusp of revealing a profound truth; nurture this like a bloom awaiting its spring."
+              },
+    
+              "white": {
+                "word": "PURITY",
+                "elaboration": "Reverting to a state of childlike innocence is required to dispel the fog from your mind."
+              }
+            }
+          },
+    
+          {
+            "name": "blue",
+            "spectrum": "Oscillation ",
+            "shades": {
+              "deep": "#03045e",
+              "dark": "#023e8a",
+              "standard": "#0077b6",
+              "light": "#0096c7"
+            },
+            "pairMeanings": {  
+              
+              "red": {
+                "word": "BLOOD",
+                "elaboration": "Now is a time to lean upon the pillar of your kin, and be the pillar if they too must lean."
+            },
+    
+              "orange": {
+               "word": "SALVE",
+               "elaboration": "It is time to leave behind wounds of the past and put your trust in those you would call friends."
+              },
+    
+             "yellow": {
+                "word": "HEED",
+                "elaboration": "Listen carefully, the words of a certain friend will contain a guidepost you would be wise to follow."
+              }, 
+    
+             "green": {
+               "word": "AMITY",
+                "elaboration": "It is time to nurture an acquaintance so that it may grow into a friendship."
+              },
+    
+              "indigo": {
+                "word": "MAGNETISM",
+                "elaboration": "You must surround yourself with beings of a high spiritual caliber in order to attract profundity and repel mundanity."
+              },
+    
+              "violet": {
+                "word": "KISMET",
+                "elaboration": "Engaging in dialogue will significantly enhance the probability of serendipitously unearthing a deep insight."
+              },
+    
+              "white": {
+                "word": "CANDOR",
+                "elaboration": "This is a moment to unveil your true self to those in your sphere, for a fortified facade obstructs the pathway to genuine unity."
+              }
+            }
+          },  
+    
+          {
+            "name": "indigo",
+            "spectrum": "Enigma",
+            "shades": {
+              "deep": "#10002b",
+              "dark": "#240046",
+              "standard": "#3c096c",
+              "light": "#5a189a"
+            },
+            "pairMeanings": {   
+    
+              "red": {
+                "word": "GRACE",
+                "elaboration": "This is a time to trust that which is precious in the heart over that which is correct in the head."
+              },
+    
+              "orange": {
+               "word": "REVELATION",
+                "elaboration": "Now is a time to step toward the darkness to find a treasure that has languished in shadow."
+              },
+    
+              "yellow": {
+                "word": "VISION",
+                "elaboration": "Pay attention to your dreams, and you will find the key to a riddle with which you are wrestling."
+              },
+    
+              "green": {
+               "word": "MUSE",
+                "elaboration": "The conditions of your inner cosmos are ripe for a supernova of imagination"
+              },
+    
+              "blue": {
+                "word": "MAGNETISM",
+                "elaboration": "You must surround yourself with beings of a high spiritual caliber in order to attract profundity and repel mundanity."
+              },
+    
+              "violet": {
+                "word": "DEPTH",
+               "elaboration": "Awaken to the notion that beyond the veil of rational thought is where unseen facets of the situation yet await your discovery."
+              },
+    
+              "white": {
+               "word": "AWE",
+               "elaboration": "Embrace the innocence of chidlike wonder, for it is through an untainted lens that secret wisdom can be seen more clearly."
+              }
+            }
+          },
+    
+          {
+            "name": "violet",
+            "spectrum": "Magnetism",
+            "shades": {
+              "deep": "#8b2fc9",
+              "dark": "#a14edd",
+              "standard": "#bd68ee",
+              "light": "#d18dfc"
+            },
+            "pairMeanings": {
+    
+              "red": {
+                "word": "EPIPHANY",
+                "elaboration": "The ground just beneath your feet conceals a gem of affection waiting to be unearthed."
+              },
+    
+              "orange": {
+                  "word": "AUGURY",
+                  "elaboration": "A spiritual awakening is needed to find an untrodden path that leads to great rewards."
+              },
+    
+              "yellow": {
+                "word": "SPARK",
+                "elaboration": "Do not let your moment of sudden insight be lost in the fog of daily tedium."
+              },
+    
+              "green": {
+                "word": "BLOOM",
+                "elaboration": "You're on the cusp of revealing a profound truth; nurture this like a bloom awaiting its spring."
+              },
+    
+              "blue": {
+                "word": "KISMET",
+                "elaboration": "Engaging in dialogue will significantly enhance the probability of serendipitously unearthing a deep insight."
+              },
+    
+              "indigo": {
+                "word": "DEPTH",
+               "elaboration": "Awaken to the notion that beyond the veil of rational thought is where unseen facets of the situation yet await your discovery."
+              },
+    
+              "white": {
+                "word": "SHIFT",
+                "elaboration": "The path you're currently treading demands a significant reevaluation."
+              }
+            }
+        }
+    ]
+}
+              

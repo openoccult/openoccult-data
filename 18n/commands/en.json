@@ -1,0 +1,378 @@
+{
+    "test": {
+        "reply": "This is a language test command",
+        "embed": {
+            "title": "Internationalization (i18n) Test System",
+            "description": "This is a test of the language system to see if it works!"
+        }
+    },
+    "8ball": {
+        "answers": ["Reply hazy, try again", "Ask again later", "Better not tell you now", "Cannot predict now", "Concentrate and ask again", "Dont count on it", "My reply is no", "My sources say no", "Outlook not so good", "Very doubtful", "It is certain", "It is decidedly so", "Without a doubt", "Yes definitely", "You may rely on it", "As I see it, yes", "Most likely", "Outlook good", "Yes", "Signs point to yes"],
+        "playfulResponses": ["🎱 | The Magic 8-Ball says", "🎱 | Gaze into the Magic 8-Ball's wisdom", "🎱 | Behold the answer from the mystical 8-Ball", "🎱 | The enchanted 8-Ball reveals" ],
+        "!question": "No Question Provided",
+        "embed": {
+            "title": "Cabot's Magical 8-Ball",
+            "fields": [
+                { "name": "Question", "value": "```{{question}}```" },
+                { "name": "Answer", "value": "```{{answer}}```" }
+            ],
+            "footer": {
+                "text": "{{footer}}",
+                "iconURL": "{{avatarUrl}}"
+            }
+        }
+    },
+    "bibliomancy": {
+        "!verseData": "Sorry, I couldn't retrieve a verse at this time.",
+        "embed": {
+            "title": "Bibliomancy script: __{{reference}}__",
+            "description": "{{text}}",
+            "footer": { "text": "From: {{translation_name}} @ bible-api.com", "iconURL": "{{avatarUrl}}"}
+        }
+    },
+    "coinFlip": {
+        "headsAsset": {
+            "result": "Heads",
+            "thumb": "https://i.ibb.co/c8vkgSq/coin-heads.png",
+            "emoji": "<:cabot_heads:893970074057199667>"
+        },  
+        "tailsAsset": {
+            "result": "Tails",
+            "thumb": "https://i.ibb.co/DWCyjW1/coin-tails.png",
+            "emoji": "<:cabot_tails:893970112472834068>"
+        },
+        "embed": {
+            "title": "{{emoji}} Coin Flip {{emoji}}",
+            "thumbnail": { "url": "{{thumb}}" },
+            "description": "You flipped and got **`{{result}}`**!"
+        }
+    },
+    "fortune": {
+        "embed": {
+            "title": "<:stars:890398005507809371> Cabot's Fortune Teller <:stars:890398005507809371>",
+            "thumbnail": { "url": "https://images.onlinelabels.com/images/clip-art/msmoonpie/Kawaii%20Fortune%20Cookie-306732.png" },
+            "description": "> {{randomFortune}}",
+            "footer": { "text": "May your day be as bright as your fortune!\nGot a fortune to share?\nUse /suggest to submit your own and it might be added to our list!", "iconURL": "{{avatarUrl}}"},
+            "timestamp": true
+        }
+    },
+    "geomancy": {
+        "embed": {
+            "title": "Geomancy: {{Name}} | {{EnglishName}}",
+            "fields": [
+                { "name": "Info", "value": "Planet: {{Planet}}\nZodiac Sign: {{ZodiacSign}}\nPortent: {{Portent}}\nElement: {{Element}}\nGender: {{Gender}}" },
+                { "name": "Description", "value": "{{Meaning}}" },
+                { "name": "Additional Info", "value": "{{AdditionalInfo}}" }
+            ],
+            "footer": { 
+                "text": "Traditionally geomancy is a method of divination that interprets markings on the ground after a handful of dirt has been tossed into the air\nLearn more about geomancy below 'Learn Geomancy!'", 
+                "iconURL": "{{avatarUrl}}" 
+            },
+            "timestamp": true
+        }
+    },
+    "hieroglyph": {
+        "embed": {
+            "title": "__Hieroglyph: {{hieroglyph.name}}__",
+            "fields": [
+                { "name": "Description", "value": "{{hieroglyph.description}}" },
+                { "name": "Keywords", "value": "{{hieroglyph.keywords}}" },
+                { "name": "Category", "value": "{{hieroglyph.category}}", "inline": true },
+                { "name": "Gardiner & Unicode", "value": "`{{hieroglyph.gardiner_unicode}}`", "inline": true },
+                { "name": "Deity", "value": "{{hieroglyph.diety}}", "condition": "hasDiety" }
+            ],
+            "footer": { 
+                "text": "Rarity: {{rarityOption}} - pulled: {{pullCount}}\nData Sourced by: kayesconfused - Compiled by: Cabot's System", 
+                "iconURL": "{{avatarUrl}}" 
+            }
+        }
+    },
+    "iching": {
+        "embed": {
+            "title": "__{{hexagram.name.en}}__ ({{hexagram.symbol}}) - {{hexagram.name.zh}} | Number: **{{hexagram.number}}** | Pattern: **{{hexagram.pattern}}**",
+            "description": "{{hexagram.judgment}}",
+            "fields": [
+                { "name": "Lines:", "value": "{{hexagram.lines}}" },
+                { "name": "Image:", "value": "{{hexagram.image}}" }
+
+            ],
+            "footer": {
+                "text": "The I Ching illuminates the principles of the Tao, the universal flow that underlies all action and permeates all being.\nUsing: I-Ching Wilhelm/Baynes translation\nLearn more about i-ching below 'Learn I-Ching!'",
+                "iconURL": "{{avatarUrl}}" 
+            }
+        }
+    },
+    "pendulum": {
+        "!question": "No Question Provided",
+        "embed": {
+            "thumbnail": { "url": "{{answer.thumb}}" },
+            "title": "Pendulum Response: {{answer.response}}",
+            "description": "**Your Questions:**\n` {{question}}`",
+            "fields": [
+                { "name": "Cabot's Pendulum Says:", "value": "`{{answer.response}}`" }
+            ],
+            "footer": {
+                "text": "{{footer}}",
+                "iconURL": "{{avatarUrl}}" 
+            }
+        },
+        "outcomes": [
+            {
+                "response": "Yes",
+                "thumb": "https://i.ibb.co/Cv9MCC8/emotehappy.png"
+            },
+            {
+                "response": "No",
+                "thumb": "https://i.ibb.co/tYCrGX0/emotesad.png"
+            },
+            {
+                "response": "Maybe",
+                "thumb": "https://i.ibb.co/b5vfXGM/Emotesleeping.png"
+            }
+        ],
+        "footers": [
+            "Trust your instincts and intuition above all.",
+            "Consider keeping a journal for your pendulum readings.",
+            "Different pendulums may give different answers.",
+            "The pendulum has spoken!",
+            "Your fate is swayed by the pendulum's response!",
+            "Pendulum divination at its best!",
+            "Remember, it's all in good fun!"
+        ]
+    },
+    "psychic": {
+        "embed": {
+            "title": "Cabot's Psychic Number Training",
+            "fields": {
+                "correct": {
+                    "name": "Correct!",
+                    "value": "You guessed the correct number!"
+                },
+                "incorrect": {
+                    "name": "Incorrect!",
+                    "value": "You guessed `{{userGuess}}`. The correct number was **{{random}}**!"
+                }
+            },
+            "footer": {
+                "correct": {
+                    "text": "Congratulations!",
+                    "iconURL": "{{avatarUrl}}"
+                },
+                "incorrect": {
+                    "text": "Try concentrating and try again!",
+                    "iconURL": "{{avatarUrl}}"
+                }
+            }
+        }
+    },
+    "roll": {
+        "embed": {
+            "title": "Dice Roll",
+            "description": "Die rolled and you got **{{result}}**!!",
+            "footer": {
+                "text": "{{limit}} | Modify die number limit with /roll limit:",
+                "iconURL": "{{avatarUrl}}"
+            }
+        }
+    },
+    "runes": {
+        "!runeData": "Rune not found.",
+        "!fetch": "Failed to fetch a random rune.",
+        "futharkEmbed": {
+            "thumbnail": { "url": "{{Thumbnail}}" },
+            "title": "Futhark Rune: {{rune_title}} | Phoneme: {{phonetic}}",
+            "fields": [
+                { "name": "Meaning", "value": "{{meaning}}", "inline": true},
+                { "name": "Esoteric Meaning", "value": "{{esoteric_meaning}}", "inline": true},
+                { "name": "Keywords", "value": "{{keywords}}"},
+                { "name": "Galdr", "value": "`{{galdr}}`"},
+                { "name": "Magic", "value": "{{magick}}"}
+            ]
+        },
+        "witchesEmbed": {
+            "thumbnail": { "url": "{{image}}" },
+            "title": "Witches Rune: {{rune_title}}",
+            "fields": [
+                { "name": "Description", "value": "{{meaning}}"},
+                { "name": "Keywords", "value": "{{keywords}}"},
+                { "name": "Deities", "value": "{{relatedDeities}}"},
+                { "name": "Element", "value": "{{element}}", "inline": true},
+                { "name": "Astrological Association", "value": "{{astrologicalAssociation}}", "inline": true}
+            ]
+        },
+        "oghamEmbed": {
+            "title": "Ogham Rune: {{rune_title}} ({{phonetic}}) - {{tree}}",
+            "fields": [
+                { "name": "Attributes", "value": "{{attributes}}"},
+                { "name": "Meaning", "value": "{{meaning}}"},
+                { "name": "Season", "value": "{{season}}"},
+                { "name": "Element", "value": "{{element}}"}
+            ]
+        },
+        "footers": [
+            "Considering adding me to your server? Invite me! | /info links type:invite",
+            "Like runes? Try out our Rune casting command! | /castrunes",
+            "You can search runes by Name! | /rune search rune:<rune>",
+            "Like Ogham runes? use /rune random type:ogham for a random Ogham rune!",
+            "Like Witches runes? use /rune random type:witches for a random Witches rune!"
+        ]
+    },
+    "spectralcross": {
+        "embed": {
+            "image": { "url": "attachment://cross.png" },
+            "title": "Spectral Cross: {{color1Spectrum}} + {{color2Spectrum}} = {{pairMeanings.color1.word}}",
+            "description": "*{{pairMeanings.color1.elaboration}}*",
+            "footer": {
+                "text": "The Spectral Cross is a chromatic oracle.\nEight possible colors, each with four shades representing the depth of their associated attribute, randomly combine into a distinct, named outcome.\n\nTHE SPECTRAL CROSS - COLOR-BASED DIVINATION SYSTEM by Justin C Kirkwood"
+            }
+        }
+    },
+    "tarot": {
+        "embed": {
+            "title": "{{cardTitle}}",
+            "footer": {
+                "text": "Deck: {{card.deck}} | Arcana: {{card.arcana}} | Suit: {{card.suit}}\nUse /tarot settings to customize!",
+                "iconURL": "{{avatarUrl}}"
+            }
+        },
+        "ifDescription": "**Description:**\n{{card.description}}",
+        "ifKeywords": [
+            { "name": "Keywords:", "value": "**{{card.keywords}}**" }
+        ],
+        "context": {
+            "tarotMessage": "{{cardTitle}}\n**Deck:** {{card.deck}} | **Arcana:** {{card.arcana}} | **Suit:** {{card.suit}}\n",
+            "showDescription": "**Description:**\n{{card.description}}\n",
+            "showKeywords": "**Keywords:** **{{card.keywords}}**\n"
+        },
+        "settingsEmbed": {
+            "author": { "name": "{{interaction.user.username}}'s Tarot Settings", "iconURL": "{{userIcon}}" },
+            "description": "Customize your tarot reading experience with the following options. \nUse the select menus below to update any setting.\n\n**Default Settings:**\n> **Reversals**: ON\n> **Reversal Frequency**: 3\n> **Keywords, Description, Embedded**: ON",
+            "fields": [
+                { "name": "__Current Deck Settings__", "value": "\u200B" },
+                { "name": "Base Deck", "value": "`{{userSettings.selectedDeckId}}`", "inline": true },
+                { "name": "Reversals Enabled", "value": "`{{userSettings.reversals}}`", "inline": true },
+                { "name": "Reversal Frequency", "value": "`{{userSettings.reversalFrequency}}`", "inline": true },
+
+                { "name": "__Display Options__", "value": "\u200B" },
+                { "name": "Show Keywords", "value": "`{{userSettings.showKeywords}}`", "inline": true },
+                { "name": "Show Description", "value": "`{{userSettings.showDescription}}`", "inline": true },
+                { "name": "Embedded Messages", "value": "`{{userSettings.embedded}}`", "inline": true },
+
+                { "name": "__Banned Decks__", "value": "{{userSettings.bannedDecks}}" }
+            ],
+            "footer": { "text": "Select menus and reset button will timeout in 2 minutes" },
+            "timestamp": true
+        }
+    },
+    "moon": {
+        "embed": {
+            "title": "{{emoji}} __Cabot's Moon Calculator__ {{emoji}}",
+            "description": "- Current Moon Phase: **{{phase}}** {{emoji}} | {{percentage}}%",
+            "fields": [
+                { "name": "__Date & Age__", "value": "**Date:** `{{date.year}}-{{date.month}}-{{date.day}}`\n**Age:** `{{age}}` days", "inline": true },
+                { "name": "__Ecliptic Coordinates__", "value": "**Latitude:** `{{ecliptic.latitude}}`\n**Longitude:** `{{ecliptic.longitude}}`\n**Distance:** `{{distance}}`", "inline": true },
+                { "name": "__Other Details__", "value": "**Phase:** {{phase}}\n**Trajectory:** {{trajectory}}\n**Constellation:** {{constellation}}", "inline": false },
+                { "name": "__Description__", "value": "{{description}}", "inline": false }
+            ],
+            "footer":{
+                "text": "Data provided by Cabot's Moon Calculator\nLearn more about lunar magic below 'Learn Lunar Magic!'",
+                "iconURL": "{{avatarUrl}}"
+            },
+            "timestamp": true
+        }
+    },
+    "sigil": {
+        "!uniqueConsonants": "Not enough unique consonants, please enter a longer affirmation.",
+        "embed": {
+            "image": { "url": "attachment://sigil.png" },
+            "title": "__Cabot's Sigil Generator__",
+            "description": "**Sigil generated based on the affirmation:**\n`{{userAffirmation}}`",
+            "fields": [
+                { "name": "Extracted Consonants", "value": "`{{uniqueConsonants}}`", "inline": false }
+            ],
+            "footer":{
+                "text": "Open Circle = Start. | Filled Circle = End.\nCreating Unique Sigils Just for You!\nLearn more about sigils below 'Learn Sigils!'",
+                "iconURL": "{{avatarUrl}}"
+            }
+        }
+    },
+    "numerology": {
+        "!angelNumber": "Invalid angel number: {{number}}",
+        "embed": {
+            "thumbnail": { "url": "{{image}}" },
+            "title": "Angel Number | {{id}}",
+            "description": "{{meaning}}",
+            "fields": [
+                {
+                    "name": "Keywords",
+                    "value": "{{keywords}}",
+                    "inline": true
+                },
+                {
+                    "name": "Affirmation",
+                    "value": "{{affirmation}}",
+                    "inline": false
+                },
+                {
+                    "name": "Actions",
+                    "value": "{{actions}}",
+                    "inline": false
+                },
+                {
+                    "name": "Colors",
+                    "value": "{{colors}}",
+                    "inline": true
+                },
+                {
+                    "name": "Crystals",
+                    "value": "{{crystals}}",
+                    "inline": true
+                },
+                {
+                    "name": "Tarot",
+                    "value": "{{tarot}}",
+                    "inline": true
+                },
+                {
+                    "name": "Angels",
+                    "value": "{{angels}}",
+                    "inline": true
+                },
+                {
+                    "name": "Planet",
+                    "value": "{{astrology.planet}}",
+                    "inline": true
+
+                },
+                {
+                    "name": "Zodiac",
+                    "value": "{{astrology.zodiac}}",
+                    "inline": true
+
+                },
+                {
+                    "name": "__Numerology__",
+                    "value": "**Chinese:** {{numerology.Chinese}}\n**Pythagorean:** {{numerology.Pythagorean}}",
+                    "inline": false
+                }
+            ]
+        },
+        "calculateEmbed": {
+            "title": "Your Personal Number is: {{destinyFinal}} | Cabot Numerology Calculator",
+            "description": "**General Info:**\n{{general}}",
+            "fields": [
+                { "name": "Destiny {{destinyFinal}}", "value": "{{destiny}}" },
+                { "name": "Personality {{persFinalNumber}}:", "value": "{{personality}}" },
+                { "name": "Attitude {{attentionFinalNumber}}:", "value": "{{attitude}}" },
+                { "name": "Character {{firstSum}}:", "value": "{{character}}" },
+                { "name": "Soul Urge {{finalSoulSum}}:", "value": "{{soul}}" },
+                { "name": "Hidden Agenda {{finalAgendaSum}}:", "value": "{{agenda}}" },
+                { "name": "Divine Purpose {{divineFinalNumber}}:", "value": "{{purpose}}" }
+            ],
+            "footer": { 
+                "text": "Calculations done by Cabot! | Inputs are never saved", 
+                "iconURL": "{{avatarUrl}}" 
+            }
+        }
+    }
+}

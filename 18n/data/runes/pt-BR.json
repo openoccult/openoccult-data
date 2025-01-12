@@ -1,0 +1,245 @@
+[
+    {
+        "list": ["Fehu", "Uruz", "Thurisaz", "Ansuz", "Raidho", "Kenaz", "Gebo", "Wunjo", "Hagalaz", "Nauthiz", "Isa", "Jera", "Eihwaz", "Pertho", "Algiz", "Sowilo", "Tiwaz", "Berkano", "Ehwaz", "Mannaz", "Laguz", "Ingwaz", "Dagaz", "Othala"]
+    },
+    {
+        "rune_title": "Fehu",
+        "meaning": "propriedade móvel, gado",
+        "esoteric_meaning": "propriedade móvel, poder",
+        "phonetic": "f",
+        "keywords": "Força móvel, energia, fertilidade, criação/destruição (transformação)",
+        "galdr": "fehu fehu fehu fffffff fu fa fi fe fo of ef if af uf",
+        "magick": "Fortalecer poderes psíquicos; canalizar para transferência ou projeção de poder; atrair objetos celestes para a esfera pessoal; evolução pessoal e social; aumentar riqueza",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Fehu.png"
+    },
+    {
+        "rune_title": "Uruz",
+        "meaning": "auroch",
+        "esoteric_meaning": "força primitiva formadora, essência primitiva fertilizadora",
+        "phonetic": "u, v",
+        "keywords": "Modelagem arquetípica, organização orgânica, sabedoria, saúde, força vital",
+        "galdr": "uruz uruz uruz uuuuuu uuuurrrr uuuuu",
+        "magick": "Modelar e formar circunstâncias através da vontade, saúde mental e física, trazer boa sorte, fluxos magnéticos da terra, realizar causalidade, conhecimento de si mesmo",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Uruz.png"
+    },
+    {
+        "rune_title": "Thurisaz",
+        "meaning": "força, espinho, gigante",
+        "esoteric_meaning": "inimigo das forças hostis",
+        "phonetic": "th",
+        "keywords": "Força de destruição/defesa, ação, poder aplicado, direção de polaridades, regeneração (após a destruição)",
+        "galdr": "thurisaz thurisaz thurisaz th th th th thur thar thir ther thor thu tha thi the tho th th th th",
+        "magick": "Defesa, destruição de inimigos e maldições, despertar da vontade, preparação para geração em todos os reinos, magia do amor, conhecimento da divisão e unidade de todas as coisas",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Thurisaz.png"
+    },
+    {
+        "rune_title": "Ansuz",
+        "meaning": "deus, deus ancestral",
+        "esoteric_meaning": "Odin",
+        "phonetic": "a",
+        "keywords": "Recepção-transformação-expressão, recipiente/conteúdo, conhecimento numinoso, inspiração, êxtase, palavra-canto, mistérios da morte",
+        "galdr": "ansuz ansuz ansuz aaaa aaaasss aaaa aaaa",
+        "magick": "Aumentar os poderes ativos e passivos da magia e clarividência, sugestão magnética da fala e hipnose, inspiração criativa e êxtase, banir a morte e o terror através do conhecimento de Odin",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Ansuz.png"
+    },
+    {
+        "rune_title": "Raidho",
+        "meaning": "carroça, viagem, carruagem",
+        "esoteric_meaning": "carro solar, carruagem de Thor",
+        "phonetic": "r",
+        "keywords": "Ação correta e ordem, lei cíclica cósmica, religião-magia, ritual, ritmo, jornada",
+        "galdr": "raidho raidho raido rrrr ru ra ri re ro",
+        "magick": "Fortalecer habilidades ritualísticas e experiência, acessar conselhos internos, elevar a consciência para os processos certos e naturais, integrar os ritmos pessoais e do mundo, obter justiça de acordo com o certo",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Raidho.png"
+    },
+    {
+        "rune_title": "Kenaz",
+        "meaning": "tocha, inchaço, ferida",
+        "esoteric_meaning": "fogo controlado, cremação",
+        "phonetic": "k",
+        "keywords": "Energia controlada, habilidade, transformação, regeneração, vontade de gerar, desejo sexual, criatividade",
+        "galdr": "kenaz kenaz kenaz ku ka ki ke ko kun kan kin ken kon ok ek ik ak uk kaunnnn",
+        "magick": "Fortalecer todas as habilidades, inspiração criativa, polarização superior como ferramenta de operação, regeneração e cura, amor (especialmente sexual)",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Kaunan.png"
+    },
+    {
+        "rune_title": "Gebo",
+        "meaning": "presente, hospitalidade, casamento",
+        "esoteric_meaning": "troca entre deuses e homens",
+        "phonetic": "g",
+        "keywords": "Força mágica, doador-doação-doado, êxtase, sacrifício, ||magia sexual||",
+        "galdr": "gebo gebo gebo gu ga gi ge go gub gab gib geb gob og eg ig ag ug g a a a a f f f f f",
+        "magick": "Magia ||sexual||, iniciação em magia ||sexual||, união mística, aumentar poderes mágicos, harmonia entre irmãos, irmãs, amantes, influência mágica nos mundos humano e divino, adquirir sabedoria",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Gebo.png"
+    },
+    {
+        "rune_title": "Wunjo",
+        "meaning": "alegria, pastagem, prazer",
+        "esoteric_meaning": "relação descendente da mesma origem",
+        "phonetic": "w",
+        "keywords": "Harmonia, bem-estar, fraternidade, ligação",
+        "galdr": "wunjo wunjo wunjo wu wa wi we wo wun wan win wen won wo we wi wa wu wwuuunn",
+        "magick": "Fortalecer ligações e vínculos, invocar fraternidade e harmonia, banir alienação, felicidade e bem-estar, realizar ligações e relações de todas as coisas, ligar runas",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Wunjo.png"
+    },
+    {
+        "rune_title": "Hagalaz",
+        "meaning": "granizo, ovo",
+        "esoteric_meaning": "ovo ou semente cósmica primal da vida ou padrão",
+        "phonetic": "h",
+        "keywords": "Padrão cósmico, estrutura, completude, união (ovo cósmico), evolução (dentro da estrutura), proteção",
+        "galdr": "hagalaz hagalaz hagalaz h h h h h h hu ha hi he ho hug hag hig heg hog (hul hal hil hel hol) oh eh ih ah uh h h h h h h",
+        "magick": "Completude e equilíbrio do poder, experiência mística e numinosa, operações de evolução, proteção",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Hagalaz.png"
+    },
+    {
+        "rune_title": "Nauthiz",
+        "meaning": "necessidade, angústia",
+        "esoteric_meaning": "fogo da necessidade e libertação da angústia",
+        "phonetic": "n",
+        "keywords": "Resistência, angústia, libertação (fogo da necessidade), manifestação do ser",
+        "galdr": "naudiz naudhiz naudhiz nnnnn nu na ni ne no nudh nadh nidh nedh nodh (nut nat nit net not) un an in en on nnnnnn",
+        "magick": "Superar angústia, vontade mágica, poderes espirituais, resistência sob vontade em direção a objetivos mágicos, inspiração súbita, eliminar ódio e discórdia, criar necessidade de ordem, reconhecimento da necessidade pessoal, proteção, magia do amor, conseguir amante, adivinhação",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Naudhiz.png"
+    },
+    {
+        "rune_title": "Isa",
+        "meaning": "gelo",
+        "esoteric_meaning": "matéria primal/antimatéria",
+        "phonetic": "i",
+        "keywords": "Gelo do mundo, antimatéria, concentração, ego",
+        "galdr": "isa isa isa iiiii iiiiissss (ssss iiiii) iiiiiii",
+        "magick": "Concentração e vontade, constrição e interrupção das forças dinâmicas indesejadas, integração básica do ego dentro de um sistema multiversal equilibrado, poder de controle e restrição sobre outros seres",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Isa.png"
+    },
+    {
+        "rune_title": "Jera",
+        "meaning": "ano, estação, colheita",
+        "esoteric_meaning": "ciclo da vida, ciclo do sol",
+        "phonetic": "j",
+        "keywords": "Desenvolvimento cíclico, ciclo solar anual (12), recompensa, fruição, águia",
+        "galdr": "jera jera jera jjjeeerrrraaa jjjjj ju ja ji je jo (jur jar jir jer jor) jjjjeeeerrraaa",
+        "magick": "Fertilidade, criatividade; paz, harmonia, iluminação, realização da natureza cíclica do multiverso, realização do mistério da circunferência onipresente, trazendo outros conceitos para a manifestação material",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Jera.png"
+    },
+    {
+        "rune_title": "Eihwaz",
+        "meaning": "teixo",
+        "esoteric_meaning": "Yggdrasill, árvore da vida e da morte",
+        "phonetic": "e/i",
+        "keywords": "Eixo cósmico vertical, iniciação numinosa, vida/morte, resistência, proteção",
+        "galdr": "eihwaz eihwz eihwaz (iwaz iwaz iwaz) e e e e e (um som de vogal neutra e fechada) iwu iwa iwi iwe iwo iwo iwe iwi iwa iwu e e e e e e",
+        "magick": "Iniciação na sabedoria da árvore do mundo, realização do mistério vida/morte e libertação do medo da morte, desenvolvimento da resistência espiritual e da vontade forte, criatividade espiritual e visão, proteção contra forças prejudiciais, aumento geral do poder pessoal, comunicação entre níveis de realidade (mundos de Yggdrasill), memórias de existências passadas no fluxo ancestral",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Eiwaz.png"
+    },
+    {
+        "rune_title": "Perthro",
+        "meaning": "dispositivo para lançar sortes",
+        "esoteric_meaning": "divinação como indicador das leis primordiais",
+        "phonetic": "p",
+        "keywords": "Thrlog, Tempo, Urdhr Verdhandi-Skuld, Causa e efeito, evolução, mudança",
+        "galdr": "perthro perthro perthro pu pa pi pe po purdh pardh pirdh perdh pordh po pe ie pa pu peeerrrthththththrrrroooo",
+        "magick": "Percepção de Thrlog, divinação, colocando forças rúnicas no fluxo da lei Nornica, ideias ou eventos em evolução como ato mágico",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Pertho.png"
+    },
+    {
+        "rune_title": "Algiz",
+        "meaning": "alce, proteção, cisne",
+        "esoteric_meaning": "força protetora, valquírias",
+        "phonetic": "z/r",
+        "keywords": "Proteção-encerramento, vida, bifrost, caminho dos ramos e raízes, conexão entre deuses e homens",
+        "galdr": "elhaz elhaz elhaz z z z z z (som profundo de zumbido, assobio) uz az iz ez oz oz ez iz az uz zzzzzzz (mmmmmm)",
+        "magick": "Proteção, defesa; comunicação mística e religiosa com seres não humanos, comunicação com outros mundos, fortalecimento de hamingja (poder mágico e sorte) e força vital",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Algiz.png"
+    },
+    {
+        "rune_title": "Sowilo",
+        "meaning": "sol",
+        "esoteric_meaning": "roda solar sagrada",
+        "phonetic": "s",
+        "keywords": "Roda solar, vontade mágica, guia, objetivo e caminho, sucesso, honra",
+        "galdr": "sowilo sowilo sowilo sssss ssssoooolll su sa si se so (sul sal sil sel sol) us as is es os so se si sa su sssssss",
+        "magick": "Fortalecimento dos centros psíquicos, aumento da vontade espiritual, orientação através de caminhos, iluminação, vitória e sucesso através da vontade individual",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Sowilo.png"
+    },
+    {
+        "rune_title": "Tiwaz",
+        "meaning": "o deus Tyr",
+        "esoteric_meaning": "deus do céu",
+        "phonetic": "t",
+        "keywords": "Justiça, ordem mundial, vitória (segundo a lei), auto-sacrifício, disciplina espiritual",
+        "galdr": "tiwaz tiwaz tiwaz tiiirrrrr tu ta ti te to tur tar tir ter tor ot et it at ut (Tyr Tyr) Tiiiirrrr",
+        "magick": "Obtenção de vitória justa e sucesso, construção da vontade espiritual, desenvolvimento do auto-sacrifício positivo, força da fé na magia e na religião",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Tiwaz.png"
+    },
+    {
+        "rune_title": "Berkano",
+        "meaning": "deusa do bétula, ramo, árvore",
+        "esoteric_meaning": "numen da bétula como mãe da terra",
+        "phonetic": "b",
+        "keywords": "Mãe terra, nascimento, ciclo nascimento-vida-morte, contenção, momento",
+        "galdr": "berkano berkano berkano bu ba bi be bo b e e e e r r r r r (burk bark birk berk bork) ob eb ib ab ub b e e e e r r r r",
+        "magick": "Renascimento em espírito, fortalecimento do poder do segredo, trabalhos de ocultação e proteção, conter e manter outros poderes unidos, realização da unidade do momento como mãe de todas as coisas, trazer ideias à fruição no processo criativo",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Berkanan.png"
+    },
+    {
+        "rune_title": "Ehwaz",
+        "meaning": "cavalo, garanhão",
+        "esoteric_meaning": "deuses gêmeos ou heróis em aspecto equino",
+        "phonetic": "e",
+        "keywords": "Dualidade harmoniosa, veículo de jornadas do outro mundo, fertilidade, confiança, lealdade, casamento legal",
+        "galdr": "ehwo ehwo ehwo eeeehwooo ehwu ehwa ehwi ehwe ehwo ehwo ehwe ehwi ehwa ehwu eeeehwooooo",
+        "magick": "Viagem da alma através dos mundos e projeção da alma em Midgard, realização da unidade corpo-mente, transmite confiança e lealdade, sabedoria profética, projeção de poder mágico, facilita a rapidez em todos os aspectos",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Ehwaz.png"
+    },
+    {
+        "rune_title": "Mannaz",
+        "meaning": "homem, humano",
+        "esoteric_meaning": "ancestral divino e pai celeste",
+        "phonetic": "m",
+        "keywords": "Estrutura divina, vínculo divino, inteligência, andrógino, iniciado",
+        "galdr": "mannaz mannaz mannaz mmmmmaaaaannn mu ma mi me mo mun man min men mon um am im em om mon men min man mun mmmmaaaannnn mmmmmmmmm",
+        "magick": "Realização da estrutura divina na humanidade, aumento da inteligência, memória e poderes mentais, equilíbrio dos polos da personalidade, desbloqueio do olho da mente",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Mannaz.png"
+    },
+    {
+        "rune_title": "Laguz",
+        "meaning": "água, mar",
+        "esoteric_meaning": "energia vital e crescimento orgânico",
+        "phonetic": "l",
+        "keywords": "Vida, água primal, passagem para e de volta da vida, crescimento, poder vital",
+        "galdr": "laguz laguz laguz lllll lu la li le lo (lug lag lig leg log) ul al il el ol lo le li la lu lllaaaguuuuu llllll",
+        "magick": "Orientação através de difíceis testes iniciatórios, aumento da vitalidade e força vital, reunião de poder mágico amorfo para formação e estruturação pela vontade, aumento do magnetismo, desenvolvimento da visão interior",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Laguz.png"
+    },
+    {
+        "rune_title": "Ingwaz",
+        "meaning": "o deus Ing",
+        "esoteric_meaning": "o deus da terra",
+        "phonetic": "ng",
+        "keywords": "Energia potencial, Gestação",
+        "galdr": "ingwaz ingwaz ingwaz iiiiinnnnngggg ung ang ing eng ong ong eng ing ang ung iiinnnngggg",
+        "magick": "Armazenamento e transformação de poder para uso ritual, rituais de fertilidade, meditação passiva e centramento de energia e pensamento, liberação súbita de energia",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Ingwaz.png"
+    },
+    {
+        "rune_title": "Dagaz",
+        "meaning": "dia",
+        "esoteric_meaning": "a luz do dia",
+        "phonetic": "d",
+        "keywords": "Luz, polaridade, sincretização, paradoxo Odínico",
+        "galdr": "dagaz dagaz dagaz dhdhdhdhdhdh daaaaagaaaazzz du da di de do dh dh dh dh dh odh edh idh adh udh od ed id ad ud daaaagaaaaazzzz",
+        "magick": "Alcançar o momento místico através da penetração do segredo do paradoxo Odínico, recepção da inspiração mística (dom de Odin)",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Dagaz.png"
+    },
+    {
+        "rune_title": "Othala",
+        "meaning": "propriedade, terra natal, natureza",
+        "esoteric_meaning": "propriedade hereditária imóvel",
+        "phonetic": "o",
+        "keywords": "Recinto sagrado, poder herdado, liberdade preservada, prosperidade",
+        "galdr": "othala othala othala ooooo oooo othul othal othil othel othol othol othel othil othal othul ooooo",
+        "magick": "Manter a ordem entre os companheiros, concentração em interesses comuns no lar e na família, transição de ego-centrismo para clano-centrismo, coleta de poder numinoso e conhecimento das gerações passadas, aquisição de riqueza e prosperidade",
+        "Thumbnail": "http://norse-mythology.org/wp-content/uploads/2012/11/Othala.png"
+    }
+]

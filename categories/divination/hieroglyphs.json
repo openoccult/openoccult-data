@@ -1,0 +1,698 @@
+{
+    "name": "Hieroglyphs",
+    "description": "Hieroglyphs are ancient symbols used in divination and occult practices. They convey messages from the spiritual realm and offer guidance on personal and universal matters. Each symbol holds a specific meaning that can influence one's journey, decisions, and fate.",
+    "categories": [
+        {
+            "category_name": "Common",
+            "hieroglyphs": [
+                {
+                    "name": "The Mouth",
+                    "description": "Don't be afraid to use your voice. Speak your mind and speak it truthfully. Don't be afraid to say what needs to be said, but also don't be afraid to couch it in layers of kindness. It's not duplicity to speak sweetly even when you don't want to. Pay attention to the details in this moment and be mindful that the words you say do have power.",
+                    "keywords": "communication, meetings, and working out the details of situations with others",
+                    "gardiner_unicode": "D21 & U+1308B",
+                    "image": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037454781747240/unknown.png"
+                },
+                {
+                    "name": "The Forearm",
+                    "description": "Don't look a gift horse in the mouth. You've got something very, very good going on right this second, through no work of your own. Don't squander the opportunity in front of you—take advantage of it and how exciting it can be.",
+                    "keywords": "gift of fate, help of another, things falling into place unexpectedly, luck, positivity",
+                    "gardiner_unicode": "D36 U+1309D",
+                    "image": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037531877257276/unknown.png"
+                },
+                {
+                    "name": "The Hand",
+                    "description": "You have far more control over the situation at hand than you think you do. Don't be afraid of that—lean into it and let yourself really make the most of the situation. You are more than capable of turning whatever you are in into a situation that is nothing short of beneficial for you.",
+                    "keywords": "personal skill and ability, capacity, doing what you want, bending situations to your will",
+                    "gardiner_unicode": "D46 & U+130A7",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037570896875611/unknown.png"
+                },
+                {
+                    "name": "The Leg",
+                    "description": "It's time to get moving. You're stagnant and stuck, and you need to get yourself up and running again. There's no point in sitting and watching the world go by when there are things that you could do that would be both beneficial and enjoyable for you. Listen to the people around you and interact with them as you move and grow.",
+                    "keywords": "travel, movement, outside influences",
+                    "gardiner_unicode": "D56 & U+130BE",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037617206177822/unknown.png"
+                },
+                {
+                    "name": "The Vulture",
+                    "description": "You need to distance yourself from the situation and step back. You are too emotionally invested in the thing(s) you're looking at to be able to see the full picture. The emotions in this moment may be blinding you—or those in a past moment may still be blinding you to the reality of now—and it is necessary to look at your situation from a distance.",
+                    "keywords": "distance, emotional distance, objectivity, blinding",
+                    "gardiner_unicode": "G14 & U+13151",
+                    "diety": "This may indicate the presence of Mut",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037689394344066/unknown.png"
+                },
+                {
+                    "name": "The Owl",
+                    "description": "You know what's up and what's going on. Use your clear view of this situation to navigate through murky waters, no matter how difficult they may be to get through",
+                    "keywords": "wisdom, insight, knowledge, clear view of a situation",
+                    "gardiner_unicode": "G17 & U+13153",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037734776705064/unknown.png"
+                },
+                {
+                    "name": "The Quail Chick",
+                    "description": "You have a whole new world in front of you with so many options to explore. Don't let yourself get overwhelmed with how much is offered in front of you—just dive in and swim. You'll figure it out as you go, and that's okay and exciting. Don't be afraid to feel like you're floundering for a little bit first. You'll get your feet under you.",
+                    "keywords": "new beginnings, new directions, new doors opening, opportunity, potential",
+                    "gardiner_unicode": "G43 & U+13171",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037824782286928/unknown.png"
+                },
+                {
+                    "name": "The Cobra in Repose",
+                    "description": "You are not in power here. You are going to have to abide by the rules of someone else, at least momentarily, for this to be advantageous to you. Take a humble role in your situation and work within the system instead of trying to break out of it right now. It's time to let someone else drive.",
+                    "keywords": "power, authority, being at the mercy of authority, humility, control",
+                    "gardiner_unicode": "I10 & U+13193",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037864816910367/unknown.png"
+                },
+                {
+                    "name": "The Reed",
+                    "description": "You have much going on in your life right now, and it's exciting! Growth and development abound if you only take advantage of it. Don't let yourself get overwhelmed or distressed at how busy you may seem. Things will come to you naturally if you stick with them and find joy in what you're working on. Let your creative juices flow!",
+                    "keywords": "growth, expansion, being busy, projects, creativity, self-expression",
+                    "gardiner_unicode": "M17 & U+131CB",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037901848432660/unknown.png"
+                },
+                {
+                    "name": "The Double Reeds",
+                    "description": "You are trying to do way, way too much right now, and it's resulting in your work being badly done and poorly planned. You've taken on too many obligations and agreed to do too much. You need to cut back and look at places where you can simplify your life so that you don't lose your mind trying to be in three different places at once.",
+                    "keywords": "over-extended, overwhelmed, overworked, obligations, poor planning",
+                    "gardiner_unicode": "M17A & U+131CC",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037953731960913/unknown.png"
+                },
+                {
+                    "name": "The Slope of a Hill",
+                    "description": "You are more than capable of getting what you want, but it won't be without sacrifice. The journey you are about to embark on will be incredibly difficult, and there will not be a chance to back out once you have begun. Make the decision and commit—this isn't something you can do half-heartedly.",
+                    "keywords": "challenges, difficulties, hard work, uphill battles, sacrifice",
+                    "gardiner_unicode": "N29 & U+1320E",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036037992822865920/unknown.png"
+                },
+                {
+                    "name": "The Door Bolt",
+                    "description": "You are not in danger. You are not in harm's way. There is no reason for fear to grip you in this situation and it is important that you understand that you are safe and out of harm's way here. Take the moment to breathe and readjust. Not everything is always out to get you.",
+                    "keywords": "safety, protection, peace, comfort",
+                    "gardiner_unicode": "O34 & U+13283",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038065241727046/unknown.png"
+                },
+                {
+                    "name": "The Stool",
+                    "description": "You have a community that you can lean on—lean on them. This is not something you can, or should try to, get through on your own. You need to be honest with yourself and pay attention to your limits. Rely on those around you and your support system and pay heed to the advice that you are getting. You are not alone in this, you don't have to feel like you are.",
+                    "keywords": "help, support, community, friends, family, good advice",
+                    "gardiner_unicode": "Q3 & U+132AA",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038127158050886/unknown.png"
+                },
+                {
+                    "name": "The Lasso",
+                    "description": "You need to be careful now. There may be things that you missed at first glance, so make sure to take the time to investigate your circumstances thoroughly and carefully so that you know you haven't missed anything.",
+                    "keywords": "unseen problems, obstacles, challenges, care, caution, second looks, investigations",
+                    "gardiner_unicode": "V4 & U+1336F",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038184208973934/unknown.png"
+                },
+                {
+                    "name": "The Ripple of Water",
+                    "description": "You are not in control here, and that is okay. The divine is guiding you, and it's time that you let it and trust where it is taking you.",
+                    "keywords": "divine guidance, divine providence, relinquishing control, relaxation",
+                    "gardiner_unicode": "N35 & U+13216",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038229385826324/unknown.png"
+                },
+                {
+                    "name": "The Lying Lion",
+                    "description": "You are strong enough to get through this. Put on a brave face and grit your teeth and get moving. You know you are capable of this; stop doubting your strength and capacity. You will persevere through this, as you have persevered through everything you've been through already. Don't let your self-doubt take hold of you.",
+                    "keywords": "bravery, courage, self-confidence, strength, determination, perseverance",
+                    "gardiner_unicode": "E23 & U+130ED",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038268350898197/unknown.png"
+                },
+                {
+                    "name": "The Tethering Rope",
+                    "description": "A boon will soon find you. The fruits of your labor will pay out, and you will get what you want. Prosperity is yours if you grasp it, and what you want is in reach. Do not give up or slack off now—keep working towards your goals and you will see them come to fruition.",
+                    "keywords": "wealth, prosperity, wanted things, desire, collection",
+                    "gardiner_unicode": "V13 & U+1337F",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038334281154630/unknown.png"
+                },
+                {
+                    "name": "The Twisted Wick",
+                    "description": "You need to let go of the things you've held onto for ages just because they're old and familiar. There are new, exciting things coming your way if you can learn how to let go of the past.",
+                    "keywords": "cleansing, releasing, letting go of the old to make way for the new, eternity",
+                    "gardiner_unicode": "V28 & U+1339B",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038369286823976/unknown.png"
+                },
+                {
+                    "name": "The Metal Vessel",
+                    "description": "Change is finding its way to you, whether you want to acknowledge it or not. You have no choice but to change and transform, so embrace it instead of running from it. This change, no matter how scary it feels, will be best for you. It will bring you stability and comfort that you do not currently have, and you will benefit from it greatly. Do not keep running and accept that change must happen in order for you to get better.",
+                    "keywords": "change, transformation, development, chaos to order",
+                    "gardiner_unicode": "W6 & U+133B5",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038439189106738/unknown.png"
+                },
+                {
+                    "name": "The Loaf of Bread",
+                    "description": "Fulfilling your duties and attending to the necessary details of your situation will do you good. Fruition requires hard work, and when you put that hard work in, you will reap those rewards. Do not be afraid to get your hands dirty in this.",
+                    "keywords": "duty to others, care of others, duties, requirements, details, doing your part, success",
+                    "gardiner_unicode": "X1 & U+133CF",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038480704311348/unknown.png"
+                },
+                {
+                    "name": "The Cup",
+                    "description": "Relish the life you have right now. Do not ignore how good things are; stop and smell the roses, so to speak. Do not forget that there is beauty and joy in the world, even when it is hard. There is pleasure to be found in life even if you have to search for it. Find it and celebrate it and enjoy yourself, even if only momentarily.",
+                    "keywords": "pleasure, enjoyment, friends, positivity, happiness",
+                    "gardiner_unicode": "W10 & U+133BA",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038560282849351/unknown.png"
+                },
+                {
+                    "name": "The Palm Branch",
+                    "description": "Don't give up! Things are absolutely going to go your way soon if you just keep working towards your goals. Do not get discouraged that it is taking so long or requiring so much effort. You are almost there—the end is near, and the results will be successful. People will recognize your hard work soon; keep your nose to the grindstone and stay focused as you continue to work towards your goals. Celebration is on the horizon.",
+                    "keywords": "success, positive attention, admiration of others, rewards, effort, honor, recognition",
+                    "gardiner_unicode": "M4 & U+131B3",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038627496562718/unknown.png"
+                },
+                {
+                    "name": "The \"Slug\"",
+                    "description": "You need to be patient here. Let the situation develop at its own pace instead of trying to force it to move more quickly. Things will happen in due time. Everything must first fall into place before anything can move forward, and you just have to give it time.",
+                    "keywords": "patience, pace, slow, cautious",
+                    "gardiner_unicode": "L8 & U+131AC",
+                    "img": "https://cdn.discordapp.com/attachments/1036037410166931566/1036038691795255397/unknown.png"
+                }
+            ]
+        },
+        {
+            "category_name": "Uncommon",
+            "hieroglyphs": [
+                {
+                    "name": "The Crouching Man Behind the Wall",
+                    "description": "Something is eluding you and you need to pay attention to what it is. Someone is hiding something from you, and it's time to delve deep and figure out what it is. Be honest with yourself and with those around you and hold them to the expectation that they will be honest with you, too. Do not ignore the fact that you feel like something is wrong—pay attention to that feeling and investigate it.",
+                    "keywords": "concealment, secrecy, hiding, obscured truth, lack of honesty, lack of transparency",
+                    "gardiner_unicode": "A5 & U+13004",
+                    "image": ""
+                },
+                {
+                    "name": "The Seated Man Under a Vase",
+                    "description": "You need to cleanse your space and your mind. Purify your surroundings and your heart and return to this situation with a refreshed and blank slate.",
+                    "keywords": "cleansing, purification, blank slate",
+                    "gardiner_unicode": "A6 & U13006",
+                    "image": ""
+                },
+                {
+                    "name": "The Man with a Basket",
+                    "description": "You need a break. So, so badly. You are so overworked, and it is starting to take a serious toll on your physical and mental wellbeing. It's time to find a way to take a break before you're forced to. Learn how to say no to extra, unnecessary tasks and accept that things done with half effort are better than things not done at all. Your wellbeing needs to come before your work.",
+                    "keywords": "overworked, underpaid, lack of rest, exhaustion",
+                    "gardiner_unicode": "A9 & U+1300B",
+                    "image": ""
+                },
+                {
+                    "name": "The Man with Tied Arms",
+                    "description": "You need to look at the people around you and reconsider where your trust lies. You are missing something important, and it could really hurt you if you're not careful. There is someone you trust that is lying to you.",
+                    "keywords": "lying, traitorous behavior, backstabbing, reconsideration, trust",
+                    "gardiner_unicode": "A13 & U1300F",
+                    "image": ""
+                },
+                {
+                    "name": "The Woman Suckling Child",
+                    "description": "You should not be afraid to look to others for support, just as others should not be afraid to look to you for support. It is a mutual effort to stay alive—lean on those closest to you and they will lean on you too.",
+                    "keywords": "nourishment, concern, care for others, support from others, community, mutual aid",
+                    "gardiner_unicode": "B5 & U+13054",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Jackal Head",
+                    "description": "There is a cliff in the near future and an immediate ending that you were not prepared for or aware was coming. Even though you are afraid, and even though you are worried about it, there is something to be learned here. Do not fear the changes that will come your way as a result of this ending. Contemplate your next steps forward cautiously, but do not let your step falter. The end is happening regardless of if you want it to or not. Accept that and move accordingly.",
+                    "keywords": "abrupt endings, decisions, outcomes, consideration",
+                    "gardiner_unicode": "C6 & U+13062",
+                    "diety": "This may indicate the presence of Anpu",
+                    "image": ""
+                },
+                {
+                    "name": "The Goddess with Horned Sun-Disk",
+                    "description": "You deserve to be happy and to embrace that happiness. It is time to find joy in the freedom you have in this world and enjoy yourself deeply and without regret. Do not let the fear of judgment stop you from feeling free and happy. Have fun with life and the things you want to do.",
+                    "keywords": "femininity, radical joy, sexual liberation, freedom",
+                    "gardiner_unicode": "C9 & U+13065",
+                    "diety": "This may indicate the presence of Hethert",
+                    "image": ""
+                },
+                {
+                    "name": "The Goddess with Feather",
+                    "description": "You need to find order and balance in your situation instead of chaotically moving from one thing to the next. Routine, organization, and discipline will be your best friends as you continue to move forward. Stagnating in disorder and disarray will only lead to increased anxiety and stress, which will do nothing to help you or those around you.",
+                    "keywords": "order, balance, stress, organization, disorder, anxiety",
+                    "gardiner_unicode": "C10 & U+13066",
+                    "diety": "This may indicate the presence of Ma'at",
+                    "image": ""
+                },
+                {
+                    "name": "The Horns",
+                    "description": "New things are coming! The frustrations and stress of the recent past are going to be wiped clean soon and you will feel like you have a new beginning. Enjoy it and embrace it. New beginnings are yours to seize. Do not let fear and anxiety stop you from taking everything that this new beginning offers you.",
+                    "keywords": "new beginnings, clean slates, fresh starts",
+                    "gardiner_unicode": "F13 & U+1310B",
+                    "image": ""
+                },
+                {
+                    "name": "The Backbone and Spinal Cord",
+                    "description": "There is a long road ahead of you and it may feel insurmountable, but it will be fruitful in the future. Do not be daunted by the long road in front of you and plan each step with an understanding that you're going to be in it for the long haul. You will come out of this stronger and better off than you are now, so be patient as you move forward.",
+                    "keywords": "length, strength, extension, long-lasting, welfare",
+                    "gardiner_unicode": "F39 & U+1312A",
+                    "image": ""
+                },
+                {
+                    "name": "The Bee",
+                    "description": "Pay attention to the work you have to get done and be disciplined in your efforts to get things done. You need to be dedicated and disciplined in these next steps and your future endeavors—simply buzzing around and bumbling wherever you feel like is not going to cut it anymore. Focus and sweet things will be yours soon.",
+                    "keywords": "sweetness, unification, productivity, reveling, discipline",
+                    "gardiner_unicode": "L2 & U+131A4",
+                    "image": ""
+                },
+                {
+                    "name": "The Stack",
+                    "description": "You will reap the benefits of what you've sown, creating an abundance from what you've been given if you play your cards right. The work you've done will come to fruition as long as you are careful and cautious about how you have done it.",
+                    "keywords": "abundance, growth, benefits",
+                    "gardiner_unicode": "M35 & U+131E4",
+                    "image": ""
+                },
+                {
+                    "name": "The Brazier",
+                    "description": "You need to find clarity in this situation. Take the time necessary to really contemplate all of it and make sure that you illuminate any confusion you might feel lurking.",
+                    "keywords": "light, clarity, consideration, careful, illumination, confusion",
+                    "gardiner_unicode": "Q7 & U+132AE",
+                    "image": ""
+                },
+                {
+                    "name": "The Loaf on Mat",
+                    "description": "Count your blessings and revel in the things in your life that are good and bringing you joy. Focusing always on the negative will never get you anything other than stress. Give thanks to the divine for all it has done to help you get to where you are and give thanks to yourself for all that you have done to get yourself where you are.",
+                    "keywords": "offering, boon, pleasing experiences, pardons, happy, gracious, peaceful",
+                    "gardiner_unicode": "R4 & U+132B5",
+                    "image": ""
+                },
+                {
+                    "name": "The Two Bows Tied Horizontally",
+                    "description": "You are far more protected than you feel like you are. The divine is watching over you and the divine is on your side. Do not forget that you are not alone and that the divine is with you. Protect yourself while also understanding that you are not alone in your own protection. Give thanks to the divine when you are able and do not be afraid to consult Them when making your decisions if you are struggling to be decisive.",
+                    "keywords": "protection, order, decisiveness",
+                    "gardiner_unicode": "R24 & U+132CB",
+                    "diety": "This may indicate the presence of Neith",
+                    "image": ""
+                },
+                {
+                    "name": "The Ankh",
+                    "description": "This is not the only life you've got, but it's the only mortal one you've got. Do things that bring you joy in it and nourish yourself for it. You need to enjoy yourself to do well in life, so make sure that you do. You are worthy of taking care of in this life too, not just in the afterlife. You can't keep putting self-care off until you're practically on your deathbed.",
+                    "keywords": "life, eternal life, sustenance, nourishment, protection, the soul",
+                    "gardiner_unicode": "S34 & U+132F9",
+                    "image": ""
+                },
+                {
+                    "name": "The Sekhem Scepter",
+                    "description": "You need to take control of your situation instead of waiting around for someone else to do it. Determine what you need and work towards your goal instead of flip-flopping and being uncertain. You are in control of your own life and your own surroundings, use that control to make yourself better.",
+                    "keywords": "power, control, decisiveness",
+                    "gardiner_unicode": "S42 & U+13302",
+                    "image": ""
+                },
+                {
+                    "name": "The Bow",
+                    "description": "You're stretched and extended well beyond where you should be realistically. You need to step back and reconsider your priorities. What is important to you? What could you ask someone else to help you with?",
+                    "keywords": "overextension, reconsideration of priorities, importance, delegation",
+                    "gardiner_unicode": "T9 & U+13312",
+                    "image": ""
+                },
+                {
+                    "name": "The Divided Cartouche",
+                    "description": "You may be feeling particularly excluded from events that you normally feel like you would be included in. You need to make an active effort to reconnect with those that you care about and love instead of sitting in discomfort at the fact that you feel abandoned.",
+                    "keywords": "division, exclusion, abandonment, reconnection",
+                    "gardiner_unicode": "V11 & U+13378",
+                    "image": ""
+                },
+                {
+                    "name": "The Crossed Diagonal Sticks",
+                    "description": "You cannot keep doing this. You have to get rid of something. Figure out what you can let go of and let go of it. Stop overworking yourself to the point of burnout—it isn't healthy.",
+                    "keywords": "breaks, division, overload",
+                    "gardiner_unicode": "Z10 & U+133F5",
+                    "image": ""
+                },
+                {
+                    "name": "The Man Performing Rites",
+                    "description": "Indicates a time of rejoicing and celebration, a need to find jubilation and happiness where you're currently at. Take the time to celebrate your accomplishments and achievements today.",
+                    "keywords": "rejoicing, celebration, accomplishments, achievements",
+                    "gardiner_unicode": "A8 & U+1300A",
+                    "image": ""
+                },
+                {
+                    "name": "The Soldier with Bow and Quiver",
+                    "description": "Camaraderie is very important to you in these next steps. The journey you're beginning will require that you rely on your community and those on the journey with you. Pay attention to the people around you and how you can work together to best overcome the challenges that are heading your way.",
+                    "keywords": "camaraderie, journeys, expeditions, community, working together",
+                    "gardiner_unicode": "A12 & U+1300E",
+                    "image": ""
+                },
+                {
+                    "name": "The Man Falling",
+                    "description": "Be wary of things that seem too good to be true. There may be temptations in your path that will lead you astray if you are not careful. Be mindful of what you agree to, accept, and walk into, it may be a trap if you're not careful.",
+                    "keywords": "traps, temptation, caution",
+                    "gardiner_unicode": "A15 & U+13012",
+                    "image": ""
+                },
+                {
+                    "name": "The Man Bowing Down",
+                    "description": "Be flexible with yourself in these moments. You are not perfect, nor will you ever be, and that is okay. Plans change and you have to learn how to accept that and move forward. Rigidity will not help you in the long run, as much as you want it to. There has to be balance, and you've been losing it.",
+                    "keywords": "bending, flexibility, balance, rigidity, acceptance",
+                    "gardiner_unicode": "A16 & U+13013",
+                    "image": ""
+                },
+                {
+                    "name": "The Child Sitting with Hand to Mouth",
+                    "description": "It's time to indulge your inner child and pay attention to what that part of you is saying. Innocence and wonder are your friends in endeavors you're currently undertaking.",
+                    "keywords": "innocence, inner child, indulgence, naiveté, joy",
+                    "gardiner_unicode": "A17 & U+13014",
+                    "image": ""
+                },
+                {
+                    "name": "The Bent Man Leaning on Staff",
+                    "description": "Wisdom is yours if you know where to find it. Don't be afraid to lean on your elders and ask them questions. Look to those older than you for advice when you are confused and distressed. Don't let old age blind you though, not all who are older are wiser.",
+                    "keywords": "wisdom, elders",
+                    "gardiner_unicode": "A19 & U+13017",
+                    "image": ""
+                },
+                {
+                    "name": "The Man Striking with Both Hands",
+                    "description": "You have hard lessons to be taught, and you are refusing to learn them. This is doing nothing but hurting you in the long run. What are you not learning that you know you should be? Why are you refusing these lessons?",
+                    "keywords": "lessons, stubborn power, instruction, learning",
+                    "gardiner_unicode": "A24 & U+1301C",
+                    "image": ""
+                },
+                {
+                    "name": "The Man with Hands Raised Behind Him",
+                    "description": "You are ignoring something you should not be, and you know it. What choice are you making to ignore the things you know you shouldn't be? Now is not the time to turn away from the things that are in front of you. Take your self-imposed blindfold off and pay attention.",
+                    "keywords": "turning away, ignoring, blindfold",
+                    "gardiner_unicode": "A31 & U+13023",
+                    "image": ""
+                },
+                {
+                    "name": "The Man with Stick and Bundle",
+                    "description": "Get your ducks in a row. You need to herd things together before you move towards this new, exciting, and strange part of your life.",
+                    "keywords": "herding, shepherding, journeys, construction, growth, new and strange things",
+                    "gardiner_unicode": "A33 & U+13026",
+                    "image": ""
+                },
+                {
+                    "name": "The Man Building Wall",
+                    "description": "You've been working and constructing something for a while, and its completion is coming your way soon. Don't give up in this final push.",
+                    "keywords": "building, fruition, perseverance, final push",
+                    "gardiner_unicode": "A35 & U+13028",
+                    "image": ""
+                },
+                {
+                    "name": "The King Wearing Red Crown with Scepter",
+                    "description": "The finish line of what you've been working on is near; you can see it on the horizon. You cannot give up quite yet, but the end is in sight. Even if challenges come up for you now, make sure you stay on your toes and consider creative solutions to the challenges you're facing. You are in charge of the creation of your next steps, do not forget.",
+                    "keywords": "creation, end in sight, creativity, power, control, planning, completion",
+                    "gardiner_unicode": "A45A & U+13036",
+                    "diety": "This may indicate the presence of Atum",
+                    "image": ""
+                },
+                {
+                    "name": "The Beardless Man Seated and Holding Knife",
+                    "description": "Pay attention to who is with you when things go south and who leaves you high and dry whenever you're struggling. Those who are leaving you out to dry are not the people who you belong with, and it's important to recognize that. Keep track of where you feel most welcome and wanted, and do not give up.",
+                    "keywords": "community, family, friends, belonging, guardians and keepers",
+                    "gardiner_unicode": "A48 & U+13039",
+                    "image": ""
+                },
+                {
+                    "name": "The Man Holding Sistrum",
+                    "description": "Find joy in the simple things, whether that be food, music, or drink, in order to find comfort as you navigate grief.",
+                    "keywords": "comfort, joy, recovering from grief, food, drink",
+                    "gardiner_unicode": "A66 & U+1304B",
+                    "diety": "This may indicate the presence of Ihy",
+                    "image": ""
+                },
+                {
+                    "name": "The Seated Man with Raised Arms",
+                    "description": "Buckle in for the long haul. There is no way to shortcut this and you need to make sure that you're not cutting corners. You may feel flooded with information and tasks but take a deep breath and you will figure it out. This is a marathon, not a sprint, so plan accordingly.",
+                    "keywords": "eternity, infinity, long-term, floods",
+                    "gardiner_unicode": "A70 & U+1304F",
+                    "diety": "This may indicate the presence of Heh",
+                    "image": ""
+                },
+                {
+                    "name": "The Pregnant Woman",
+                    "description": "New ideas and new systems are coming your way. Conceiving new things right now is of high priority. Don't ignore the creative spark you've got brewing in you.",
+                    "keywords": "new ideas, novelty, creativity, conception",
+                    "gardiner_unicode": "B2 & U+13051",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Sun-Disk and Uraeus",
+                    "description": "You may be feeling abandoned by folks who take on parental roles in your life right now, and that you are all alone. No matter how alone you feel, this isn't true. You are surrounded by mentors and guides if you pick your head up and look for them.",
+                    "keywords": "parents, mentors, guides, community",
+                    "gardiner_unicode": "C1 & U+1305A",
+                    "diety": "This may indicate the presence of Ra",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Ibis Head",
+                    "description": "Be true to yourself even whenever it is scary. Do not ignore that you are important and that you matter. Make sure you factor self-care into your plans, and be mindful of how much you are realistically willing and able to do at any given moment when you are making your plans. It is important to be honest with yourself when you are moving.",
+                    "keywords": "writing, plans, benefactor, prudence, true to yourself",
+                    "gardiner_unicode": "C3 & U+1305F",
+                    "diety": "This may indicate the presence of Thoth",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Ram Head",
+                    "description": "It's time to flex your creative muscles and create something that brings you joy and comfort. Pay close attention to the habits that you are building and focus on creative solutions to the problems you are facing. You can and will create success for yourself.",
+                    "keywords": "creation, animals, waters, building",
+                    "gardiner_unicode": "C4 & U+13060",
+                    "diety": "This may indicate the presence of Khnum",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Seth-Animal Head",
+                    "description": "Even when you feel like you are surrounded by enemies and chaos, you are more than capable of defending yourself and protecting those you care about from the malice of others. Do not be afraid to bare your fangs in defiance of those who seek to harm you if you must.",
+                    "keywords": "enemies, violence, chaos, strength, duality, malice, harm, rebellion",
+                    "gardiner_unicode": "C7 & U+13063",
+                    "diety": "This may indicate the presence of Sutekh",
+                    "image": ""
+                },
+                {
+                    "name": "The Ithyphallic God",
+                    "description": "Lean into your masculine traits and side instead of shying away from it. Focusing on that aspect of yourself, and those traits that you have been ignoring, will create for you success in all endeavors.",
+                    "keywords": "virility, masculinity, creation, climbing, growth",
+                    "gardiner_unicode": "C8 & U+13064",
+                    "diety": "This may indicate the presence of Min",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Two Plumes and Scepter",
+                    "description": "Sometimes justice requires mercy more than it requires punishment. Do not be so hasty to punish those who have done something wrong to you and consider being willing to extend compassion to those who have harmed you without intent to do so. Not everyone is out to get you and not everyone realizes that their behaviors are harmful. Compassion and mercy are not the same as being walked all over—be mindful to not swing so far that you do not stand up for yourself.",
+                    "keywords": "kingship, justice, righteousness, charity, compassion, mercy",
+                    "gardiner_unicode": "C12 & U+13069",
+                    "diety": "This may indicate the presence of Amun",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Falcon Head and Two Plumes",
+                    "description": "Your bravery is going to pay off soon. You are going to experience success as a result of your bravery and dedication. Do not give up now and keep moving forward. Success is just around the corner, and you will find it if you keep going.",
+                    "keywords": "conquering, valor, movement, motion, success",
+                    "gardiner_unicode": "C17 & U+1306E",
+                    "diety": "This may indicate the presence of Montu",
+                    "image": ""
+                },
+                {
+                    "name": "The Squatting God",
+                    "description": "Pay attention to the people who have come before you. Those who came before you gave you a blueprint to follow, and in this moment, it is important to follow that mold. This is not the time to try to forge your own path and your own way of doing something—the established manner of doing things will work here, and it will benefit you greatly in the long run to follow that established manner.",
+                    "keywords": "creation, androgyny, good things, longevity, the blueprint",
+                    "gardiner_unicode": "C18 & U+1306F",
+                    "diety": "This may indicate the presence of Tatenen",
+                    "image": ""
+                },
+                {
+                    "name": "The Mummy-Shaped God",
+                    "description": "Do not be afraid to be openly and unapologetically truthful and honest. The truth is key to creating justice both now and in the future. Trust in those around you to be honest with you, even when you fear that they are not. Building community is not going to be feasible whenever you are constantly distrustful of those around you or convinced that they are lying to you.",
+                    "keywords": "creation, building, woodworking, truth, justice, duality",
+                    "gardiner_unicode": "C19 & U+13070",
+                    "diety": "This may indicate the presence of Ptah",
+                    "image": ""
+                },
+                {
+                    "name": "Bes",
+                    "description": "Pay attention to your home and those in it. Your home and family matter much right now, and there is something new that is going to come of them. Do not be ignorant of the new things that are coming your way in your home—they will change your life very much if you are good to them.",
+                    "keywords": "household, children, beginnings, initiations, introductions",
+                    "gardiner_unicode": "C21 & U+13072",
+                    "diety": "This may indicate the presence of Bes",
+                    "image": ""
+                },
+                {
+                    "name": "The God with Falcon Head and Moon",
+                    "description": "Time heals all wounds, and these are no exceptions. You will find a path forward that doesn't leave you feeling so raw if you just give it time. Patience is key, but healing and good things will come to you if you are willing to wait and let your wounds heal.",
+                    "keywords": "time, embracing, healing, defending, finding paths, protection",
+                    "gardiner_unicode": "C22 & U+13073",
+                    "diety": "This may indicate the presence of Khonsu",
+                    "image": ""
+                },
+                {
+                    "name": "The Goddess with Feline Head and Sun with Uraeus",
+                    "description": "Do not be afraid to sacrifice what needs to be let go of in order to find more positivity in your life. The sacrifice may be painful and bloody, the idea of giving it up may be sickening, but do it anyways with the trust that it will be better in the long run. Make your decision and make it swiftly. You have a knife for a reason, and it is time to make use of it.",
+                    "keywords": "healing, warding, sickness, bloodlust, sacrifice, massacre, protection, dance, rejoicing",
+                    "gardiner_unicode": "C23 & U+13074",
+                    "diety": "This may indicate the presence of Sekhmet, Menhit, Mehit, or Bastet",
+                    "image": ""
+                },
+                {
+                    "name": "The Eye Touched Up with Paint",
+                    "description": "Be mindful of what you say and do right now. It is time to pay close attention to details more than normal and keep a watchful eye on the decisions you are currently making. Make sure that all of your t's are crossed and all of your i's are dotted. Do not neglect any details in your current state.",
+                    "keywords": "resurrection, careful eyes, watchful eye, attention to detail, awake",
+                    "gardiner_unicode": "D5 & U+1307A",
+                    "diety": "This may indicate the presence of Wesir",
+                    "image": ""
+                },
+                {
+                    "name": "The Two Arms Upraised",
+                    "description": "Listen to your inner voice. The little voice inside of you matters and needs to be heard. What is it telling you? Why are you ignoring it? Paying attention to your internal monologue/dialogue is crucial to your success and your happiness. Do not neglect it.",
+                    "keywords": "soul, other self, vitality, sustenance",
+                    "gardiner_unicode": "D28 & U+13093",
+                    "diety": "This may indicate the presence of Ka",
+                    "image": ""
+                },
+                {
+                    "name": "The Two Arms Upraised with Tail",
+                    "description": "Someone has had a change in heart and deserves a chance at redemption. Whether that is you or someone near you, do not be afraid to take genuine efforts to change at face value. You deserve redemption, as do others. Extend people that grace at least every now and again.",
+                    "keywords": "transformation, redemption, benevolence, change of heart",
+                    "gardiner_unicode": "D30 & U+13095",
+                    "diety": "This may indicate the presence of Nehebkau",
+                    "image": ""
+                },
+                {
+                    "name": "The Arms Embracing",
+                    "description": "Let people in. Your walls aren't helping you at all right now. It's time to open up and let new people into your life. Vulnerability is hard and scary, but it is necessary for growth and success. Those around you are worth embracing—do not let yourself stay an isolated island.",
+                    "keywords": "embracing, enclosing, welcoming",
+                    "gardiner_unicode": "D32 & U+13098",
+                    "image": ""
+                },
+                {
+                    "name": "The Arm with Wand",
+                    "description": "You need to turn to the divine in this moment instead of trying to focus solely on the mundane. Do not be afraid to lean on both magic and prayer in this moment. The divine is calling to you—do not ignore it.",
+                    "keywords": "holiness, sacred, religious, prayer",
+                    "gardiner_unicode": "D45 & U+130A6",
+                    "image": ""
+                },
+                {
+                    "name": "The Two Toes Oriented Leftward",
+                    "description": "It's time to get moving. There is no point in sitting still and not moving around when there are people to meet and things to do. Your foundations are sturdy enough now that you can move forward without worrying about being shaken to your core. Look to the sky and aim big when you move. Do not give up and keep going. Stagnation is not befitting you.",
+                    "keywords": "movement, motion, travel, foundations, paternal influences",
+                    "gardiner_unicode": "D63 & U+130C5",
+                    "diety": "This may indicate the presence of Sah",
+                    "image": ""
+                },
+                {
+                    "name": "The Sacred Cow",
+                    "description": "Nurture your connections with mother figures—both biological and chosen. It is important to pay attention and give heed to those who nurture you and try to guide you in the correct directions. While they may not always be right, their advice is worth contemplating.",
+                    "keywords": "maternal energy, nourishment, life-giving, mother figures, connections",
+                    "gardiner_unicode": "E4 & U+130D5",
+                    "diety": "This may indicate the presence of Hesat",
+                    "image": ""
+                },
+                {
+                    "name": "The Cow Suckling Calf",
+                    "description": "Genuinely, be nicer. Be friendlier. The world is not always out to get you and neither are people. You can afford to be—and you should be—kind to those who have done nothing wrong to you. There is no need to be callous or cruel to those who are simply existing near you. Be kinder and more patient with those around you, and with yourself. Softness is a virtue.",
+                    "keywords": "friendliness, patience, grace, kindness",
+                    "gardiner_unicode": "E5 & U+130D6",
+                    "image": ""
+                },
+                {
+                    "name": "The Wolf on Standard",
+                    "description": "Be diligent in your search for information and truth. Be sure to turn over every rock and follow every opportunity so that you know exactly what is happening in your circumstances. You cannot protect yourself from something you do not know about. Your journey requires much planning, and you must plan with information. Do not perpetuate the same cycles of bad planning you've fallen prey to in the past.",
+                    "keywords": "wisdom, scouting, protection, ends, new beginnings, cycles",
+                    "gardiner_unicode": "E18 & U+130E7",
+                    "diety": "This may indicate the presence of Wepwawet",
+                    "image": ""
+                },
+                {
+                    "name": "The Hippopotamus Head",
+                    "description": "There is a time and place for thinking with your heart and a time and place for thinking with your head. Now is the time to think with your head. Don't focus on what feels best, focus on what you know is best. It's time to stop letting your feelings control every action you take.",
+                    "keywords": "logic, right moment, timing",
+                    "gardiner_unicode": "F3 & U+13101",
+                    "image": ""
+                },
+                {
+                    "name": "The Heart and Windpipe",
+                    "description": "Pay attention to your inner child in this moment. It matters much more than you are willing to acknowledge. What your inner child wants is not just some sort of silly fantasy or something that you can ignore—it is what you at your core need to feel safe and fulfilled. Listen and give heed to what it asks for.",
+                    "keywords": "beauty, perfection, youth",
+                    "gardiner_unicode": "F35 & U+13124",
+                    "image": ""
+                },
+                {
+                    "name": "The Falcon in Sokar Barque",
+                    "description": "Don't punish yourself for the actions of others, no matter how hard it is to not do so. Don't be afraid to push the hand of retribution faster, either. It is okay, sometimes, to take matters into your own hands, as long as you are both cautious and methodical.",
+                    "keywords": "punishment, forgiveness, retribution",
+                    "gardiner_unicode": "G10 & U+1314B",
+                    "diety": "This may indicate the presence of Seker",
+                    "image": ""
+                },
+                {
+                    "name": "The Combination of Vulture and Flagellum",
+                    "description": "You are allowed to be multifaceted in all that you do. Do not be afraid to explore your duality and hold two separate truths being held. Make room to see opposing viewpoints and counterarguments and allow yourself to really explore every option before coming to a conclusion.",
+                    "keywords": "motherhood, femininity, duality, understanding",
+                    "gardiner_unicode": "G15 & U+13151",
+                    "diety": "This may indicate the presence of Mut",
+                    "image": ""
+                },
+                {
+                    "name": "The White-Fronted Goose",
+                    "description": "Violent change is coming your way or has come your way, and even though it is tiring and exhausting, it is for the best. The destruction you have experienced is going to bring forth new and exciting things that are so much better than you can realize in this moment. For new things to be created, the old must first be destroyed. You will not regret the way that things turn out.",
+                    "keywords": "destruction, creation, getting rid of the old for the new",
+                    "gardiner_unicode": "G38 & U+1316C",
+                    "diety": "This may indicate the presence of Geb",
+                    "image": ""
+                },
+                {
+                    "name": "The Widgeon",
+                    "description": "Be mindful of how greedy you are being right now. Not everything can go your way, no matter how much you want them to. Accept that there are things that will not go how you want them to go, and that there are things that you will need to let go of to get what you ultimately want the most. Pick and choose your battles and winnings instead of trying to have everything.",
+                    "keywords": "fattening, food, gluttony, greed",
+                    "gardiner_unicode": "G42 & U+13170",
+                    "image": ""
+                },
+                {
+                    "name": "The Crocodile",
+                    "description": "Sometimes, you can be too protected. You are so good at keeping yourself safe that you may be ignoring opportunities or friendships that would be right in front of you if you would just open your walls a little bit. Sometimes you have to do it afraid. It's time to do that now.",
+                    "keywords": "protection as a double-edged sword, opening up",
+                    "gardiner_unicode": "I3 & U+1318A",
+                    "diety": "This may indicate the presence of Sobek",
+                    "image": ""
+                },
+                {
+                    "name": "The Emblem of the West",
+                    "description": "Something is going to be ending soon, or is actively ending, and as scary as it may seem, it will be good for you in the end. You will come out of this better and stronger in the end, but you have to give yourself the time and space to grieve this end as well.",
+                    "keywords": "things ending, the afterlife, the underworld, death",
+                    "gardiner_unicode": "R14 & U+132C0",
+                    "image": ""
+                },
+                {
+                    "name": "The Flower with Horns",
+                    "description": "There is so much you have to remember right now, and it is feeling particularly overwhelming. Take good notes, and lots of them, and they will benefit you in the long run. Your record-keeping here will benefit you as you move forward. Don't be afraid to overdo how much you write instead of underdoing how much you write. Your writing as you move forward in your journey will be of the utmost importance, so do not neglect how your written word may affect the world around you.",
+                    "keywords": "writing, record keeping, memory holding, written word",
+                    "gardiner_unicode": "R20 & U+132C7",
+                    "diety": "This may indicate the presence of Seshat",
+                    "image": ""
+                },
+                {
+                    "name": "The Necklace with Seal",
+                    "description": "While transparency is a good thing, there is such a thing as too much transparency. You need to keep some secrets. Stop being so open with people who do not deserve to know so much about you.",
+                    "keywords": "transparency, sealing, covering up",
+                    "gardiner_unicode": "S20 & U+132E9",
+                    "image": ""
+                },
+                {
+                    "name": "The Bowstring",
+                    "description": "There is a period of difficult growth and learning coming your way. You are more than durable enough to weather what you are dealing with, no matter how hard it may be, and you will come out of it stronger in the end. Do not fear the hard journey ahead and be willing to learn the hard lessons you don't want to.",
+                    "keywords": "hard, durable, strong, rooted, growth",
+                    "gardiner_unicode": "T12 & U+13317",
+                    "image": ""
+                },
+                {
+                    "name": "The Harpoon Head",
+                    "description": "Look back at the past in this moment and make note of what you could have, or should have, done differently. Pay attention to the changes you've made and how you should continue to implement those changes. Your archive of growth will help you moving forward—do not be afraid to reference it.",
+                    "keywords": "memorials, archives, records, memorandums",
+                    "gardiner_unicode": "T19 & U+1331F",
+                    "image": ""
+                },
+                {
+                    "name": "The Fire-Drill",
+                    "description": "You're seeing the trees instead of the whole forest. Take a step back, zoom out, and take a good long look at everything that is happening around you. It is crucial to be able to see the details, yes, but you also have to see the big picture. You have to learn how to switch between the two so that you aren't missing things.",
+                    "keywords": "details, big picture, switching",
+                    "gardiner_unicode": "U28 & U+13351",
+                    "image": ""
+                },
+                {
+                    "name": "The Dual Stroke",
+                    "description": "Be mindful of the people around you and what their thoughts and feelings on certain things are. It's okay—and important—to have your own feelings and perceptions on things, but it is also important to consider that those around you might be correct. Their points may at least have merit worth considering and brushing them off entirely may not be helpful. When you are the only one going against those you trust and believe in, you may need to reconsider your perspective.",
+                    "keywords": "plurality, majority, collective concepts, duality, ignorance of danger",
+                    "gardiner_unicode": "Z4 & U+133ED",
+                    "image": ""
+                }
+            ]
+        }
+    ]
+}

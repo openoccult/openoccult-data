@@ -1,0 +1,134 @@
+[
+    { "list": ["Sol", "Luna", "Vuelo", "Anillos", "Romance", "Mujer", "Hombre", "Cosecha", "Encrucijada", "Estrella", "Olas", "Guadaña", "Ojo"] },
+
+    {
+        "rune_title": "El Sol - Runa de la sanación",
+        "meaning": "El comienzo de algo nuevo. Tomar buenas decisiones. Tener buena salud y vitalidad. Sanación. Buenas noticias. Justicia.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/sun.png?w=300",
+        "keywords": "felicidad, justicia, sanación, vitalidad, protección, fertilidad",
+        "relatedDeities": "Apolo, Helios, Ra – deidades asociadas con el sol, la luz y la sanación.",
+        "element": "Fuego",
+        "astrologicalAssociation": "El Sol, Leo",
+        "phonetic": null
+    },
+    {
+        "rune_title": "La Luna - Runa de la conciencia",
+        "meaning": "Cambios a largo plazo, transición. En lo profundo de la oscuridad hay un resplandor y uno debe navegar con su lado intuitivo para conectarse con las emociones de la vida.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/moon.png?w=310",
+        "keywords": "transiciones, cambios, agendas ocultas, secretos, imaginación",
+        "relatedDeities": "Selene, Artemisa, Hécate – deidades asociadas con la luna y la noche.",
+        "element": "Agua",
+        "astrologicalAssociation": "La Luna, Cáncer",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Vuelo - Runa de la comunicación",
+        "meaning": "Movimiento, comunicaciones e información. Viajes de todo tipo. Redes sociales. Contactos. Noticias. El boca a boca. Así como el ave vuela entre este reino y el otro, lleva consigo un mensaje de transformación urgente. Tan rápido como cambia la dirección del ave, también cambia la noticia que trae.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/birds.png?w=356",
+        "keywords": "comunicación, movimiento, viajes, información, conocimiento superior",
+        "relatedDeities": "Hermes, Mercurio, Odín – deidades asociadas con la comunicación, los viajes y los mensajes.",
+        "element": "Aire",
+        "astrologicalAssociation": "Mercurio, Géminis",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Anillos - Runa del vínculo",
+        "meaning": "Circunstancias que conectan a las personas. Combinar diferentes elementos para crear algo nuevo. Entrar en contacto con personas con las que compartimos intereses. Grupos de interés. Así como el mar, el cielo y la tierra están unidos, lo que te rodea también lo estará. Tus energías están alineadas con las de los demás.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/rings.png?w=768",
+        "keywords": "algo nuevo, asociación, fortalecimiento, contratos, romance, negocios, amistad",
+        "relatedDeities": "Hera, Juno, Afrodita – deidades asociadas con el matrimonio, las asociaciones y las uniones.",
+        "element": "Tierra",
+        "astrologicalAssociation": "Libra, Venus",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Romance - Runa del deseo",
+        "meaning": "Amor y relaciones, conexiones emocionales profundas. Almas gemelas. Armonía en la relación. Estar enamorado de alguien que te ama de vuelta. Cuidado con no quedar hipnotizado por tus propias pasiones, ten paciencia y disfruta los momentos que estás creando.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/flower.png?w=380",
+        "keywords": "atracción, amor, deseo, paciencia, armonía, emocional, fertilidad",
+        "relatedDeities": "Afrodita, Venus, Eros – deidades asociadas con el amor, la belleza y el deseo.",
+        "element": "Agua",
+        "astrologicalAssociation": "Tauro, Escorpio, Venus",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Mujer - Runa de la acción gentil",
+        "meaning": "Habilidades y características tradicionales femeninas. Sanación. Ser sanadora. El hogar. Creatividad. Cuidado. Proteger a alguien. Ser madre. Tómate las cosas con calma y conéctate con la profunda comprensión de la contemplación. La runa aplica a las artes domésticas y de sanación.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/woman.png?w=300",
+        "keywords": "hogar, creatividad, sanadora, cuidado, protección",
+        "relatedDeities": "Deméter, Hestia, Frigg – deidades asociadas con la maternidad, el hogar y la crianza.",
+        "element": "Tierra",
+        "astrologicalAssociation": "Cáncer, Virgo",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Hombre - Runa de la victoria",
+        "meaning": "Características masculinas tradicionales. Acción. Ser un padre. Proteger a los seres queridos. Ser un proveedor. Sentirse empoderado. Tener confianza. Cuando ves esta runa, significa defender tus propios intereses. No hay movimientos lentos, no te sientes a reflexionar en nada. Mantente firme con visión y energía impulsora.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/man.png?w=300",
+        "keywords": "proveedor, protector, fuerza, empoderamiento",
+        "relatedDeities": "Zeus, Odín, Thor – deidades asociadas con la fuerza, la protección y el liderazgo.",
+        "element": "Fuego",
+        "astrologicalAssociation": "Aries, Marte",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Cosecha - Runa del crecimiento",
+        "meaning": "Bendiciones de invertir en ti mismo. Recompensas. Ver los 'frutos de tu trabajo'. Proveerte a ti mismo. Puede significar autoempleo. Educación. Esta runa trae recompensas, pero solo cuando trabajas para tu propio crecimiento. Superar lo que crees que son tus propias limitaciones. La debilidad se convierte en fuerza. Una runa para tu bienestar y felicidad.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/seed.png?w=303",
+        "keywords": "bendiciones, recompensas, prosperidad, abundancia",
+        "relatedDeities": "Deméter, Ceres, Freyr – deidades asociadas con la agricultura, la fertilidad y la cosecha.",
+        "element": "Tierra",
+        "astrologicalAssociation": "Virgo, Tauro",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Encrucijada - Runa de la dirección",
+        "meaning": "Muchas formas de llegar al mismo lugar. Tomar una decisión importante en la vida. No saber qué hacer después. Sentirse estancado. Tener miedo de avanzar. Es hora de un nuevo camino y una nueva forma de ser, y moverse en esa dirección. El cambio siempre está sucediendo.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/directions.png?w=300",
+        "keywords": "decisiones, cambios, miedo de avanzar, estar estancado, lo desconocido.",
+        "relatedDeities": "Hécate, Hermes, Jano – deidades asociadas con las encrucijadas, las transiciones y guiar a los viajeros.",
+        "element": "Aire",
+        "astrologicalAssociation": "Géminis, Mercurio",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Estrella - Runa de afirmación",
+        "meaning": "Una luz verde para ir tras lo que deseas. Tu propósito de vida (observa las runas cercanas a la Estrella para obtener pistas). Ser una inspiración para otros. Ser tú mismo. Ser aceptado por lo que realmente eres. Libertad. Apunta alto a tus sueños y metas. Estás en el camino de verdadera alineación que el cosmos te ha otorgado. Todo está a tu favor.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/star.png?w=300",
+        "keywords": "deseo, propósito de vida, libertad de ser tú mismo, ser aceptado",
+        "relatedDeities": "Apolo, Astarté, Astrea – deidades asociadas con la guía, la esperanza y el destino.",
+        "element": "Aire",
+        "astrologicalAssociation": "Acuario, Venus",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Olas - Runa del movimiento",
+        "meaning": "Ser movido. Una conexión profunda con el mundo espiritual. Sensación de estar fuera de control. Inseguridades. La necesidad de conectarse con tu vida y fluir. Sentirse abrumado. Esta runa puede tener un significado bueno o malo, dependiendo de la situación. Conectada a los grandes misterios de la vida, a veces podemos quedarnos en una quietud, y si no despertamos de esa quietud, las olas del agua nos aprisionarán y nos atraparán en nuestro propio autosabotaje. Pero si permitimos que las olas nos lleven con su corriente, podemos encontrar las respuestas profundas a los misterios que buscamos.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/wave.png?w=308",
+        "keywords": "inseguro, pureza, limpieza, perdón",
+        "relatedDeities": "Poseidón, Yemayá, Tetis – deidades asociadas con el agua, las emociones y los misterios del mar.",
+        "element": "Agua",
+        "astrologicalAssociation": "Piscis, Neptuno",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Guadaña - Runa del fin",
+        "meaning": "Cambios y finales repentinos. Tomar una decisión final. Completar algo. Alejarse de alguien o algo. Peligro. A veces en nuestras vidas cargamos cosas que ya no necesitamos y deben ser cortadas y separadas de nosotros para avanzar. Esta runa trae una transformación forzada, un gran cambio que debemos hacer para avanzar. El fin de algo es solo el comienzo de algo nuevo.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/sickle.png?w=309",
+        "keywords": "finalización, fin, comienzos, renacimiento, separación, avanzar",
+        "relatedDeities": "Hades, Kali, Morrigan – deidades asociadas con los finales, la muerte, la transformación y el renacimiento.",
+        "element": "Tierra",
+        "astrologicalAssociation": "Escorpio, Plutón",
+        "phonetic": null
+    },
+    {
+        "rune_title": "Ojo - Runa de la perspectiva",
+        "meaning": "Levantamiento del \"velo\". Ver lo no visto. Enfocarse en algo (observa las runas cercanas al Ojo para obtener pistas). Habilidades psíquicas. Actividades visuales. Ser testigo. Una gran comprensión está dentro de ti; solo tienes que ver. El enfoque trae una nueva perspectiva que no puedes deshacer. Ves las cosas como son, conectándote por intervención divina. Una repentina realización del destino. Tienes el poder.",
+        "image": "https://thecarnutiannemeton123377341.files.wordpress.com/2021/07/eye.png?w=340",
+        "keywords": "revelación, verdad, protección, habilidades psíquicas, perspectiva, destino",
+        "relatedDeities": "Odín, Horus, Atenea – deidades asociadas con la sabiduría, la percepción y ver la verdad oculta.",
+        "element": "Aire",
+        "astrologicalAssociation": "Sagitario, Júpiter",
+        "phonetic": null
+    }
+]

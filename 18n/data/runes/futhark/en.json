@@ -1,0 +1,128 @@
+{
+    "deck": "Runes",
+    "type": "runes",
+    "itemLabel": "rune",
+    "reversals": "yes",
+    "items": [
+      "Fehu",
+      "Uruz",
+      "Thurisaz",
+      "Ansuz",
+      "Raidho",
+      "Kenaz",
+      "Gebo",
+      "Wunjo",
+      "Hagalaz",
+      "Nauthiz",
+      "Isa",
+      "Jera",
+      "Eihwaz",
+      "Perthro",
+      "Algiz",
+      "Sowilo",
+      "Tiwaz",
+      "Berkano",
+      "Ehwaz",
+      "Mannaz",
+      "Laguz",
+      "Ingwaz",
+      "Dagaz",
+      "Othala"
+    ],
+    "Fehu": {
+      "upright": "Symbolizes wealth, prosperity, and the rewards of hard work. It represents material gain, success, and abundance, bringing happiness through achievements and earned income.",
+      "reversed": "Indicates potential loss or disappointment. It warns of frustrations, financial setbacks, or plans that may not come to fruition."
+    },
+    "Uruz": {
+      "upright": "Represents primal strength, physical health, and vitality. It embodies endurance, courage, and the masculine archetype, signaling powerful changes or new beginnings.",
+      "reversed": "Suggests missed opportunities or a lack of motivation. It highlights weak willpower, diminished energy, or untapped potential."
+    },
+    "Thurisaz": {
+      "upright": "A gateway to new possibilities, offering protection and insight. It encourages careful consideration before action and reflects the balance of luck with one’s actions.",
+      "reversed": "Warns against ignoring advice or being closed-minded. It may indicate a stubborn approach or the refusal to accept reality."
+    },
+    "Ansuz": {
+      "upright": "Represents communication, wisdom, and divine inspiration. It suggests listening to oneself and others, and carefully considering advice before making decisions.",
+      "reversed": "Indicates deception, miscommunication, or a lack of clarity. It may reveal the darker aspects of oneself or confusion in receiving guidance."
+    },
+    "Raidho": {
+      "upright": "Symbolizes a journey, whether physical, spiritual, or emotional. It suggests progress, healing over time, and alignment with life’s path.",
+      "reversed": "Indicates unexpected disruptions or unpleasant journeys. It warns of obstacles in travel or plans being overturned."
+    },
+    "Kenaz": {
+      "upright": "Represents the light of knowledge, creativity, and insight. It is a beacon in the darkness, guiding self-discovery and the realization of potential.",
+      "reversed": "Suggests withdrawal, fear, or loss. It may indicate anxiety, a retreat from challenges, or shutting oneself off from opportunities."
+    },
+    "Gebo": {
+      "upright": "Symbolizes the gift of unity, partnerships, and harmony. It represents balanced exchanges, whether with oneself, others, or higher spiritual forces.",
+      "reversed": "No reversal. The rune maintains its meaning of unity, emphasizing the importance of connection and mutual support."
+    },
+    "Wunjo": {
+      "upright": "Represents joy, happiness, and fulfillment. It signifies peace, pleasure, and the successful completion of goals, bringing a sense of self-worth.",
+      "reversed": "Indicates sorrow, dissatisfaction, or delays. It may suggest external forces causing friction, preventing the attainment of happiness."
+    },
+    "Hagalaz": {
+      "upright": "Represents disruption, chaos, and uncontrollable forces. It signals a time of upheaval where destruction clears the way for new beginnings.",
+      "reversed": "No reversal. This rune consistently symbolizes the chaotic forces that lie beyond personal control."
+    },
+    "Nauthiz": {
+      "upright": "Symbolizes need, constraints, and unfulfilled desires. It indicates a time of hardship where endurance and patience are required.",
+      "reversed": "Reflects similar themes of need and unfulfilled desires, emphasizing the struggle against restrictions or unmet needs."
+    },
+    "Isa": {
+      "upright": "Represents stillness, stasis, and the challenges of ice. It suggests a time of pause, reflection, or frozen progress.",
+      "reversed": "No reversal. The rune consistently represents the concept of stillness and icy conditions that slow or halt progress."
+    },
+    "Jera": {
+      "upright": "Symbolizes the harvest, rewards, and the natural cycle of life. It represents the fruition of efforts and the benefits of hard work over time.",
+      "reversed": "No reversal. This rune continues to symbolize the idea of harvest and the cyclic nature of rewards and growth."
+    },
+    "Eihwaz": {
+      "upright": "Represents strength, resilience, and endurance. It embodies stability and the power to withstand difficulties.",
+      "reversed": "No reversal. This rune consistently emphasizes the themes of strength and stability, regardless of orientation."
+    },
+    "Perthro": {
+      "upright": "Symbolizes mystery, fate, and the unknown. It represents the forces of destiny, hidden knowledge, and the unfolding of secrets.",
+      "reversed": "May suggest confusion, a lack of clarity, or difficulty in uncovering truths. It highlights the uncertainties or challenges in understanding deeper mysteries."
+    },
+    "Algiz": {
+      "upright": "Represents protection, defense, and sanctuary. It is a shield against harm, symbolizing the defense of what one values most.",
+      "reversed": "Indicates vulnerability or a breach in defenses. It may suggest a need for heightened awareness or the risk of danger."
+    },
+    "Sowilo": {
+      "upright": "Symbolizes success, vitality, and the life-giving energy of the sun. It represents health, wholeness, and the triumph of light over darkness.",
+      "reversed": "No reversal. This rune remains a beacon of success and positive energy, regardless of orientation."
+    },
+    "Tiwaz": {
+      "upright": "Represents victory, honor, and justice. It embodies the warrior spirit, the drive for success, and the pursuit of righteous causes.",
+      "reversed": "May indicate a loss of motivation, dishonor, or challenges to one’s integrity. It warns of setbacks in the pursuit of goals."
+    },
+    "Berkano": {
+      "upright": "Symbolizes fertility, growth, and new beginnings. It represents the nurturing aspect of creation, bringing life and sustenance.",
+      "reversed": "May suggest stagnation, infertility, or a delay in growth. It warns of potential challenges in nurturing or creating something new."
+    },
+    "Ehwaz": {
+      "upright": "Represents trust, partnership, and cooperation. It symbolizes the bond between horse and rider, emphasizing teamwork and mutual support.",
+      "reversed": "Indicates disharmony, mistrust, or obstacles in partnerships. It may suggest a breakdown in communication or cooperation."
+    },
+    "Mannaz": {
+      "upright": "Symbolizes humanity, self-awareness, and the support of others. It represents community, collaboration, and the human condition.",
+      "reversed": "May suggest isolation, self-doubt, or a lack of support. It highlights the challenges of disconnecting from oneself or others."
+    },
+    "Laguz": {
+      "upright": "Represents water, intuition, and the flow of life. It symbolizes the deep, subconscious mind, the mysteries of the unknown, and the potential for growth.",
+      "reversed": "May indicate emotional turmoil, stagnation, or being overwhelmed by the unknown. It warns of potential chaos in navigating life’s currents."
+    },
+    "Ingwaz": {
+      "upright": "Symbolizes fertility, potential, and the emergence of new life. It represents the seed of creation and the actualization of latent possibilities.",
+      "reversed": "No reversal. This rune consistently signifies the fertile energy and the beginnings of new cycles, regardless of orientation."
+    },
+    "Dagaz": {
+      "upright": "Represents dawn, breakthrough, and new beginnings. It symbolizes hope, happiness, and the transformative power of daylight.",
+      "reversed": "No reversal. This rune consistently reflects the themes of hope and transformation associated with the dawn."
+    },
+    "Othala": {
+      "upright": "Symbolizes inheritance, tradition, and ancestral wisdom. It represents the values passed down through generations and the wealth of family and heritage.",
+      "reversed": "May indicate conflicts with tradition, a break from heritage, or challenges in accessing ancestral wisdom. It warns of potential disconnection from one’s roots."
+    }
+}

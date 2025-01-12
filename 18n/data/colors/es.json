@@ -1,0 +1,284 @@
+{
+    "colors": [
+        {
+            "name": "rojo",
+            "spectrum": "Reciprocidad",
+            "shades": {
+                "deep": "#6a040f",
+                "dark": "#9d0208",
+                "standard": "#dc2f02",
+                "light": "#e85d04"
+            },
+            "pairMeanings": {
+                "orange": {
+                    "word": "DEVOCIÓN",
+                    "elaboration": "Ahora es el momento de canalizar los caudalosos ríos de tu espíritu hacia el único faro por el que sientes la pasión más brillante."
+                },
+                "yellow": {
+                    "word": "CELO",
+                    "elaboration": "Pisa con cuidado el camino del deseo y sigue tus antojos con moderación mesurada."
+                },
+                "green": {
+                    "word": "TORMENTA",
+                    "elaboration": "Prepárate para las tempestades que acompañan a todos los viajes hacia el amor."
+                },
+                "blue": {
+                    "word": "SANGRE",
+                    "elaboration": "Ahora es el momento de apoyarse en el pilar de sus parientes y ser el pilar si ellos también deben apoyarse."
+                },
+                "indigo": {
+                    "word": "GRACIA",
+                    "elaboration": "Este es un momento para confiar en lo que es precioso en el corazón más que en lo que es correcto en la cabeza."
+                },
+                "violet": {
+                    "word": "EPIFANÍA",
+                    "elaboration": "El suelo justo bajo tus pies esconde una joya de afecto esperando a ser desenterrada."
+                },
+                "white": {
+                    "word": "RESPECTO",
+                    "elaboration": "Este es un momento para recordar que los corazones se ganan con el respeto y se pierden con el desprecio."
+                }
+            }
+        },
+        {
+            "name": "naranja",
+            "spectrum": "Transformación",
+            "shades": {
+                "deep": "#dc2f02",
+                "dark": "#ff5400",
+                "standard": "#ff5400",
+                "light": "#ff9100"
+            },
+            "pairMeanings": {
+                "red": {
+                    "word": "DEVOCIÓN",
+                    "elaboration": "Ahora es el momento de canalizar los caudalosos ríos de tu espíritu hacia el único faro por el que sientes la pasión más brillante."
+                },
+                "yellow": {
+                    "word": "ANOMALÍA",
+                    "elaboration": "Sea el arquitecto de su propio gusto, sordo al ruido de las normas imperantes."
+                },
+                "green": {
+                    "word": "RIESGO",
+                    "elaboration": "Debes plantar ahora una semilla de audacia para que tu esfuerzo florezca."
+                },
+                "blue": {
+                    "word": "UNGÜENTO",
+                    "elaboration": "Es hora de dejar atrás las heridas del pasado y confiar en aquellos a quienes llamarías amigos."
+                },
+                "indigo": {
+                    "word": "REVELACIÓN",
+                    "elaboration": "Ahora es el momento de dar un paso hacia la oscuridad para encontrar un tesoro que ha languidecido en las sombras."
+                },
+                "violet": {
+                    "word": "AUGURIO",
+                    "elaboration": "Se necesita un despertar espiritual para encontrar un camino no transitado que conduzca a grandes recompensas."
+                },
+                "white": {
+                    "word": "PRÁCTICA",
+                    "elaboration": "Recuerde que la mayor sabiduría proviene de la experiencia vivida, no del conocimiento teórico."
+                }
+            }
+        },
+        {
+            "name": "amarillo",
+            "spectrum": "Ritmo",
+            "shades": {
+                "deep": "#ffbf00",
+                "dark": "#d4d700",
+                "standard": "#ffe600",
+                "light": "#ccff33"
+            },
+            "pairMeanings": {
+                "red": {
+                    "word": "CELO",
+                    "elaboration": "Pisa con cuidado el camino del deseo y sigue tus antojos con moderación mesurada."
+                },
+                "orange": {
+                    "word": "ANOMALÍA",
+                    "elaboration": "Sea el arquitecto de su propio gusto, sordo al ruido de las normas imperantes."
+                },
+                "green": {
+                    "word": "APUNTAR",
+                    "elaboration": "Ahora se requiere un enfoque más preciso para dar forma a la arcilla de la transformación."
+                },
+                "blue": {
+                    "word": "ATENCIÓN",
+                    "elaboration": "Escuche atentamente, las palabras de cierto amigo contendrán una guía que sería prudente seguir."
+                },
+                "indigo": {
+                    "word": "VISIÓN",
+                    "elaboration": "Presta atención a tus sueños y encontrarás la clave de un acertijo con el que estás luchando."
+                },
+                "violet": {
+                    "word": "CHISPA",
+                    "elaboration": "No dejes que tu momento de repentina comprensión se pierda en la niebla del tedio diario."
+                },
+                "white": {
+                    "word": "LOCURA",
+                    "elaboration": "Date un capricho momentáneamente, porque una pizca de exceso a menudo conlleva una pizca de sabiduría."
+                }
+            }
+        },
+        {
+            "name": "verde",
+            "spectrum": "Intercambio",
+            "shades": {
+                "deep": "#582f0e",
+                "dark": "#155d27",
+                "standard": "#208b3a",
+                "light": "#25a244"
+            },
+            "pairMeanings": {
+                "red": {
+                    "word": "TORMENTA",
+                    "elaboration": "Prepárate para las tempestades que acompañan a todos los viajes hacia el amor."
+                },
+                "orange": {
+                    "word": "RIESGO",
+                    "elaboration": "Debes plantar ahora una semilla de audacia para que tu esfuerzo florezca."
+                },
+                "yellow": {
+                    "word": "APUNTAR",
+                    "elaboration": "Ahora se requiere un enfoque más preciso para dar forma a la arcilla de la transformación."
+                },
+                "blue": {
+                    "word": "AMISTAD",
+                    "elaboration": "Es hora de fomentar un conocido para que pueda convertirse en una amistad."
+                },
+                "indigo": {
+                    "word": "MUSA",
+                    "elaboration": "Las condiciones de tu cosmos interior están maduras para una supernova de imaginación."
+                },
+                "violet": {
+                    "word": "FLORACIÓN",
+                    "elaboration": "Estás a punto de revelar una verdad profunda; "
+                },
+                "white": {
+                    "word": "PUREZA",
+                    "elaboration": "Es necesario volver a un estado de inocencia infantil para disipar la niebla de tu mente."
+                }
+            }
+        },
+        {
+            "name": "azul",
+            "spectrum": "Oscilación ",
+            "shades": {
+                "deep": "#03045e",
+                "dark": "#023e8a",
+                "standard": "#0077b6",
+                "light": "#0096c7"
+            },
+            "pairMeanings": {
+                "red": {
+                    "word": "SANGRE",
+                    "elaboration": "Ahora es el momento de apoyarse en el pilar de sus parientes y ser el pilar si ellos también deben apoyarse."
+                },
+                "orange": {
+                    "word": "UNGÜENTO",
+                    "elaboration": "Es hora de dejar atrás las heridas del pasado y confiar en aquellos a quienes llamarías amigos."
+                },
+                "yellow": {
+                    "word": "ATENCIÓN",
+                    "elaboration": "Escuche atentamente, las palabras de cierto amigo contendrán una guía que sería prudente seguir."
+                },
+                "green": {
+                    "word": "AMISTAD",
+                    "elaboration": "Es hora de fomentar un conocido para que pueda convertirse en una amistad."
+                },
+                "indigo": {
+                    "word": "MAGNETISMO",
+                    "elaboration": "Debes rodearte de seres de alto calibre espiritual para poder atraer la profundidad y repeler la mundanidad."
+                },
+                "violet": {
+                    "word": "KISMET",
+                    "elaboration": "Entablar un diálogo aumentará significativamente la probabilidad de descubrir por casualidad una visión profunda."
+                },
+                "white": {
+                    "word": "CANDOR",
+                    "elaboration": "Este es un momento para revelar tu verdadero yo a aquellos en tu esfera, ya que una fachada fortificada obstruye el camino hacia la unidad genuina."
+                }
+            }
+        },
+        {
+            "name": "índigo",
+            "spectrum": "Enigma",
+            "shades": {
+                "deep": "#10002b",
+                "dark": "#240046",
+                "standard": "#3c096c",
+                "light": "#5a189a"
+            },
+            "pairMeanings": {
+                "red": {
+                    "word": "GRACIA",
+                    "elaboration": "Este es un momento para confiar en lo que es precioso en el corazón más que en lo que es correcto en la cabeza."
+                },
+                "orange": {
+                    "word": "REVELACIÓN",
+                    "elaboration": "Ahora es el momento de dar un paso hacia la oscuridad para encontrar un tesoro que ha languidecido en las sombras."
+                },
+                "yellow": {
+                    "word": "VISIÓN",
+                    "elaboration": "Presta atención a tus sueños y encontrarás la clave de un acertijo con el que estás luchando."
+                },
+                "green": {
+                    "word": "MUSA",
+                    "elaboration": "Las condiciones de tu cosmos interior están maduras para una supernova de imaginación."
+                },
+                "blue": {
+                    "word": "MAGNETISMO",
+                    "elaboration": "Debes rodearte de seres de alto calibre espiritual para poder atraer la profundidad y repeler la mundanidad."
+                },
+                "violet": {
+                    "word": "PROFUNDIDAD",
+                    "elaboration": "Despierta a la noción de que más allá del velo del pensamiento racional es donde facetas invisibles de la situación aún esperan tu descubrimiento."
+                },
+                "white": {
+                    "word": "TEMOR",
+                    "elaboration": "Abrace la inocencia del asombro infantil, porque es a través de una lente inmaculada que la sabiduría secreta se puede ver con mayor claridad."
+                }
+            }
+        },
+        {
+            "name": "violeta",
+            "spectrum": "Magnetismo",
+            "shades": {
+                "deep": "#8b2fc9",
+                "dark": "#a14edd",
+                "standard": "#bd68ee",
+                "light": "#d18dfc"
+            },
+            "pairMeanings": {
+                "red": {
+                    "word": "EPIFANÍA",
+                    "elaboration": "El suelo justo bajo tus pies esconde una joya de afecto esperando a ser desenterrada."
+                },
+                "orange": {
+                    "word": "AUGURIO",
+                    "elaboration": "Se necesita un despertar espiritual para encontrar un camino no transitado que conduzca a grandes recompensas."
+                },
+                "yellow": {
+                    "word": "CHISPA",
+                    "elaboration": "No dejes que tu momento de repentina comprensión se pierda en la niebla del tedio diario."
+                },
+                "green": {
+                    "word": "FLORACIÓN",
+                    "elaboration": "Estás a punto de revelar una verdad profunda; "
+                },
+                "blue": {
+                    "word": "KISMET",
+                    "elaboration": "Entablar un diálogo aumentará significativamente la probabilidad de descubrir por casualidad una visión profunda."
+                },
+                "indigo": {
+                    "word": "PROFUNDIDAD",
+                    "elaboration": "Despierta a la noción de que más allá del velo del pensamiento racional es donde facetas invisibles de la situación aún esperan tu descubrimiento."
+                },
+                "white": {
+                    "word": "CAMBIO",
+                    "elaboration": "El camino que estáis recorriendo actualmente exige una reevaluación importante."
+                }
+            }
+        }
+    ]
+}
