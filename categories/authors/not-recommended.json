@@ -1,0 +1,545 @@
+{
+    "not_recommended_authors": [
+      {
+        "name": "Silver Ravenwolf",
+        "status": "❌ Avoid",
+        "reasons": [
+          "Anti-religious bias (bashes Christianity and other religions while promoting Wicca as superior)",
+          "Misinformation about Wicca and witchcraft (claims Wicca is the only valid path to witchcraft)",
+          "Cultural appropriation (misrepresents closed practices, uses racial slurs)",
+          "Historical inaccuracies (exaggerates Burning Times statistics, promotes debunked theories)",
+          "Cult-like rhetoric (discourages sharing beliefs with family/friends)",
+          "Contradictory claims (asserts Protestant folk magic lineage while rejecting Christian witches)"
+        ],
+        "notable_issues": {
+          "historical_accuracy": "Claims 9 million Burning Times deaths (actual estimate: 40,000-100,000)",
+          "theological_errors": "Promotes disproven Murrayism theory about pagan deities",
+          "cultural_appropriation": "Romanticizes Romani culture while ignoring the offensive nature of 'g*psy' term"
+        }
+      },
+      {
+        "name": "Aleister Crowley",
+        "status": "❌ Avoid",
+        "reasons": [
+          "Radical and dangerous ideologies",
+          "Documented racism and misogyny",
+          "Cultural appropriation",
+          "Unethical cult leadership practices",
+          "Extreme practices (including coprophagia for 'enlightenment')"
+        ]
+      },
+      {
+        "name": "Scott Cunningham",
+        "status": "⚠️ Use with caution",
+        "reasons": [
+          "Outdated Wiccan-centric information",
+          "Some valuable resources (e.g., Encyclopedia of Magical Herbs)",
+          "Requires critical evaluation of material"
+        ],
+        "recommendation": "Take with grain of salt; verify information with modern sources"
+      },
+      {
+        "name": "Skye Alexander",
+        "status": "❌ Avoid",
+        "notable_works": ["The Modern Guide to Witchcraft"],
+        "reasons": [
+          "Cultural fetishization",
+          "Perpetuates Burning Times myth",
+          "Promotes harmful stereotypes",
+          "Problematic deity approach ('collector' mentality)",
+          "Minimizes systemic racism"
+        ]
+      },
+      {
+        "name": "Gabriela Herstik",
+        "status": "❌ Avoid",
+        "reasons": [
+          "Cultural appropriation",
+          "Unverified personal gnosis presented as fact",
+          "Gender bias",
+          "Historical inaccuracies"
+        ]
+      },
+      {
+        "name": "Austin Osman Spare",
+        "status": "⚠️ Use with caution",
+        "reasons": [
+          "Dense, inaccessible writing style",
+          "Assumes advanced prior knowledge",
+          "Specialized terminology without explanation"
+        ]
+      },
+      {
+        "name": "Fiona Horne",
+        "status": "❌ Avoid",
+        "reasons": [
+          "Admitted lack of passion/authenticity in writing",
+          "Targets teenage audiences with misinformation",
+          "Islamic cultural appropriation",
+          "Identifies as atheist while claiming Wiccan affiliation"
+        ]
+      },
+      {
+        "name": "D.J. Conway",
+        "status": "❌ Avoid",
+        "notable_works": ["Norse Magic", "Celtic Magic", "Mystical Dragon"],
+        "reasons": [
+          "Repetitive, recycled content across books",
+          "Historical and cultural inaccuracies",
+          "Superficial treatment of diverse traditions"
+        ]
+      },
+      {
+        "name": "Gerald Gardner",
+        "status": "❌ Avoid",
+        "notable_works": ["Witchcraft Today", "The Meaning of Witchcraft"],
+        "reasons": [
+          "Founder of Gardnerian Wicca with problematic legacy",
+          "Documented racism",
+          "Fabricated academic credentials",
+          "Cultural appropriation"
+        ]
+      },
+      {
+        "name": "Gerina Dunwich",
+        "status": "❌ Avoid",
+        "notable_works": ["Wicca A to Z", "The Wicca Spellbook"],
+        "reasons": [
+          "Cultural appropriation (misuse of chakras, smudging, Voodoo terminology)",
+          "Gatekeeping witchcraft behind Wiccan framework",
+          "Historical inaccuracies",
+          "Problematic deity approach"
+        ],
+        "specific_issues": {
+          "appropriation": [
+            "Encourages use of closed practice elements",
+            "Uses 'Voodoo doll' instead of 'poppet'",
+            "Misrepresents sacred herbs from other religions"
+          ],
+          "misinformation": [
+            "False claims about Wicca's antiquity",
+            "Imposes Wiccan Rede on non-Wiccan practices",
+            "Incorrectly defines Wicca as exclusively Goddess-centric"
+          ]
+        }
+      },
+      {
+        "name": "Galina Krasskova",
+        "status": "❌ Avoid",
+        "notable_works": [
+          "On Divination",
+          "Ancestors and Hero Cultus",
+          "Honoring the Ancestors: A Basic Guide",
+          "Honoring the Mothers: Novenas to the Mothers of Our Gods and Heroes"
+        ],
+        "reasons": [
+          "Neo-Nazi affiliations",
+          "Antisemitism",
+          "Racism",
+          "Religious intolerance",
+          "Misinformation"
+        ]
+      },
+      {
+        "name": "Anastasia Greywolf",
+        "status": "❌ Avoid",
+        "notable_works": ["Witchcraft: A Handbook of Magic, Spells, and Potions"],
+        "reasons": [
+          "Cultural appropriation",
+          "Misinformation",
+          "Inconsistent religious syncretism (mixes Christian elements with Wicca)",
+          "Racism"
+        ]
+      },
+      {
+        "name": "Ernst Tristan",
+        "status": "❌ Avoid",
+        "reasons": [
+          "Nazi associations",
+          "Antisemitism",
+          "Cultural appropriation",
+          "Misinformation"
+        ]
+      },
+      {
+        "name": "Yvonne & Gavin Frost",
+        "status": "❌ Extreme Avoidance",
+        "reasons": [
+          "Documented advocacy of abusive practices involving minors",
+          "Severe ethical violations in ritual content",
+          "Widespread condemnation by pagan communities",
+          "Persistent influence despite known dangers"
+        ],
+        "specific_issues": {
+          "ethical_violations": [
+            "Authored rituals requiring minor participation in sexual contexts",
+            "Promoted abusive practices under guise of spiritual tradition",
+            "Refused to recant problematic material despite public outcry"
+          ],
+          "community_response": [
+            "Universally condemned by major Wiccan organizations",
+            "Subject of multiple formal denouncements",
+            "Removed from recommended reading lists community-wide"
+          ],
+          "ongoing_concerns": [
+            "Works still circulate in some beginner collections",
+            "Historical influence complicates complete eradication",
+            "Requires active warning due to potential harm"
+          ]
+        },
+        "content_warnings": [
+          "Graphic descriptions of abuse",
+          "Child endangerment content",
+          "Trauma triggers for survivors"
+        ],
+        "recommendation": "Complete avoidance; warn others about their materials; report any encounters with their works in educational settings"
+      },
+      {
+        "name": "Judika Illes",
+        "status": "❌ Avoid",
+        "notable_works": ["The Element Encyclopedia of Witchcraft"],
+        "reasons": [
+          "Cultural appropriation (misrepresents shamanism, Hoodoo, and Native traditions)",
+          "Anti-religious bias (particularly anti-Christian)",
+          "Misinformation (incorrect definitions, oversimplification of spiritual concepts)",
+          "LGBTQ+ exclusionary (enforces binary gender roles)",
+          "Inappropriate focus on sexuality in a non-inclusive way",
+          "Promotes unsafe practices (e.g., passing out in crossroads for shapeshifting)"
+        ],
+        "content_warnings": [
+          "Misrepresentation of closed practices",
+          "Problematic gender essentialism",
+          "Overemphasis on persecution narratives"
+        ]
+      },
+      {
+        "name": "Judy Hall",
+        "status": "⚠️ Use with caution",
+        "notable_works": ["The Crystal Bible", "The Astrology Bible"],
+        "reasons": [
+          "Cultural appropriation (misuse of chakras, 'smudging' terminology)",
+          "Requires mental correction of terminology for ethical use"
+        ],
+        "recommendation": "Can be used as a reference if appropriative terms are critically assessed."
+      },
+      {
+        "name": "Leanna Greenaway",
+        "status": "⚠️ Use with caution",
+        "notable_works": ["Wiccapedia"],
+        "reasons": [
+          "Anti-modern medicine stance",
+          "Misinformation (especially about witch hunts)",
+          "Conflates Wicca with witchcraft"
+        ]
+      },
+      {
+        "name": "Lisa Lester (Lister)",
+        "status": "❌ Avoid",
+        "notable_works": ["Witch"],
+        "reasons": [
+          "Misandry (promotes hatred of men)",
+          "Trans-exclusionary radical feminism (TERF ideology)",
+          "Gender essentialism (reduces magic to biological sex)",
+          "Transphobic content"
+        ],
+        "content_warnings": [
+          "Harmful gender binary enforcement",
+          "Exclusionary rhetoric"
+        ]
+      },
+      {
+        "name": "Arin Murphy-Hiscock",
+        "status": "❌ Avoid",
+        "notable_works": ["The Green Witch"],
+        "reasons": [
+          "Misinformation about historical folk practices",
+          "Conflation of Wicca with witchcraft",
+          "Romanticized pseudoscience (human energy affecting nature)",
+          "Misrepresentation of cunning folk as 'feared outcasts' (contrary to historical evidence)",
+          "Overgeneralization of folk traditions as 'witchcraft'"
+        ],
+        "source": {
+          "review": "Goodreads review detailing historical inaccuracies",
+          "url": "https://www.goodreads.com/review/show/3945321936"
+        }
+      },
+      {
+        "name": "David Thompson",
+        "status": "❌ Avoid",
+        "notable_works": [
+          "The Magick of Apollo",
+          "The Magick of Aphrodite",
+          "The Magick of Hermes"
+        ],
+        "reasons": [
+          "Historical misinformation (e.g., Lemuria myth)",
+          "Misrepresentation of ancient practices"
+        ]
+      },
+      {
+        "name": "Robert Simmons",
+        "status": "❌ Avoid",
+        "reasons": [
+          "Unethical mineral trade practices",
+          "Exploitation of small-scale miners",
+          "Trademark abuse of indigenous stone names (e.g., New Zealand Greenstone)",
+          "Price gouging (e.g., $2500 for common jasper specimens)",
+          "Market manipulation through false labeling (e.g., 'Azeztulite' scam)",
+          "Legal threats against critics",
+          "Environmental damage from restricted access policies"
+        ],
+        "impact": {
+          "regions_affected": [
+            "New Zealand (Aotearoa)",
+            "South America",
+            "US rockhounding communities"
+          ],
+          "regulatory_changes": "Implemented collection limits in NZ due to scarcity"
+        },
+        "sources": [
+          "https://crystal-information.com/the-trademarking-of-crystals/",
+          "https://heavenandearthjewelry.com/Stones-of-the-New-Consciousness.aspx"
+        ]
+      },
+      {
+        "name": "E.A. Koetting (Matthew Joseph Lawrence)",
+        "status": "❌ Extreme Caution",
+        "reasons": [
+          "Promotion of violent extremism (alleged ties to Temple ov Blood)",
+          "Inspiration for real-world violence (Danyal Hussein case)",
+          "Cultural appropriation (Voodoo, Hoodoo, African traditions)",
+          "Fraudulent occult merchandise",
+          "Dangerous rituals (alleged human sacrifice ideology)",
+          "Criminal history (drug and weapons charges)",
+          "Narcissistic messianism (self-deification claims)"
+        ],
+        "controversies": [
+          {
+            "event": "2014 drug arrest",
+            "details": "Possession of cocaine, methamphetamine, firearms"
+          },
+          {
+            "event": "Danyal Hussein murders",
+            "details": "Inspired by Koetting's 'Lucifuge Rofocale' ritual"
+          }
+        ],
+        "sources": [
+          "https://www.thespectrum.com/story/news/local/2014/11/18/task-force-arrests-roommates-drug-charges/19248063/",
+          "https://www.bbc.com/news/uk-59103568",
+          "https://www.the-sun.com/news/3950940/danyal-hussein-youtube-satanist-ea-koetting/"
+        ],
+        "warning": "Associated with extremist ideologies and real-world violence"
+      },
+      {
+        "name": "Michael Ford",
+        "status": "❌ Avoid",
+        "reasons": [
+          "Cultural appropriation",
+          "Misinformation (misrepresents Luciferianism as Satanism)",
+          "Ties to O9A (a documented Nazi-aligned organization)",
+          "Perceived arrogance in writing style"
+        ],
+        "ideological_warnings": [
+          "Promotes extremist-linked ideologies",
+          "Distorts esoteric traditions"
+        ]
+      },
+      {
+        "name": "Tamsin Chamberlin",
+        "status": "❌ Avoid",
+        "notable_works": ["Witchcraft: A Book of Magickal Practices and Spells"],
+        "reasons": [
+          "Misogyny (promotes coercive marriage spells)",
+          "Cultural appropriation (misuses Native practices, Hoodoo, Kabbalah)",
+          "Uses racial slurs (e.g., 'G*psy')",
+          "Misinformation (unrealistic spells like immortality)",
+          "Harmful gender dynamics ('make a woman accept marriage' spells)"
+        ],
+        "content_warnings": [
+          "Exploitative depictions of Romani culture",
+          "Unethical love magic",
+          "Pseudohistory"
+        ]
+      },
+      {
+        "name": "Raymond Buckland",
+        "status": "❌ Avoid",
+        "notable_works": ["Complete Book of Witchcraft"],
+        "reasons": [
+          "Misogyny & sexism (objectifies women in rituals)",
+          "Outdated patriarchal Gardnerian derivatives",
+          "Elitism (dismisses solitary practitioners)",
+          "Graphic, unnecessary sexual content",
+          "Exclusionary coven-centric ideology"
+        ],
+        "explicit_content": {
+          "nudity": "Frequent depictions of restrained/blindfolded women",
+          "sex_magic": {
+            "description": "Explicitly details group sex acts with male-focused dynamics",
+            "issues": [
+              "No mention of safe sex (condoms/etc.)",
+              "Reduces female participants to facilitators of male pleasure"
+            ]
+          }
+        },
+        "audience_warnings": [
+          "Not minor-friendly",
+          "Traumatizing for survivors of sexual violence"
+        ]
+      },
+      {
+        "name": "Helena Blavatsky",
+        "status": "❌ Extreme Avoidance",
+        "reasons": [
+          "Documented racism and antisemitism",
+          "Cultural appropriation of Kabbalah",
+          "Academic fraud regarding claimed esoteric knowledge",
+          "Foundational influence on problematic modern traditions"
+        ],
+        "specific_issues": {
+          "racism": [
+            "Claimed African, Aboriginal Australian, and South Sea Islander peoples were biologically and spiritually inferior",
+            "Referred to Indigenous Australians as 'half-animal' in published works",
+            "Promoted hierarchical racial theories under guise of spiritual evolution"
+          ],
+          "antisemitism": [
+            "Characterized Judaism as 'a religion of hate and malice'",
+            "Misrepresented Jewish mysticism while denigrating its origins",
+            "Blamed Jewish traditions for perceived flaws in Christianity"
+          ],
+          "academic_criticism": [
+            "René Guénon demonstrated her works were compiled from existing texts, not supernatural sources (historical)",
+            "Professor Agehananda Bharati dismissed her work as 'horrendous hogwash' (anthropological)",
+            "Mircea Eliade proved her theories contradict authentic Eastern spiritual traditions (theological)"
+          ],
+          "influence": "Direct inspiration for Gerald Gardner's problematic Wiccan foundations"
+        },
+        "sources": [
+          "Hammer, O. (2003). Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age",
+          "Blavatsky, H.P. (1888). The Secret Doctrine (original problematic texts)",
+          "Guénon, R. (1921). Theosophy: History of a Pseudo-Religion"
+        ]
+      },
+      {
+        "name": "Damon Brand",
+        "status": "❌ Avoid",
+        "notable_works": [
+          "Magickal Protection - Defend Against Curses, Gossip, Bullies, Thieves, Demonic Forces, Violence, Threats and Psychic Attack"
+        ],
+        "reasons": [
+          "Cultural appropriation of Jewish angelology",
+          "Commercial exploitation of spiritual practices",
+          "Unverified metaphysical claims",
+          "Problematic anti-piracy rhetoric"
+        ],
+        "specific_issues": {
+          "appropriation": [
+            "Instructs non-Jewish practitioners to invoke Hebrew-named angels without cultural context",
+            "Fails to provide accurate translations or traditional usage guidelines",
+            "Commercializes sacred terminology"
+          ],
+          "ethical_concerns": [
+            "Claims book purchase constitutes magical 'pact' for efficacy",
+            "Threatens supernatural retaliation against copyright infringers",
+            "Positioned as paywall to spiritual access"
+          ],
+          "methodological_issues": [
+            "Oversimplifies complex angelic traditions",
+            "Lacks scholarly or traditional citations",
+            "Promotes instant-results mentality in spiritual practice"
+          ]
+        },
+        "content_warnings": [
+          "Potential financial exploitation",
+          "Misrepresentation of closed practices",
+          "Fear-based marketing tactics"
+        ]
+      },
+      {
+        "name": "Sarah Young",
+        "status": "⚠️ Caution",
+        "notable_works": ["Jesus Calling - Enjoying Peace in His Presence"],
+        "reasons": [
+          "Theological inconsistencies",
+          "Commercialization of spiritual experience",
+          "Problematic claims of divine authority",
+          "Contradictory creation process"
+        ],
+        "specific_issues": {
+          "theological_concerns": [
+            "Purports to speak directly for the Christian deity",
+            "Underwent multiple revisions despite claims of divine inspiration",
+            "Promotes spiritual bypassing of complex issues"
+          ],
+          "methodological_issues": [
+            "Used automatic writing while claiming Christian orthodoxy",
+            "Commercial motives apparent in publishing approach",
+            "Comparable to Doreen Virtue's problematic works"
+          ],
+          "community_notes": [
+            "Potential use: Some Christian witches report value in bibliomancy applications",
+            "Controversy: Widely criticized in theological circles for presumptive authorship"
+          ]
+        },
+        "content_warnings": [
+          "May trigger those sensitive to religious authority issues",
+          "Questionable claims of divine mandate"
+        ]
+      },
+      {
+        "name": "Susun Weed",
+        "status": "❌ Extreme Avoidance",
+        "reasons": [
+          "Documented abuse allegations",
+          "Violent behavior and threats",
+          "Systemic transphobia and sexism",
+          "Cultural appropriation",
+          "Legal violations"
+        ],
+        "specific_issues": {
+          "abuse_allegations": [
+            "Multiple reports of verbal and physical assault",
+            "Threats against apprentices documented in police records",
+            "Pattern of coercive control in teaching environments"
+          ],
+          "discrimination": [
+            "Trans-exclusionary rhetoric and policies",
+            "Gender essentialism in herbalism teachings",
+            "Hostility toward LGBTQ+ practitioners"
+          ],
+          "legal_issues": [
+            "Arrest for threatening behavior (Ulster County, NY)",
+            "Multiple restraining orders filed by former students"
+          ]
+        },
+        "sources": [
+          {
+            "title": "VICE Investigation: Herbalism Community Abuse Allegations",
+            "url": "https://www.vice.com/en/article/m7vnxv/the-herbalism-community-is-at-war-with-itself-over-abuse-allegations",
+            "type": "journalistic"
+          },
+          {
+            "title": "Uncanceled: Surviving Susun Weed Podcast",
+            "url": "https://podcasts.apple.com/us/podcast/uncanceled-surviving-susun-weed/id1515454301?i=1000549730591",
+            "type": "first-hand account"
+          },
+          {
+            "title": "Ulster County Arrest Records",
+            "url": "https://dailyvoice.com/new-york/ulster-sullivan/news/ulster-county-herbalist-arrested-for-threatening-her-apprentice-police-say/795605/",
+            "type": "legal documentation"
+          }
+        ],
+        "content_warnings": [
+          "Graphic descriptions of abuse",
+          "Violent threats",
+          "Systemic discrimination",
+          "Trauma triggers"
+        ]
+      }
+    ],
+    "disclaimer": "These evaluations reflect common criticisms from pagan/witchcraft communities. Readers should conduct their own research and form independent judgments.",
+    "rating_system": {
+      "❌ Avoid": "Significant ethical concerns or misinformation",
+      "⚠️ Use with caution": "Some valuable content but requires critical evaluation"
+    }
+}

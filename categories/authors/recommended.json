@@ -1,0 +1,449 @@
+{
+    "recommended_books": [
+      {
+        "title": "Witchcraft and Magic in the Nordic Middle Ages",
+        "author": "Stephen A. Mitchell",
+        "year": 2011,
+        "publisher": "University of Pennsylvania Press",
+        "categories": ["Norse", "History", "Medieval Studies"],
+        "summary": "A comprehensive academic examination of magical practices in medieval Scandinavia, drawing from historical records, legal texts, and folklore. Mitchell analyzes the complex relationship between pagan traditions and Christian influences during this transitional period, offering valuable insights into seiðr, galdr, and other Nordic magical practices.",
+        "format": "Academic",
+        "link": {
+          "free_epub": "https://annas-archive.org/md5/1a6667322ea1b5a61130d5d32df2bd08",
+          "purchase": null
+        }
+      },
+      {
+        "title": "Cauldron of the Gods: A Manual of Celtic Magick",
+        "author": "Jan Fries",
+        "year": 2003,
+        "publisher": "Mandrake of Oxford",
+        "categories": ["Celtic", "Practical Magic", "Deity Work"],
+        "summary": "An experiential guide to Celtic spiritual practices that emphasizes direct engagement with deities, spirits, and natural forces. Fries combines historical research with practical techniques, including trance work, sigil magic, and folk traditions. The book stands out for its avoidance of Wiccan influences, focusing instead on reconstructed Celtic approaches.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Cauldron-Gods-manual-Celtic-magick/dp/186992861X"
+        }
+      },
+      {
+        "title": "Wild Magic: Celtic Folk Traditions for the Solitary Practitioner",
+        "author": "Danu Forest",
+        "year": 2020,
+        "publisher": "Llewellyn Publications",
+        "categories": ["Celtic", "Druidry", "Folklore"],
+        "summary": "A practical manual for incorporating authentic Celtic folk magic into contemporary practice. Forest draws from Welsh, Irish, and Scottish traditions, offering guidance on working with plant spirits, ancestral connections, and seasonal cycles. The book provides a valuable bridge between academic Celtic studies and hands-on spiritual work.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Wild-Magic-Traditions-Solitary-Practitioner/dp/0738762679"
+        }
+      },
+      {
+        "title": "The Druidry Handbook: Spiritual Practice Rooted in the Living Earth",
+        "author": "John Michael Greer",
+        "year": 2006,
+        "publisher": "Weiser Books",
+        "categories": ["Druidry", "Nature Spirituality", "Paganism"],
+        "summary": "A foundational text for modern Druid practice that emphasizes ecological awareness and personal transformation. Greer presents a year-long curriculum covering meditation, ritual design, and the symbolic language of trees and animals. The book is particularly valuable for its structured approach to developing a daily spiritual practice.",
+        "format": "Instructional",
+        "link": {
+          "free_epub": "https://libgen.li/ads.php?md5=9579caf2e54c9c8a334f3956f1029c0a",
+          "purchase": null
+        }
+      },
+      {
+        "title": "The Book of Hedge Druidry: A Complete Guide for the Solitary Seeker",
+        "author": "Joanna van der Hoeven",
+        "year": 2019,
+        "publisher": "Llewellyn Publications",
+        "categories": ["Hedge Witchery", "Druidry", "Celtic"],
+        "summary": "A comprehensive guide to blending Druidic spirituality with hedge witchcraft traditions. Van der Hoeven offers practical techniques for boundary work, herbal magic, and journeying between worlds, with particular emphasis on developing relationships with local landscapes and spirits. The book excels in making ancient traditions accessible to modern practitioners.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": "https://annas-archive.org/md5/9e4b18ec44f2a72bbc158cdc897be47a",
+          "purchase": null
+        }
+      },
+      {
+        "title": "Norse Magical and Herbal Healing",
+        "author": "Ben Waggoner",
+        "year": 2009,
+        "publisher": "Runestone Press",
+        "categories": ["Norse", "Herbalism", "Healing"],
+        "summary": "A scholarly yet practical examination of healing traditions from medieval Scandinavia. Waggoner translates and analyzes key texts containing spells, runic charms, and herbal remedies, providing historical context alongside modern applications. The book is particularly valuable for its careful distinction between historical practices and modern reconstructions.",
+        "format": "Academic/Practical",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Norse-Magical-Herbal-Healing-Waggoner/dp/0578092700"
+        }
+      },
+      {
+        "title": "The Galdrabók: An Icelandic Grimoire",
+        "author": "Stephen E. Flowers",
+        "year": 1989,
+        "publisher": "Weiser Books",
+        "categories": ["Norse", "Grimoire", "Historical Magic"],
+        "summary": "A critical edition of the most important surviving Icelandic magical manuscript, with extensive commentary. Flowers provides both the original text and analysis of its runic spells, sigils, and invocations. While academic in approach, the book offers valuable insights for practitioners interested in authentic Norse magical traditions.",
+        "format": "Academic",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Galdrabók-Stephen-Flowers/dp/1885972431"
+        }
+      },
+      {
+        "title": "Condensed Chaos: An Introduction to Chaos Magic",
+        "author": "Phil Hine",
+        "year": 1995,
+        "publisher": "New Falcon Publications",
+        "categories": ["Chaos Magic", "Experimental", "Modern Magic"],
+        "summary": "A highly accessible introduction to chaos magic principles and techniques. Hine demystifies core concepts like sigilization, paradigm shifting, and servitor creation while maintaining philosophical depth. The book is particularly recommended for its pragmatic approach and emphasis on personal experimentation over dogmatic systems.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": "https://annas-archive.org/md5/9535c622ca4178fcff5f3887d0f1fa96",
+          "purchase": null
+        }
+      },
+      {
+        "title": "Liber Null & Psychonaut: An Introduction to Chaos Magic",
+        "author": "Peter J. Carroll",
+        "year": 1987,
+        "publisher": "Weiser Books",
+        "categories": ["Chaos Magic", "Theoretical", "Advanced Magic"],
+        "summary": "A foundational text of modern chaos magic that combines esoteric philosophy with practical techniques. Carroll presents a complete magical system including new approaches to ritual, meditation, and magical theory. While more challenging than introductory texts, it remains essential reading for serious students of experimental magic.",
+        "format": "Theoretical/Practical",
+        "link": {
+          "free_epub": "https://annas-archive.org/md5/e4efecda5a59b31963e20fab021b1e62",
+          "purchase": null
+        }
+      },
+      {
+        "title": "Backwoods Witchcraft: Conjure Folk Magic from Appalachia",
+        "author": "Jake Richards",
+        "year": 2019,
+        "publisher": "Weiser Books",
+        "categories": ["Appalachian", "Folk Magic", "Cultural Studies"],
+        "summary": "An authentic exploration of Appalachian folk magic traditions passed down through generations. Richards documents regional practices, beliefs, and oral histories without presenting a prescriptive magical system. The book serves as an important cultural record of this open practice, focusing on the people and their relationship with the land rather than spellwork.",
+        "format": "Cultural Study",
+        "link": {
+          "free_epub": "https://annas-archive.org/md5/a3a60250878a487dab9c51c4e85eec63",
+          "purchase": null
+        }
+      },
+      {
+        "title": "How to Read Tarot: A Practical Guide",
+        "author": "Jessica Wiggan",
+        "year": 2018,
+        "publisher": "Adams Media",
+        "categories": ["Tarot", "Divination", "Beginner"],
+        "summary": "A comprehensive beginner's guide to tarot that balances traditional interpretations with intuitive development. The book covers card meanings, spreads, and interpretation techniques while encouraging personal connection with the deck. Its structured approach makes it particularly valuable for those new to cartomancy.",
+        "format": "Instructional",
+        "link": {
+          "free_epub": "https://annas-archive.org/md5/c09637d9e1085745d0228408f111c94c",
+          "purchase": "https://www.amazon.com/How-Read-Tarot-Practical-Guide/dp/1507201877"
+        }
+      },
+      {
+        "title": "Sexual Practices of the Druids: A Handbook of Ritual Sex Magic",
+        "author": "Jon G. Hughes",
+        "year": 2015,
+        "publisher": "Destiny Books",
+        "categories": ["Druidry", "Sex Magic", "Historical"],
+        "summary": "A scholarly examination of sacred sexuality in Celtic traditions, drawn from Welsh manuscript sources. Hughes presents reconstructed rituals with historical context, distinguishing between documented practices and modern interpretations. The book approaches its subject with academic rigor while remaining accessible to practitioners.",
+        "format": "Academic/Practical",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Sexual-Practices-Druids-Handbook-Ritual/dp/1620552027"
+        }
+      },
+      {
+        "title": "Psychic Witch: A Metaphysical Guide to Meditation, Magick, and Manifestation",
+        "author": "Mat Auryn",
+        "year": 2020,
+        "publisher": "Llewellyn Publications",
+        "categories": ["Witchcraft", "Energy Work", "Psychic Development"],
+        "summary": "A modern approach to developing psychic abilities within a witchcraft framework. Auryn synthesizes traditional techniques with contemporary practices, offering exercises in astral travel, chakra work, and energy manipulation. The book stands out for its systematic training program and emphasis on measurable results.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": "https://annas-archive.org/md5/1aef3c5c074ca63536a3365242f547b5",
+          "purchase": null
+        }
+      },
+      {
+        "title": "Earth Medicine: Revealing the Teachings of Native American Shamanism",
+        "author": "Kenneth Meadows",
+        "year": 2005,
+        "publisher": "Element Books",
+        "categories": ["Herbalism", "Shamanism", "Healing"],
+        "summary": "An exploration of earth-based healing practices that acknowledges the importance of cultural context. While drawing from Native American traditions, Meadows emphasizes universal principles of plant medicine and spiritual healing. Readers should approach certain sections with cultural sensitivity, though the work provides valuable insights into animist perspectives.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Earth-Medicine-Revealing-Teachings-American/dp/1852306688"
+        }
+      },
+      {
+        "title": "Earth Power: Techniques of Natural Magic",
+        "author": "Scott Cunningham",
+        "year": 1983,
+        "publisher": "Llewellyn Publications",
+        "categories": ["Elemental Magic", "Nature Spirituality", "Beginner"],
+        "summary": "A foundational text on working with earth energies and natural forces. Cunningham presents accessible techniques for aligning with elemental powers, creating sacred spaces, and conducting outdoor rituals. The book remains popular for its practical, non-dogmatic approach to earth-centered practice.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Earth-Power-Techniques-Llewellyns-Practical/dp/0875421210"
+        }
+      },
+      {
+        "title": "Cunningham's Encyclopedia of Magical Herbs",
+        "author": "Scott Cunningham",
+        "year": 1985,
+        "publisher": "Llewellyn Publications",
+        "categories": ["Herbalism", "Reference", "Witchcraft"],
+        "summary": "The definitive reference for magical herbalism, featuring over 400 entries on plants and their occult properties. Each entry includes botanical information, magical associations, and folkloric uses. While somewhat dated in its taxonomy, the encyclopedia remains invaluable for its comprehensive coverage and practical organization.",
+        "format": "Reference",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Cunninghams-Encyclopedia-Magical-Llewellyns-Sourcebook/dp/0875421229"
+        }
+      },
+      {
+        "title": "A Century of Spells",
+        "author": "Draja Mickaharic",
+        "year": 1988,
+        "publisher": "Weiser Books",
+        "categories": ["Folk Magic", "Spells", "Practical"],
+        "summary": "A collection of 100 practical spells drawn from various folk traditions. Mickaharic presents straightforward rituals for protection, healing, and daily needs without elaborate ceremonial requirements. The book's value lies in its no-nonsense approach and emphasis on accessible magical practice.",
+        "format": "Practical Guide",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Century-Spells-Draja-Mickaharic/dp/0877286477"
+        }
+      },
+      {
+        "title": "The Complete Book of Magic and Witchcraft",
+        "author": "Kathryn Paulsen",
+        "year": 1970,
+        "publisher": "Signet",
+        "categories": ["Historical", "Occult", "Reference"],
+        "summary": "A vintage compendium of Western occult practices that serves as both historical record and practical manual. Paulsen covers ceremonial magic, folk witchcraft, and divination methods with equal attention. While some material reflects its era, the book offers valuable perspective on 20th century occult revivalism.",
+        "format": "Historical Reference",
+        "link": {
+          "free_epub": null,
+          "purchase": "https://www.amazon.com/Complete-Book-Black-Magic-Witchcraft/dp/B08CM69346"
+        }
+      },
+      {
+        "title": "Hellenismos: Practicing Greek Polytheism Today",
+        "author": "Tony Mierzwicki",
+        "year": 2018,
+        "publisher": "Llewellyn Publications",
+        "categories": [
+          "Hellenic Polytheism",
+          "Reconstructionism",
+          "Ancient Religions"
+        ],
+        "summary": "A comprehensive guide to reconstructing ancient Greek religious practices in a modern context. Mierzwicki provides historically-grounded rituals, festival calendars, and deity worship techniques while addressing contemporary adaptation challenges. The book stands out for its balanced approach between academic rigor and practical spirituality.",
+        "format": "Practical Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Hellenismos-Practicing-Greek-Polytheism-Today/dp/0738725935"
+        }
+      },
+      {
+        "title": "Black Magic for Dark Times: Spells of Revenge and Protection",
+        "author": "Angela Kaelin",
+        "year": 2014,
+        "publisher": "Createspace",
+        "categories": ["Baneful Magic", "Defensive Magic", "Practical"],
+        "summary": "An unapologetic examination of defensive and retaliatory magic for extreme circumstances. Kaelin presents ethically-framed workings for protection, justice, and boundary-setting, emphasizing personal responsibility. The book fills an important niche in magical literature by addressing taboo subjects with practical cautionary guidance.",
+        "format": "Practical Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Black-Magic-Dark-Times-Protection/dp/061588346X"
+        }
+      },
+      {
+        "title": "The Book of Black Magic and Pacts",
+        "author": "Arthur Edward Waite",
+        "year": 2011,
+        "publisher": "Forgotten Books",
+        "categories": ["Grimoire", "Historical Magic", "Goetia"],
+        "summary": "A scholarly compilation of medieval and Renaissance ceremonial magic texts. Waite analyzes grimoire traditions including necromantic procedures, pacts, and theurgical operations with critical commentary. While dated in some perspectives, this remains an essential primary source for studying Western esoteric traditions.",
+        "format": "Academic Reference",
+        "link": {
+          "purchase": "https://www.amazon.com/Book-Black-Magic-Pacts-Illustrations/dp/1528709802"
+        }
+      },
+      {
+        "title": "Skin Spirits: The Spiritual and Magical Use of Animal Parts",
+        "author": "Lupa",
+        "year": 2008,
+        "publisher": "Megalithica Books",
+        "categories": ["Animism", "Bone Work", "Ethical Harvesting"],
+        "summary": "A groundbreaking ethical guide to working with animal remains in spiritual practice. Lupa addresses responsible sourcing, spirit communication, and ritual use of bones/fur/feathers with ecological sensitivity. The book is particularly valuable for its emphasis on reciprocal relationships with animal spirits.",
+        "format": "Practical Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Skin-Spirits-Lupa/dp/1905713347"
+        }
+      },
+      {
+        "title": "The Animal Communicator's Guide Through Life, Loss and Love",
+        "author": "Pea Horsley",
+        "year": 2012,
+        "publisher": "Hay House UK",
+        "categories": [
+          "Animal Communication",
+          "Interspecies Relationships",
+          "Telepathy"
+        ],
+        "summary": "A professional animal communicator's manual for developing intuitive connections with non-human beings. Horsley presents structured exercises, case studies, and ethical guidelines for interspecies dialogue. The book excels in its balanced approach between mystical experience and practical application.",
+        "format": "Instructional",
+        "link": {
+          "purchase": "https://www.amazon.com/Animal-Communicators-Guide-Through-Life-ebook/dp/B00I9AMXR6"
+        }
+      },
+      {
+        "title": "Tarot: A Handbook for the Journeyman",
+        "author": "Eileen Connolly",
+        "year": 1989,
+        "publisher": "Connolly Tarot",
+        "categories": ["Tarot", "Divination", "Intermediate"],
+        "summary": "An intermediate-level tarot manual that bridges basic interpretation with esoteric symbolism. Connolly's distinctive approach integrates psychological insight with traditional correspondences, particularly valuable for developing intuitive reading skills. The book remains influential despite its age due to its systematic methodology.",
+        "format": "Practical Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Tarot-Handbook-Journeyman-Connolly-Part/dp/0878771247"
+        }
+      },
+      {
+        "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+        "author": "Robin Wall Kimmerer",
+        "year": 2013,
+        "publisher": "Milkweed Editions",
+        "categories": ["Indigenous Wisdom", "Ecospirituality", "Botany"],
+        "summary": "A Potawatomi botanist's poetic synthesis of traditional ecological knowledge and Western science. Kimmerer presents a compelling vision of reciprocal relationship with the natural world through essays on plant intelligence, animism, and sustainable living. The work has become seminal in contemporary earth spirituality movements.",
+        "format": "Ecological Philosophy",
+        "link": {
+          "purchase": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge-ebook/dp/B00D0V44LC"
+        }
+      },
+      {
+        "title": "Pharmako Trilogy: Plant Powers, Poisons, and Herbcraft",
+        "author": "Dale Pendell",
+        "year": 1995,
+        "publisher": "North Atlantic Books",
+        "categories": ["Entheogens", "Herbalism", "Poison Path"],
+        "summary": "A monumental three-volume study of psychoactive plants combining scientific data, historical lore, and poetic reflection. Each volume (Poeia, Dynamis, Gnosis) examines plant consciousness through multidisciplinary lenses including chemistry, mythology, and firsthand experience. The work sets the gold standard for responsible psychedelic literature.",
+        "format": "Reference",
+        "link": {
+          "purchase": "https://www.amazon.com/Pharmako-Poeia-Revised-Updated-Herbcraft/dp/1556438052"
+        }
+      },
+      {
+        "title": "Green Witchcraft: A Practical Guide to Discovering the Magic of Plants, Herbs, Crystals, and Beyond",
+        "author": "Paige Vanderbeck",
+        "year": 2020,
+        "publisher": "Rockridge Press",
+        "categories": ["Green Witchcraft", "Herbal Magic", "Beginner"],
+        "summary": "An accessible introduction to earth-centered magical practice emphasizing sustainability and folk traditions. Vanderbeck covers plant magic, crystal work, and seasonal rituals with particular attention to urban applications. The book's strength lies in its adaptable, non-dogmatic approach to nature spirituality.",
+        "format": "Practical Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Green-Witchcraft-Practical-Discovering-Crystals/dp/1646115643"
+        }
+      },
+      {
+        "title": "Mystical Stitches: Embroidery for Personal Empowerment and Magical Embellishment",
+        "author": "Christi Johnson",
+        "year": 2021,
+        "publisher": "Storey Publishing",
+        "categories": ["Fiber Arts", "Sigil Magic", "Color Symbolism"],
+        "summary": "A revolutionary fusion of needlecraft and intentional magic that transforms embroidery into a meditative practice. Johnson provides both technical instruction and esoteric frameworks for creating talismanic textiles. The book is notable for its inclusive approach and innovative magical applications of traditional techniques.",
+        "format": "Craft Manual",
+        "alternative_sources": [
+          "Publisher's website",
+          "Local bookstores",
+          "Independent craft retailers"
+        ],
+        "link": {
+          "purchase": "https://www.amazon.com/Mystical-Stitches-Embroidery-Empowerment-Embellishment/dp/1635863341"
+        }
+      },
+      {
+        "title": "The Tarot Companion: A Portable Guide to Reading the Cards for Yourself and Others",
+        "author": "Liz Dean",
+        "year": 2018,
+        "publisher": "Fair Winds Press",
+        "categories": ["Tarot", "Divination", "Reference"],
+        "summary": "A concise yet comprehensive guide to tarot interpretation from bestselling author Liz Dean. This portable reference covers card meanings across both Major and Minor Arcana, with practical advice on deck care, reading techniques, and intuitive development. Particularly valuable for its clear organization and accessible interpretations suitable for both beginners and experienced readers.",
+        "format": "Reference Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Tarot-Companion-Portable-Reading-Yourself/dp/1592338216",
+          "free_epub": null
+        },
+        "special_features": [
+          "Quick-reference card meanings",
+          "Deck cleansing and shuffling techniques",
+          "Portable format for easy consultation"
+        ]
+      },
+      {
+        "title": "Stalking the Healthful Herbs",
+        "author": "Euell Gibbons",
+        "year": 1966,
+        "publisher": "David McKay Company",
+        "categories": ["Herbalism", "Foraging", "Wildcrafting"],
+        "summary": "A classic guide to North American wild plants and their practical uses. Gibbons combines detailed botanical information with folk wisdom, offering identification tips and preparation methods for both medicinal and culinary applications. While some information reflects its publication era, the book remains a foundational text for ethical wildcrafting and plant knowledge.",
+        "format": "Field Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Stalking-Healthful-Herbs-19660101-Gibbons/dp/0911469060",
+          "free_epub": null
+        },
+        "content_note": "Contains some outdated terminology; valuable when read with contemporary ecological awareness"
+      },
+      {
+        "title": "Pacific Northwest Medicinal Plants: Identify, Harvest, and Use 120 Wild Herbs for Health and Wellness",
+        "author": "Scott Kloos",
+        "year": 2017,
+        "publisher": "Timber Press",
+        "categories": ["Herbalism", "Regional Guide", "Ethical Foraging"],
+        "summary": "A meticulously researched regional guide to medicinal plants of the Pacific Northwest. Kloos provides detailed profiles of 120 species including identification photographs, harvesting guidelines, and preparation methods for teas, tinctures, and salves. The book excels in its seasonal organization and emphasis on sustainable, respectful harvesting practices.",
+        "format": "Regional Field Guide",
+        "link": {
+          "purchase": "https://www.amazon.com/Pacific-Northwest-Medicinal-Plants-Identify/dp/1604696575",
+          "free_epub": null
+        },
+        "special_features": [
+          "Seasonal foraging charts",
+          "Color identification photos",
+          "Ethical harvesting guidelines"
+        ]
+      },
+      {
+        "title": "Demons of Magick: Three Practical Rituals for Working with The 72 Demons",
+        "author": "Gordon Winterfield",
+        "year": 2017,
+        "publisher": "Independently published",
+        "categories": ["Goetic Magic", "Ceremonial Magic", "Advanced Practice"],
+        "summary": "A modern approach to working with the 72 demons of the Ars Goetia, presenting three distinct ritual methods ranging from beginner-friendly to advanced ceremonial techniques. Winterfield emphasizes safety protocols and clear hierarchies in spirit work, offering structured processes for those pursuing this specialized magical path.",
+        "format": "Practical Grimoire",
+        "link": {
+          "purchase": "https://www.amazon.com/Demons-Magick-Practical-Rituals-Working/dp/1521372403",
+          "free_epub": "https://annas-archive.org/md5/8c8c1583037c9fbc7d0615a3506f9d09",
+          "alternative_free": "https://1lib.sk/book/3520239/1e09ed"
+        },
+        "content_warning": "Advanced magical practice requiring proper preparation and safeguards"
+      }
+    ],
+    "metadata": {
+      "last_updated": "2025-04-02",
+      "selection_criteria": {
+        "practical_utility": "Emphasized books with immediately applicable knowledge",
+        "regional_specificity": "Included specialized regional guides where available",
+        "pedagogical_value": "Prioritized works with clear instructional methodology",
+        "safety_considerations": "Noted content warnings for advanced practices"
+      },
+      "content_notes": [
+        "Some older works may contain outdated terminology or classifications",
+        "Spirit work traditions require proper cultural context and precautions"
+      ]
+    }
+}
