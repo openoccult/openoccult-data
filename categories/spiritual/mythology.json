@@ -853,6 +853,76 @@
         "Festivals": [ "Hekate’s Deipnon", "The Day of Hekate" ],
         "Offerings": [ "Keys", "Torches", "Food offerings at crossroads" ]
       }
+    },
+    "Persephone": {
+      "name": "Persephone",
+      "pantheon": "Greek",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/AMI_-_Isis-Persephone.jpg/220px-AMI_-_Isis-Persephone.jpg",
+        "alt": "Statue of syncretic Persephone-Isis with a sistrum. Heraklion Archaeological Museum, Crete"
+      },
+      "description": "Persephone is the Queen of the Underworld and goddess of spring growth, vegetation, and the cycle of life and death. She embodies duality—both maiden of renewal and sovereign of the dead.",
+      "history": "Originally Kore (the Maiden), Persephone was abducted by Hades, becoming his queen after eating pomegranate seeds. Her annual return to the surface marks spring, while her descent brings winter. She bridges the realms of life and death.",
+      "titles": [ "Queen of the Underworld", "Bringer of Spring", "Dread Persephone", "Mistress of the Dead" ],
+      "domains": [ "Spring", "Underworld", "Rebirth", "Harvest", "Souls of the Dead" ],
+      "symbols": [ "Pomegranate", "Torch", "Sheaf of Wheat", "Flowers (narcissus, crocus)" ],
+      "animals": [ "Bats", "Deer", "Bees", "Black Rams" ],
+      "correspondences": {
+        "Colors": [ "Green", "Purple", "Black", "White" ],
+        "Gemstones": [ "Garnet", "Amethyst", "Black Onyx", "Peridot" ],
+        "Plants": [ "Pomegranate", "Willow", "Mint", "Narcissus", "Wheat" ],
+        "Planet": [ "Moon", "Pluto" ],
+        "Element": [ "Earth", "Spirit" ],
+        "Metal": [ "Iron", "Silver" ]
+      },
+      "relations": {
+        "parents": [ "Zeus", "Demeter" ],
+        "siblings": [ "Dionysus", "Ares", "Athena" ],
+        "consort": [ "Hades" ],
+        "children": [ "Melinoe", "Zagreus" ],
+        "myth_events": [ "Abduction by Hades", "Eleusinian Mysteries", "Pomegranate Pact" ]
+      },
+      "attributes": [ "Duality (Life/Death)", "Resilience", "Transformation", "Compassion for the Dead" ],
+      "myth_stories": [
+        {
+          "title": "The Abduction of Persephone",
+          "summary": "Hades seized Persephone while she gathered flowers, dragging her to the underworld. Her mother Demeter’s grief caused famine until Zeus intervened, allowing Persephone to return—but only for part of the year, due to her consumption of pomegranate seeds."
+        },
+        {
+          "title": "Persephone as Underworld Judge",
+          "summary": "In Orphic traditions, Persephone judged souls alongside Hades, offering mercy or punishment. She was also worshipped in the secretive Eleusinian Mysteries as a guide to the afterlife."
+        }
+      ],
+      "modern_references": [
+        "Symbol of trauma recovery and resilience",
+        "Inspiration for feminist reinterpretations of mythology",
+        "Neopagan deity of seasonal cycles"
+      ],
+      "sacred_numbers": [ 4, 6 ],
+      "ritual_practices": [
+        {
+          "name": "Persephone’s Descent Meditation",
+          "instructions": "During autumn/winter, meditate on shadow work or grief, lighting a black candle. In spring, plant seeds or flowers in her honor, celebrating renewal."
+        },
+        {
+          "name": "Pomegranate Offering",
+          "instructions": "Leave pomegranate seeds or wine at a crossroads or altar to honor Persephone’s underworld aspect."
+        }
+      ],
+      "sacred_locations": [
+        "Eleusis (site of the Eleusinian Mysteries)",
+        "Underworld (symbolic caves or groves)"
+      ],
+      "worship": {
+        "Temples": [
+          "Sanctuary of Demeter and Persephone at Eleusis"
+        ],
+        "Festivals": [
+          "Thesmophoria (women’s fertility rites)",
+          "Proerosia (pre-plowing festival)"
+        ],
+        "Offerings": [ "Flowers", "Pomegranates", "Honey",  "Grain" ]
+      }
     }
   },
 
