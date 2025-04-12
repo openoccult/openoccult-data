@@ -805,6 +805,69 @@
         "Offerings": [ "Coins", "Milk", "Honey" ]
       }
     },
+    "Hestia": {
+      "name": "Hestia",
+      "pantheon": "Greek",
+      "image": { 
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hestia_Giustiniani.jpg/250px-Hestia_Giustiniani.jpg", 
+        "alt": "The Giustiniani Hestia" 
+      },
+      "description": "Hestia is the virgin goddess of the hearth, home, and sacred fire. She embodies stability, hospitality, and the quiet power of ritual. The first-born Olympian, she voluntarily surrendered her throne to Dionysus to prevent conflict, symbolizing selflessness and peace.",
+      "history": "Daughter of Cronus and Rhea, Hestia was swallowed at birth but later freed by Zeus. Though rarely appearing in myths, her eternal flame in every Greek city-state was central to civic identity. She rejected marriage proposals from Poseidon and Apollo, pledging eternal virginity to Zeus.",
+      "titles": [ "Keeper of the Hearth", "First and Last Olympian", "Goddess of the Sacred Flame" ],
+      "domains": [ "Hearth", "Home", "Family", "Community", "Sacrificial Fire" ],
+      "symbols": [ "Hearth Flame", "Kettle", "Donkey", "Veil" ],
+      "animals": [ "Donkey", "Pig" ],
+      "correspondences": {
+        "Colors": [ "Red", "White", "Gold" ],
+        "Gemstones": [ "Garnet", "Citrine", "Charoite" ],
+        "Plants": [ "Chamomile", "Elder", "Bay Laurel" ],
+        "Planet": [ "Sun" ],
+        "Element": [ "Fire" ],
+        "Metal": [ "Gold" ]
+      },
+      "relations": {
+        "parents": [ "Cronus", "Rhea" ],
+        "siblings": [ "Zeus", "Hera", "Poseidon", "Demeter", "Hades" ],
+        "children": [ ],
+        "myth_events": [ "Relinquishing her Olympian throne", "Receiving first offerings in all rituals" ]
+      },
+      "attributes": [ "Gentleness", "Selflessness", "Stability", "Hospitality" ],
+      "myth_stories": [
+        { 
+          "title": "The Gift of the Hearth", 
+          "summary": "Hestia was granted the privilege of receiving the first portion of every sacrifice to the gods, cementing her role as the spiritual center of Greek domestic and civic life." 
+        },
+        {
+          "title": "Rejection of Marriage",
+          "summary": "When Poseidon and Apollo vied for her hand, Hestia placed her hand on Zeus' head and swore an oath of perpetual virginity, avoiding divine conflict."
+        }
+      ],
+      "modern_references": [ "Patron of homemakers and minimalist living", "Symbol of communal harmony", "Inspiration for hearth witchcraft traditions" ],
+      "sacred_numbers": [ 1, 6 ],
+      "ritual_practices": [
+        { 
+          "name": "Hestia's Flame Keeping", 
+          "instructions": "Light a white or red candle daily while speaking gratitude for home/shelter. Offer olive oil, salt, or the first bite of meals." 
+        },
+        {
+          "name": "New Home Blessing",
+          "instructions": "Carry a lit candle clockwise through each room, invoking Hestia's protection and warmth."
+        }
+      ],
+      "sacred_locations": [ 
+        "The Prytaneion (central hearth of Greek city-states)", 
+        "Domestic hearths" 
+      ],
+      "worship": {
+        "Temples": [ 
+          "Few standalone temples (worshipped primarily at home hearths)", 
+          "The Prytaneion in Athens" 
+        ],
+        "Festivals": [ "Hestia's Feast Day (June 10th)", "Beginning/end of harvest seasons" ],
+        "Offerings": [ "First fruits of meals", "Olive oil", "Salt", "Scented woods (cedar, oak)" ]
+      }
+    },
     "Hekate": {
       "name": "Hekate",
       "pantheon": "Greek",

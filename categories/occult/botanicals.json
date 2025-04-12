@@ -681,6 +681,23 @@
     },
 
     {
+    "HerbName": "Elder",
+    "Description": "Elder is a sacred tree of protection, healing, and faery magic. Its flowers and berries are used in spells for blessings, while the wood is tied to the Crone aspect of the Triple Goddess. Traditionally planted near homes to ward off evil spirits.",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sambucus_nigra_RF.jpg/1280px-Sambucus_nigra_RF.jpg",
+    "AlsoCalled": "Elderberry, Lady Elder, Sambucus",
+    "Gender": "Feminine",
+    "Planet": "Venus",
+    "Sign": "Taurus",
+    "Deities": "Brigid, The Morrigan, Holda",
+    "Element": "Water",
+    "NativeTo": "Europe, North Africa, Western Asia",
+    "Family": "Adoxaceae",
+    "Genus": "Sambucus",
+    "Species": "Sambucus nigra",
+    "Warning": "Raw berries/leaves are toxic."
+    },
+
+    {
     "HerbName": "Fennel",
     "Description": "Fennel is associated with protection, communication, and overcoming addictions. It is used in rituals to ward off negative energies and evil spirits, often by hanging fennel in windows or doorways. Its Air element links it to clarity, memory, and eloquence, aiding in confident communication and focus during divination or public speaking. Fennel is also used in spells to combat cravings and bad habits.",
     "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Foeniculum_July_2011-1a.jpg/220px-Foeniculum_July_2011-1a.jpg",
