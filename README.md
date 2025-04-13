@@ -8,7 +8,8 @@ Welcome to the **OpenOccult Data** repository! This open-source project houses s
 ```
 openoccult-data/ 
 ├── categories/ # Main data categorized by type 
-│ ├── divination/ # Divination-specific data (e.g., runes, hieroglyphs) 
+| ├── authors/ # Spiritual authors database
+│ └── divination/ # Divination-specific data (e.g., runes, hieroglyphs) 
 │ └── occult/ # Occult-specific data (e.g., botanicals, cystals, horoscope) 
 │ └── spiritual/ # Spiritual-specific data (e.g., mythology) 
 ├── i18n/ # Internationalization files for global use 
