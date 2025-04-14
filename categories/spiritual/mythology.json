@@ -1,4 +1,94 @@
 {
+  "Aztec": {
+    "Chalchiuhtlicue": {
+      "name": "Chalchiuhtlicue",
+      "pantheon": "Aztec",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chalchiuhtlicue_from_Codex_Borbonicus.jpg/250px-Chalchiuhtlicue_from_Codex_Borbonicus.jpg",
+        "alt": "Chalchiutlicue in the Codex Borbonicus (page 5)"
+      },
+      "description": "Chalchiuhtlicue is the Aztec goddess of flowing waters, rivers, and fertility. Known as 'She of the Jade Skirt,' she presides over baptismal rituals and protects women and children. Though nurturing, she unleashed the flood that destroyed the Fourth World.",
+      "history": "As sister-wife of Tlaloc, she was worshipped at mountain shrines and springs. She governed the 13-day ritual period '1 Reed' in the Aztec calendar and was particularly revered by midwives and fishermen.",
+      "titles": [ 
+        "She of the Jade Skirt", 
+        "Lady of the Sacred Waters",
+        "Destroyer of the Fourth Sun"
+      ],
+      "domains": [ 
+        "Freshwater", 
+        "Fertility", 
+        "Baptism", 
+        "Floods" 
+      ],
+      "symbols": [ 
+        "Jade skirt", 
+        "Water lily", 
+        "Wave motifs" 
+      ],
+      "animals": [ 
+        "Frogs", 
+        "Serpents", 
+        "Water birds" 
+      ],
+      "correspondences": {
+        "Colors": [ "Turquoise", "Jade-green", "White" ],
+        "Gemstones": [ "Jade", "Larimar", "Aquamarine" ],
+        "Plants": [ "Water lilies", "Reeds", "Maize" ],
+        "Planet": [ "Moon" ],
+        "Element": [ "Water" ],
+        "Metal": [ "Copper" ]
+      },
+      "relations": {
+        "consort": [ "Tlaloc" ],
+        "siblings": [],
+        "children": [],
+        "myth_events": [ 
+          "Great Flood of the Fourth World",
+          "Baptism of newborns" 
+        ]
+      },
+      "attributes": [ 
+        "Nurturing", 
+        "Destructive", 
+        "Cleansing" 
+      ],
+      "myth_stories": [
+        {
+          "title": "The Flood of the Fourth Sun",
+          "summary": "Chalchiuhtlicue flooded the world for 52 years, drowning humanity and transforming survivors into fish. This ended the Fourth World, making way for the current Fifth World."
+        },
+        {
+          "title": "Baptism of Infants",
+          "summary": "Midwives would immerse newborns in water while invoking Chalchiuhtlicue, praying: 'Enter this pure water where our mother Chalchiuhtlicue keeps you.'"
+        }
+      ],
+      "modern_references": [ 
+        "Water conservation rituals", 
+        "Feminist symbol in Latinx spirituality" 
+      ],
+      "sacred_numbers": [ 13, 52 ],
+      "ritual_practices": [
+        {
+          "name": "Water Offering Ritual",
+          "instructions": "Float jade chips or maize flowers on a river at dawn while whispering prayers for fertility or protection."
+        }
+      ],
+      "sacred_locations": [ 
+        "Mount Tlaloc", 
+        "Springs", 
+        "Lake Texcoco" 
+      ],
+      "worship": {
+        "Temples": [ "Shrines at mountain springs" ],
+        "Festivals": [ "Atlcahualo (February rain festival)" ],
+        "Offerings": [ 
+          "Jade beads", 
+          "Blue-green pottery", 
+          "Maize dough figures" 
+        ]
+      }
+    }
+  },
   "Celtic": {
     "Aengus": {
       "name": "Aengus",
