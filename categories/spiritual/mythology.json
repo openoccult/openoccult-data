@@ -87,6 +87,48 @@
           "Maize dough figures" 
         ]
       }
+    },
+    "Coatlicue": {
+      "name": "Coatlicue",
+      "pantheon": "Aztec",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Coatlicue.png/250px-Coatlicue.png",
+        "alt": "Statue of Coatlicue displayed in the National Museum of Anthropology in Mexico City"
+      },
+      "description": "Coatlicue is the Aztec earth mother goddess who birthed the moon, stars, and Huitzilopochtli (sun god). Her name means 'Serpent Skirt' - she embodies both creation and destruction, feeding on corpses to sustain life.",
+      "history": "Worshipped as the devouring earth, she conceived Huitzilopochtli when a ball of feathers touched her. Her daughter Coyolxauhqui led 400 star-gods to kill her for this shame, but Huitzilopochtli sprang forth fully armed to defend her.",
+      "titles": [ "Mother of Gods", "She of the Serpent Skirt", "Devourer of the Dead" ],
+      "domains": [ "Earth", "Death", "Rebirth", "Fertility" ],
+      "symbols": [ "Serpent skirt", "Severed hands necklace", "Clawed feet"],
+      "animals": [ "Rattlesnake", "Scorpion", "Spider" ],
+      "correspondences": {
+        "Colors": ["Red", "Black", "Brown"],
+        "Gemstones": ["Moldavite (cosmic creation)", "Bloodstone", "Obsidian"],
+        "Plants": ["Blue Lotus (rebirth)", "Maguey", "Corn"],
+        "Planet": ["Earth"],
+        "Element": ["Earth", "Fire"],
+        "Metal": ["Volcanic glass"]
+      },
+      "relations": {
+        "children": ["Huitzilopochtli", "Coyolxauhqui", "Centzon Huitznahua"],
+        "myth_events": [ "The birth of Huitzilopochtli", "Battle with Coyolxauhqui"]
+      },
+      "attributes": [  ],
+      "myth_stories": [ ],
+      "modern_references": [ "Chicana feminist icon", "Symbol of life-death-life cycle" ],
+      "sacred_numbers": [ ],
+      "ritual_practices": [
+        {
+          "name": "Earth Offering Ritual",
+          "instructions": "Bury cornmeal and red flowers at a crossroads at midnight, asking Coatlicue to transform what no longer serves you."
+        }
+      ],
+      "sacred_locations": [  ],
+      "worship": {
+        "Temples": [  ],
+        "Festivals": [  ],
+        "Offerings": [  ]
+      }
     }
   },
   "Celtic": {

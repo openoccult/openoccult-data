@@ -375,6 +375,21 @@
     },
 
     {
+        "HerbName": "Blue Lotus",
+        "Description": "The sacred Blue Lotus was revered by ancient Egyptians for its psychoactive properties and connection to the sun god Ra. Used in dream magic, aphrodisiac brews, and meditation to induce mild euphoria and vivid visions.",
+        "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nymphaea_caerulea_Flower.JPG/250px-Nymphaea_caerulea_Flower.JPG",
+        "AlsoCalled": ["Sacred Blue Lily", "Nymphaea caerulea"],
+        "Gender": "Feminine",
+        "Planet": "Sun",
+        "Sign": "Leo",
+        "Deities": ["Hathor", "Ra", "Nefertem"],
+        "Element": "Water",
+        "NativeTo": "Nile River, East Africa",
+        "Family": "Nymphaeaceae",
+        "Warning": "Legal in most countries but avoid combining with alcohol. Not for pregnant/nursing individuals."
+    },
+
+    {
     "HerbName": "Borage",
     "Description": "Borage is sometimes associated with courage and bravery, and its use in herbalism has been linked to supporting the adrenal glands, which are associated with the body's stress response. he bright blue flowers of borage may be seen as symbols of joy and happiness. Some people connect the uplifting color and appearance of the plant to positive emotions.",
     "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Borage_starflower_Rohtopurasruoho_01.jpg/220px-Borage_starflower_Rohtopurasruoho_01.jpg",
