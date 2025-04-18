@@ -1,0 +1,37 @@
+name: Discord Repository Updates
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord Notification
+        uses: sarisia/actions-status-discord@v1
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          title: "📢 New Repository Update"
+          description: |
+            **Repository:** ${{ github.repository }}
+            **Branch:** ${{ github.ref_name }}
+            **Event:** ${{ github.event_name }}
+          color: "0x5865F2"
+          fields: |
+            [
+              {
+                "name": "Commit Message",
+                "value": "${{ github.event.commits[0].message || 'N/A' }}"
+              },
+              {
+                "name": "Triggered By",
+                "value": "${{ github.actor }}"
+              },
+              {
+                "name": "View Changes",
+                "value": "[Click Here](${{ github.event.compare }})"
+              }
+            ]
