@@ -129,6 +129,63 @@
         "Festivals": [  ],
         "Offerings": [  ]
       }
+    },
+    "Huitzilopochtli": {
+      "name": "Huitzilopochtli",
+      "pantheon": "Aztec",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Huitzilopochtli_V.png/250px-Huitzilopochtli_V.png",
+        "alt": "Huitzilopochtli as depicted in the Codex Borbonicus"
+      },
+      "description": "Huitzilopochtli is the Aztec god of sun, war, and human sacrifice. As the patron deity of Tenochtitlan, he led the Mexica people to their promised land. Born fully armed from Coatlicue, he represents the victorious sun battling darkness.",
+      "history": "Originally a tribal god of the Mexica, he rose to prominence during the Aztec empire. His name means 'Hummingbird of the South' or 'Left-handed Hummingbird'. The Templo Mayor was dedicated to him and Tlaloc.",
+      "titles": [
+        "Blue Hummingbird",
+        "The Southern Warrior",
+        "Sun God"
+      ],
+      "domains": [
+        "Sun",
+        "War",
+        "Sacrifice",
+        "Willpower"
+      ],
+      "symbols": [
+        "Hummingbird",
+        "Xiuhcoatl (fire serpent)",
+        "Turquoise"
+      ],
+      "animals": [
+        "Eagle",
+        "Hummingbird",
+        "Jaguar"
+      ],
+      "correspondences": {
+        "Colors": ["Blue", "Turquoise", "Yellow"],
+        "Gemstones": ["Obsidian", "Turquoise", "Amber"],
+        "Plants": ["Prickly pear cactus", "Amaranth", "Dandelion"],
+        "Planet": ["Sun"],
+        "Element": ["Fire"],
+        "Metal": ["Gold"]
+      },
+      "relations": {
+        "parents": ["Coatlicue"],
+        "siblings": ["Coyolxauhqui", "Centzon Huitznahua"],
+        "myth_events": [
+          "Battle with Coyolxauhqui",
+          "Founding of Tenochtitlan"
+        ]
+      },
+      "ritual_practices": [
+        {
+          "name": "Sun Warrior Meditation",
+          "instructions": "Light a yellow candle at dawn while holding obsidian. Visualize overcoming obstacles with Huitzilopochtli's warrior energy."
+        }
+      ],
+      "modern_references": [
+        "Symbol of Mexican national identity",
+        "Featured in Day of the Dead iconography"
+      ]
     }
   },
   "Celtic": {

@@ -375,18 +375,18 @@
     },
 
     {
-        "HerbName": "Blue Lotus",
-        "Description": "The sacred Blue Lotus was revered by ancient Egyptians for its psychoactive properties and connection to the sun god Ra. Used in dream magic, aphrodisiac brews, and meditation to induce mild euphoria and vivid visions.",
-        "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nymphaea_caerulea_Flower.JPG/250px-Nymphaea_caerulea_Flower.JPG",
-        "AlsoCalled": ["Sacred Blue Lily", "Nymphaea caerulea"],
-        "Gender": "Feminine",
-        "Planet": "Sun",
-        "Sign": "Leo",
-        "Deities": ["Hathor", "Ra", "Nefertem"],
-        "Element": "Water",
-        "NativeTo": "Nile River, East Africa",
-        "Family": "Nymphaeaceae",
-        "Warning": "Legal in most countries but avoid combining with alcohol. Not for pregnant/nursing individuals."
+    "HerbName": "Blue Lotus",
+    "Description": "The sacred Blue Lotus was revered by ancient Egyptians for its psychoactive properties and connection to the sun god Ra. Used in dream magic, aphrodisiac brews, and meditation to induce mild euphoria and vivid visions.",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nymphaea_caerulea_Flower.JPG/250px-Nymphaea_caerulea_Flower.JPG",
+    "AlsoCalled": ["Sacred Blue Lily", "Nymphaea caerulea"],
+    "Gender": "Feminine",
+    "Planet": "Sun",
+    "Sign": "Leo",
+    "Deities": ["Hathor", "Ra", "Nefertem"],
+    "Element": "Water",
+    "NativeTo": "Nile River, East Africa",
+    "Family": "Nymphaeaceae",
+    "Warning": "Legal in most countries but avoid combining with alcohol. Not for pregnant/nursing individuals."
     },
 
     {
@@ -662,20 +662,35 @@
     },
 
     {
-        "HerbName": "Devil's Shoestring",
-        "Description": "A potent herb for protection and road-opening, named for its long, fibrous roots used to 'trip up' enemies. It clears obstacles to success (jobs, legal matters) and wards off hexes when carried in a red flannel bag.",
-        "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viburnum_opulus_C.jpg/220px-Viburnum_opulus_C.jpg",
-        "AlsoCalled": "Viburnum, Blackhaw",
-        "Gender": "Masculine",
-        "Planet": "Saturn",
-        "Sign": "Capricorn",
-        "Deities": "Papa Legba, Hermes, Heimdallr",
-        "Element": "Earth",
-        "NativeTo": "Eastern North America",
-        "Family": "Adoxaceae",
-        "Genus": "Viburnum",
-        "Species": "Viburnum spp.",
-        "Warning": "Do not ingest—roots are mildly toxic. Harvest ethically (slow-growing)."
+    "HerbName": "Dandelion",
+    "Description": "Dandelion is a solar herb of transformation and wish fulfillment. Its resilient nature symbolizes overcoming adversity, while its fluffy seed heads carry intentions to the wind. Used in divination and spirit communication.",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DandelionFlower.jpg/220px-DandelionFlower.jpg",
+    "AlsoCalled": "Lion's Tooth, Piss-a-bed, Taraxacum officinale",
+    "Gender": "Masculine",
+    "Planet": "Jupiter",
+    "Sign": "Sagittarius",
+    "Deities": "Hecate, Brigid, Huitzilopochtli",
+    "Element": "Air",
+    "NativeTo": "Eurasia (now worldwide)",
+    "Family": "Asteraceae",
+    "Warning": "May interact with diuretics. Avoid if allergic to ragweed."
+    },
+
+    {
+    "HerbName": "Devil's Shoestring",
+    "Description": "A potent herb for protection and road-opening, named for its long, fibrous roots used to 'trip up' enemies. It clears obstacles to success (jobs, legal matters) and wards off hexes when carried in a red flannel bag.",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Viburnum_opulus_C.jpg/220px-Viburnum_opulus_C.jpg",
+    "AlsoCalled": "Viburnum, Blackhaw",
+    "Gender": "Masculine",
+    "Planet": "Saturn",
+    "Sign": "Capricorn",
+    "Deities": "Papa Legba, Hermes, Heimdallr",
+    "Element": "Earth",
+    "NativeTo": "Eastern North America",
+    "Family": "Adoxaceae",
+    "Genus": "Viburnum",
+    "Species": "Viburnum spp.",
+    "Warning": "Do not ingest—roots are mildly toxic. Harvest ethically (slow-growing)."
     },
 
     {

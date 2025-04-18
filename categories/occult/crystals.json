@@ -24,6 +24,18 @@
         "other": "-Radioactive"
     },
     {
+        "crystalName": "Amber",
+        "properties": "Amber is fossilized tree resin that carries ancient earth wisdom. It absorbs negative energy while attracting good luck, and is particularly protective for children. Warm to the touch, it embodies preserved sunlight.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Amber2.jpg/250px-Amber2.jpg",
+        "attribute": "Protection, Purification, Time",
+        "element": "Fire",
+        "color": "Golden to orange-brown",
+        "habitat": "Baltic Sea region, Dominican Republic",
+        "tenacity": "Brittle",
+        "mohs": "2-2.5",
+        "other": "Often contains prehistoric plant/insect inclusions. Electrically charged when rubbed."
+    },
+    {
         "crystalName": "Amethyst",
         "properties": "Use as a source of comfort and spiritual strength. Amethyst is one of the best crystals to work with the Third-Eye, enhancing both intuition and physical vision on all planes of existence. Use for deep dream work or when you need to access long forgotten knowledge. Amethyst helps you achieve a higher state of consciousness and meditation. A stone to help you on your spiritual path and to awaken your psychic Intuition. More than any other crystal it will quiet the mind, allowing you to more easily make contact with spirit. Encourages selflessness and spiritual wisdom. It helps increase the energy of any stone it's used with. A very high spiritual energy stone. Amethyst activates spiritual awareness, opens intuition and enhances psychic abilities. A self-clearing stone it never needs to be cleansed. It can be used to clear other stones by laying them on the Amethyst. Healers use it today as it assists you to beat addictions, and this was also believed by the ancient Greeks. One of the most protective stones for psychic attacks if worn. Amethyst crystals are exceptional for providing spiritual protection.",
         "image": "https://loveandlightschool.com/wp-content/uploads/2017/04/invisible-amethyst-rough-point-1.png",
@@ -224,8 +236,7 @@
         "color": "Pale yellow to golden",
         "habitat": "Great Sand Sea (Egypt/Libya border)",
         "mohs": "5-6",
-        "uniqueTrait": "Contains rare silica minerals found only in meteorite impacts",
-        "historicalFact": "Used in King Tutankhamun's pectoral jewelry"
+        "other": "Used in King Tutankhamun's pectoral jewelry"
     },
     {
         "crystalName": "Malachite",
