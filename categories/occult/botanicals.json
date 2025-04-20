@@ -375,14 +375,31 @@
     },
 
     {
+    "HerbName": "Blackberry",
+    "Description": "A thorned plant of protection and abundance, whose berries darken like blood when ripe. The leaves heal physical wounds while the fruit nourishes spiritual growth. Sacred to death deities as the 'berry of ghosts'.",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ripe%2C_ripening%2C_and_green_blackberries.jpg/250px-Ripe%2C_ripening%2C_and_green_blackberries.jpg",
+    "AlsoCalled": "Bramble, Rubus fruticosus",
+    "Gender": "Feminine",
+    "Planet": "Venus",
+    "Sign": "Cancer",
+    "Deities": "Mictlantecuhtli, Hel, The Morrigan",
+    "Element": "Water",
+    "NativeTo": "Europe (now worldwide)",
+    "Family": "Rosaceae",
+    "Genus": "Rubus",
+    "Species": "Rubus allegheniensis",
+    "Warning": "Thorns cause physical wounds as the plant magically protects itself."
+    },
+
+    {
     "HerbName": "Blue Lotus",
     "Description": "The sacred Blue Lotus was revered by ancient Egyptians for its psychoactive properties and connection to the sun god Ra. Used in dream magic, aphrodisiac brews, and meditation to induce mild euphoria and vivid visions.",
     "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nymphaea_caerulea_Flower.JPG/250px-Nymphaea_caerulea_Flower.JPG",
-    "AlsoCalled": ["Sacred Blue Lily", "Nymphaea caerulea"],
+    "AlsoCalled": "Sacred Blue Lily, Nymphaea caerulea",
     "Gender": "Feminine",
     "Planet": "Sun",
     "Sign": "Leo",
-    "Deities": ["Hathor", "Ra", "Nefertem"],
+    "Deities": "Hathor, Ra, Nefertem",
     "Element": "Water",
     "NativeTo": "Nile River, East Africa",
     "Family": "Nymphaeaceae",

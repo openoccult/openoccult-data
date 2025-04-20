@@ -186,6 +186,55 @@
         "Symbol of Mexican national identity",
         "Featured in Day of the Dead iconography"
       ]
+    },
+    "Mictlantecuhtli": {
+      "name": "Mictlantecuhtli",
+      "pantheon": "Aztec",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mictlantecuhtli.svg/250px-Mictlantecuhtli.svg.png",
+        "alt": "Mictlantecuhtli as depicted in the Codex Borgia"
+      },
+      "description": "The skeletal Lord of Mictlan (the underworld) who presides over the realm of the dead. He and his wife Mictecacíhuatl govern the afterlife where most souls reside, demanding offerings of bones and blood.",
+      "history": "When Quetzalcoatl journeyed to Mictlan to retrieve bones for creating new humans, Mictlantecuhtli set impossible challenges, embodying death's inevitability. His name means 'Lord of Mictlan' in Nahuatl.",
+      "titles": [ "Bone Lord", "Master of the Dead", "The Flayed One" ],
+      "domains": [ "Death", "The Underworld", "Bones", "Owl Magic" ],
+      "symbols": [ "Skull mask", "Bone jewelry", "Blood-spattered clothing" ],
+      "animals": [ "Owl", "Spider", "Bat" ],
+      "correspondences": {
+        "Colors": ["Black", "White", "Blood-red"],
+        "Gemstones": [ "Obsidian", "Jet"],
+        "Plants": [ "Copal", "Marigold"],
+        "Planet": ["Pluto"],
+        "Element": ["Earth"],
+        "Metal": ["Lead"]
+      },
+      "relations": {
+        "parents": [],
+        "siblings": [],
+        "children": [],
+        "myth_events": [ "Quetzalcoatl's bone retrieval" ]
+      },
+      "attributes": [],
+      "myth_stories": [
+        {
+          "title": "The Trickster's Challenge",
+          "summary": "Mictlantecuhtli agreed to give Quetzalcoatl bones to create humanity, but only if the god could blow a conch shell without holes. Quetzalcoatl tricked him by having worms drill holes and bees make it sound."
+        }
+      ],
+      "modern_references": [],
+      "sacred_numbers": [],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [ "Mictlan" ],
+      "worship": {
+        "Temples": [],
+        "Festivals": [],
+        "Offerings": [ "Bones", "Bloodletting implements", "Paper banners" ]
+      }
     }
   },
   "Celtic": {

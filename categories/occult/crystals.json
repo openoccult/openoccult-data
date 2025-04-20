@@ -144,6 +144,18 @@
         "other": "Organic material"
     },
     {
+        "crystalName": "Diamond",
+        "properties": "The hardest natural substance on Earth, diamonds symbolize invincibility and eternal love. They amplify all energies (positive or negative), enhance clarity of thought, and represent the indestructible soul in esoteric traditions.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Diamond.jpg",
+        "attribute": "Amplification, Purity, Invincibility",
+        "element": "Storm (Earth + Air)",
+        "color": "Colorless (most common), also pink/blue/yellow",
+        "habitat": "Kimberlite pipes (ancient volcanic conduits)",
+        "tenacity": "Perfect cleavage",
+        "mohs": "10",
+        "other": "Formed under extreme pressure 100+ miles underground. The April birthstone."
+    },
+    {
         "crystalName": "Fluorite",
         "properties": " Fluorite is known for its ability to clear negative energy, support emotional healing, and enhance mental clarity. It is especially noted for its calming and protective effects, aiding in deep meditation and emotional balance. Each color of fluorite has its unique properties; for example, purple fluorite enhances psychic abilities, green promotes healing, and blue supports emotional well-being",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/3192M-fluorite1.jpg/260px-3192M-fluorite1.jpg",
