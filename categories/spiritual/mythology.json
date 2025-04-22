@@ -2049,6 +2049,65 @@
         "Offerings": [ "Spindles, flax, milk, and honey" ]
       }
     },
+    "Hel": {
+      "name": "Hel",
+      "pantheon": "Norse",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hel_%281889%29_by_Johannes_Gehrts.jpg/250px-Hel_%281889%29_by_Johannes_Gehrts.jpg",
+        "alt": "Hel (1889) by Johannes Gehrts, pictured here with her hound Garmr."
+      },
+      "description": "The half-living, half-corpse ruler of Helheim, the Norse underworld for those who die of sickness or old age. Daughter of Loki, she judges and hosts the dead in her vast hall called Éljúðnir.",
+      "history": "Odin cast Hel into the underworld after her birth, granting her dominion over nine realms of the dead. Her appearance reflects her domain - one side alive, the other side a rotting corpse.",
+      "titles": [ "Queen of Helheim", "The Half-Dead", "Receiver of Souls" ],
+      "domains": [ "Death", "Afterlife", "Fate", "Dark Magic" ],
+      "symbols": [ "Bone throne", "Dish called 'Hunger'", "Knife called 'Famine'" ],
+      "animals": [ "Black hound Garmr", "Raven", "Serpent" ],
+      "correspondences": {
+        "Colors": ["Black", "Pale Blue", "Mold-Green"],
+        "Gemstones": ["Serpentine", "Jet", "Black Onyx"],
+        "Plants": ["Tansy", "Yew", "Mugwort"],
+        "Planet": ["Moon"],
+        "Element": ["Earth"],
+        "Metal": ["Iron"]
+      },
+      "relations": {
+        "parents": ["Loki", "Angrboða"],
+        "siblings": ["Fenrir", "Jörmungandr"],
+        "children": [],
+        "myth_events": [
+          "Death of Baldr",
+          "Ragnarök prophecies"
+        ]
+      },
+      "attributes": [],
+      "myth_stories": [
+        {
+          "title": "The Death of Baldr",
+          "summary": "When Baldr was killed, Hermod rode to Helheim to beg for his release. Hel agreed only if all things in the Nine Worlds would weep for him - a condition sabotaged by Loki."
+        }
+      ],
+      "modern_references": [],
+      "sacred_numbers": [9],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [
+        "Helheim",
+        "Éljúðnir (her hall)"
+      ],
+      "worship": {
+        "Temples": [],
+        "Festivals": [],
+        "Offerings": [
+          "Black bread",
+          "Bones",
+          "Rusty nails"
+        ]
+      }
+    },
     "Loki": {
       "name": "Loki",
       "pantheon": "Norse",

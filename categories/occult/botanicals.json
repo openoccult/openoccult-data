@@ -1185,6 +1185,23 @@
     "Species": "Helianthus annuus",
     "Warning": null 
     },
+
+    {
+    "HerbName": "Tansy",
+    "Description": "A bitter herb of protection and longevity, historically used to preserve corpses and ward off evil spirits. Its golden button-like flowers symbolize the sun's power over decay.",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tanacetum_vulgare_-_harilik_soolikarohi_Keilas2.jpg/250px-Tanacetum_vulgare_-_harilik_soolikarohi_Keilas2.jpg",
+    "AlsoCalled": "Golden Buttons, Tanacetum vulgare",
+    "Gender": "Masculine",
+    "Planet": "Venus",
+    "Sign": "Leo",
+    "Deities": "Hel, Apollo, Freya",
+    "Element": "Fire",
+    "NativeTo": "Europe and Asia",
+    "Family": "Asteraceae",
+    "Genus": "Tanacetum",
+    "Species": "T. vulgare",
+    "Warning": "Toxic in large doses - causes liver damage. Avoid during pregnancy."
+    },
     
     {
     "HerbName": "Thyme",
