@@ -284,6 +284,59 @@
         "Festivals": ["Quecholli (hunting festival)"],
         "Offerings": [ "Tobacco smoke", "Bloodletting thorns", "Deer antlers" ]
       }
+    },
+    "Ometeotl": {
+      "name": "Ometeotl",
+      "pantheon": "Aztec",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tonacatecuhtli_standing.jpg/250px-Tonacatecuhtli_standing.jpg",
+        "alt": "Tonacateuchtli as depicted in the Codex Borgia"
+      },
+      "description": "The supreme dual god of creation, embodying both masculine (Ometecuhtli) and feminine (Omecihuatl) energies. As the primordial source of all existence, Ometeotl resides in Omeyocan, the highest heaven, beyond time and space.",
+      "history": "While rarely worshipped directly, Ometeotl was understood as the fundamental cosmic force that birthed the four Tezcatlipocas. The name means 'Two God' in Nahuatl, representing divine duality.",
+      "titles": [ "Lord/Lady of Duality", "The Self-Created", "Womb of the Cosmos" ],
+      "domains": [ "Creation", "Duality", "Cosmic Balance", "Primordial Energy" ],
+      "symbols": [ "Yin-yang like circle", "Double-headed serpent", "Empty throne" ],
+      "animals": [ "Butterfly (transformation)", "Quetzal (divine breath)" ],
+      "correspondences": {
+        "Colors": ["White", "Black", "Gold"],
+        "Gemstones": ["Diamond", "Herkimer Diamond"],
+        "Plants": ["Maize", "Cacao"],
+        "Planet": ["Pluto"],
+        "Element": ["Aether"],
+        "Metal": ["Platinum"]
+      },
+      "relations": {
+        "parents": [],
+        "siblings": [],
+        "children": ["Quetzalcoatl", "Tezcatlipoca", "Xipe Totec", "Huitzilopochtli"],
+        "myth_events": [
+          "Creation of the Four Tezcatlipocas"
+        ]
+      },
+      "attributes": [],
+      "myth_stories": [
+        {
+          "title": "The Birth of the Four Directions",
+          "summary": "From Ometeotl's womb emerged four manifestations of Tezcatlipoca, each representing a cardinal direction and cosmic force that would shape reality."
+        }
+      ],
+      "modern_references": [],
+      "sacred_numbers": [4],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [
+        "Omeyocan (13th Heaven)"
+      ],
+      "worship": {
+        "Temples": [],
+        "Festivals": [],
+        "Offerings": [ "White flowers", "Incense", "Golden ornaments" ]
+      }
     }
   },
   "Celtic": {
