@@ -235,6 +235,55 @@
         "Festivals": [],
         "Offerings": [ "Bones", "Bloodletting implements", "Paper banners" ]
       }
+    },
+    "Mixcoatl": {
+      "name": "Mixcoatl",
+      "pantheon": "Aztec",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mixcoatl_from_Codex_Borgia.jpg/250px-Mixcoatl_from_Codex_Borgia.jpg",
+        "alt": "Mixcoatl as depicted in the Codex Borgia"
+      },
+      "description": "The 'Cloud Serpent' god of hunting, stars, and the Milky Way. As a celestial hunter, he brought fire to humanity by striking the stars together. Patron of the Chichimeca people and father of Quetzalcoatl.",
+      "history": "Originally a nomadic hunting deity, Mixcoatl was adopted into the Aztec pantheon. His annual festival involved star-gazing and fire-making rituals. The Milky Way was seen as his celestial hunting ground.",
+      "titles": [ "Cloud Serpent", "The Red Hunter", "Starbringer" ],
+      "domains": [ "Hunting", "Stars", "Fire", "War" ],
+      "symbols": [ "Bow and arrows", "Red-and-white body paint", "Starry sky" ],
+      "animals": [ "Deer", "Eagle", "Jaguar" ],
+      "correspondences": {
+        "Colors": ["Red", "White", "Black"],
+        "Gemstones": ["Zircon (fiery starlight)", "Obsidian", "Pyrite"],
+        "Plants": ["Myrrh (sacred smoke)", "Tobacco", "Peyote"],
+        "Planet": ["Mars"],
+        "Element": ["Fire", "Air"],
+        "Metal": ["Copper"]
+      },
+      "relations": {
+        "parents": [],
+        "siblings": [],
+        "children": ["Quetzalcoatl", "Xochiquetzal"],
+        "myth_events": [ "Bringing fire to humanity", "Transformation into the Milky Way" ]
+      },
+      "attributes": [],
+      "myth_stories": [
+        {
+          "title": "The Celestial Hunt",
+          "summary": "Mixcoatl hunted the stars across the night sky, creating the Milky Way. His arrows became comets, and his fire-making ritual became the first sunrise."
+        }
+      ],
+      "modern_references": [],
+      "sacred_numbers": [400],
+      "ritual_practices": [
+        {
+          "name": "",
+          "instructions": ""
+        }
+      ],
+      "sacred_locations": [ "The Milky Way", "Mount Tlaloc" ],
+      "worship": {
+        "Temples": [],
+        "Festivals": ["Quecholli (hunting festival)"],
+        "Offerings": [ "Tobacco smoke", "Bloodletting thorns", "Deer antlers" ]
+      }
     }
   },
   "Celtic": {

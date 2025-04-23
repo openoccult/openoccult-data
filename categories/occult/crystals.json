@@ -405,5 +405,17 @@
         "tenacity": "Brittle",
         "mohs": "6-6.5",
         "other": "Exhibits adularescence (moon-like sheen)"
+    },
+    {
+        "crystalName": "Zircon",
+        "properties": "One of Earth's oldest minerals (over 4 billion years), zircon carries primordial earth energy. Its high refractive index creates fiery brilliance, making it sacred to sun gods. Enhances spiritual grounding while connecting to cosmic wisdom.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zircon-dtn1a.jpg/330px-Zircon-dtn1a.jpg",
+        "attribute": "Ancient Wisdom, Fiery Energy, Protection",
+        "element": "Fire",
+        "color": "Golden-brown (most common), also blue/red/green",
+        "habitat": "Igneous and metamorphic rocks worldwide",
+        "tenacity": "Brittle",
+        "mohs": "6.5-7.5",
+        "other": "Often confused with cubic zirconia (synthetic). December birthstone in its blue variety."
     }
 ]
