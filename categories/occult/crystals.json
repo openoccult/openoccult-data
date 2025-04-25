@@ -192,6 +192,18 @@
         "other": null
     },
     {
+        "crystalName": "Jet",
+        "properties": "A fossilized coal formed from ancient monkey puzzle trees, called 'Black Amber' for its electrostatic properties. The ultimate mourning stone, it protects against evil spirits while facilitating safe ancestral communication.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sample_of_jet_2013.JPG/250px-Sample_of_jet_2013.JPG",
+        "attribute": "Protection, Grief Work, Necromancy",
+        "element": "Earth",
+        "color": "Deep black (may show wood grain)",
+        "habitat": "Fossilized driftwood deposits (Whitby, England most famous)",
+        "tenacity": "Brittle",
+        "mohs": "2.5-4",
+        "other": "Warms to touch and produces static electricity when rubbed"
+    },
+    {
         "crystalName": "Kyanite",
         "properties": "Kyanite is a high-vibration stone known for its ability to enhance psychic abilities, communication, and logical thinking while promoting tranquility and dream recall. Unlike other crystals, it does not retain negative energy and never requires cleansing. Its unique blade-like structure symbolizes cutting through illusions and fostering truth.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kyanite_crystals.jpg/330px-Kyanite_crystals.jpg",
@@ -238,6 +250,18 @@
         "tenacity": "Brittle",
         "mohs": "4.5-5",
         "other": "Discovered in 1974; named after the discoverer's daughter 'Larissa' + Spanish 'mar' (sea)."
+    },
+    {
+        "crystalName": "Lepidolite",
+        "properties": "A lithium-rich mica that radiates calming violet energy, known as the 'Stone of Transition.' It alleviates anxiety, balances bipolar disorder, and helps release addictive patterns by stabilizing emotional extremes.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boromuscovite-Lepidolite-ch38a.jpg/330px-Boromuscovite-Lepidolite-ch38a.jpg",
+        "attribute": "Emotional Balance, Stress Relief, Addiction Recovery",
+        "element": "Water",
+        "color": "Lavender to pinkish-violet",
+        "habitat": "Granite pegmatites in Brazil, Russia, USA",
+        "tenacity": "Elastic in thin sheets",
+        "mohs": "2.5-3",
+        "other": "Contains up to 3.5% lithium - used in mood stabilizer medications"
     },
     {
         "crystalName": "Libyan Desert Glass",

@@ -1085,6 +1085,21 @@
     },
 
     {
+    "HerbName": "Nettle",
+    "Description": "A stinging herb of fierce protection and vitality. Its hollow hairs inject formic acid when touched, teaching respect for nature's boundaries. Rich in iron, it restores energy while magically returning harmful intentions to their sender.",
+    "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Urtica_dioica_%28Bl%C3%BCten%29.jpg/250px-Urtica_dioica_%28Bl%C3%BCten%29.jpg",
+    "AlsoCalled": "Urtica dioica, Devil's Leaf",
+    "Gender": "Masculine",
+    "Planet": "Mars",
+    "Sign": "Scorpio",
+    "Deities": "Thor, Cernunnos, Hecate",
+    "Element": "Fire",
+    "NativeTo": "Europe, Asia, North America",
+    "Family": "Urticaceae",
+    "Warning": "Stings cause temporary pain/rashes. Always harvest with gloves."
+    },
+
+    {
     "HerbName": "Orange",
     "Description": "Oranges symbolize success, growth, creativity, and joy. They are connected to the Sacral Chakra, enhancing creativity, emotions, and sexuality. They are often used in prosperity spells, aromatherapy, and rituals to bring positivity and abundance.",
     "Thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/300px-Oranges_-_whole-halved-segment.jpg",
