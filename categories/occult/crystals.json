@@ -120,6 +120,18 @@
         "other": "Discovered in the 1940s but only used widely since the 1970s. Rare outside Siberia."
     },
     {
+        "crystalName": "Chrysocolla",
+        "properties": "The 'Stone of Communication' with vibrant turquoise hues, chrysocolla empowers truthful expression while soothing emotional wounds. Its copper content links it to Venusian energy, making it ideal for harmonizing relationships and creative flow.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chrysocolla-230109.jpg/250px-Chrysocolla-230109.jpg",
+        "attribute": "Communication, Feminine Power, Emotional Healing",
+        "element": "Water",
+        "color": "Turquoise-blue with black/brown matrix",
+        "habitat": "Copper deposits in arid regions (SW USA, Chile, Israel)",
+        "tenacity": "Brittle to crumbly",
+        "mohs": "2.5-3.5",
+        "other": "Often found mixed with malachite/azurite. May contain toxic copper salts - wash hands after handling."
+    },
+    {
         "crystalName": "Citrine",
         "properties": "Citrine is a crystal that can’t help but inspire positivity and determination. Citrine also promotes the idea of growth. That’s growth of an individual, growth in a relationship, growth in financial abundance – anything you turn its powers towards.",
         "image": "https://loveandlightschool.com/wp-content/uploads/2018/07/invisible-citrine-dreamstime_xl_34474113-1.png",
@@ -333,6 +345,18 @@
         "tenacity": "Brittle",
         "mohs": "6-6.5",
         "other": "First mineral named after a person (Colonel Hendrik von Prehn, 1788)"
+    },
+    {
+        "crystalName": "Pietersite",
+        "properties": "Called the 'Tempest Stone' for its swirling storm-like patterns, this rare quartz variant channels chaotic energy into transformation. Its chatoyant fibers create lightning-like flashes, making it powerful for breaking stagnation and embracing change.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietersit_01.jpg/250px-Pietersit_01.jpg",
+        "attribute": "Storm Energy, Transformation, Psychic Protection",
+        "element": "Storm (Air + Fire)",
+        "color": "Blue-gold to red-brown with metallic sheen",
+        "habitat": "Only found in Namibia and China",
+        "tenacity": "Brittle",
+        "mohs": "6.5-7",
+        "other": "A type of tiger's eye breccia formed by ancient meteor impacts"
     },
     {
         "crystalName": "Pyrite",
