@@ -1257,6 +1257,101 @@
         "Offerings": [ "Keys", "Torches", "Food offerings at crossroads" ]
       }
     },
+    "Nyx": {
+      "name": "Nyx",
+      "pantheon": "Greek",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Altar_P%C3%A9rgamo_Moiras_15.JPG/120px-Altar_P%C3%A9rgamo_Moiras_15.JPG",
+        "alt": "A goddess, which some scholars have identified as Nyx, battles a Giant, Gigantomachy frieze, Pergamon Altar, 2nd century AD"
+      },
+      "description": "Nyx is the primordial goddess of night, one of the first beings to emerge from Chaos. She represents the personification of night and is associated with mystery, shadow, and the unseen.",
+      "history": "Nyx is among the oldest deities in Greek mythology, existing before the Olympians. She is a powerful and feared figure, even by Zeus, who avoids provoking her. In Hesiod’s *Theogony*, she is born from Chaos and gives rise to many other primordial deities and spirits.",
+      "titles": [
+        "Primordial Goddess of Night",
+        "Mother of Darkness",
+        "She Who Brings Shadows"
+      ],
+      "domains": [
+        "Night",
+        "Darkness",
+        "Mystery",
+        "Dreams",
+        "Death"
+      ],
+      "symbols": [
+        "Black wings",
+        "Veil of night",
+        "Stars and moon",
+        "Shadows"
+      ],
+      "animals": [
+        "Owls",
+        "Bats",
+        "Black horses"
+      ],
+      "correspondences": {
+        "Colors": ["Black", "Indigo", "Deep purple"],
+        "Gemstones": ["Onyx", "Black obsidian", "Lapis lazuli"],
+        "Plants": ["Night-blooming flowers (e.g., jasmine, moonflower)"],
+        "Planet": ["Moon (waning/dark moon)"],
+        "Element": ["Air", "Water"],
+        "Metal": ["Iron", "Blackened silver"]
+      },
+      "relations": {
+        "parents": ["Chaos"],
+        "siblings": ["Erebus"],
+        "children": [
+          "Hypnos",
+          "Thanatos",
+          "Moros",
+          "Nemesis",
+          "The Fates",
+          "The Keres",
+          "Eris",
+          "Oneiroi"
+        ],
+        "myth_events": [
+          "Nyx’s role in the *Theogony* as a primordial force",
+          "Zeus fearing Nyx’s power in the *Iliad*"
+        ]
+      },
+      "attributes": [
+        "Ancient and primordial",
+        "Mysterious and unknowable",
+        "Awe-inspiring and feared",
+        "Associated with prophecy and fate"
+      ],
+      "myth_stories": [
+        {
+          "title": "Nyx and Zeus",
+          "summary": "In Homer’s *Iliad*, Zeus himself fears angering Nyx, showing her immense power even among the Olympians."
+        },
+        {
+          "title": "Nyx’s Offspring",
+          "summary": "Nyx is the mother of many abstract and powerful beings, including Sleep (Hypnos), Death (Thanatos), and the Fates (Moirai), highlighting her role as a creator of fundamental cosmic forces."
+        }
+      ],
+      "modern_references": [
+        "Symbol of mystery and the subconscious in psychology",
+        "Inspiration in gothic and dark fantasy literature"
+      ],
+      "sacred_numbers": [2, 13],
+      "ritual_practices": [
+        {
+          "name": "Night Invocation",
+          "instructions": "Lighting black candles at midnight and calling upon Nyx for wisdom, protection, or insight into dreams."
+        }
+      ],
+      "sacred_locations": [
+        "The Underworld",
+        "Caves and deep forests"
+      ],
+      "worship": {
+        "Temples": [],
+        "Festivals": ["None recorded, but possibly honored during lunar eclipses or dark moon phases"],
+        "Offerings": ["Black candles", "Night-blooming flowers", "Dark wine"]
+      }
+    },
     "Persephone": {
       "name": "Persephone",
       "pantheon": "Greek",
